@@ -413,3 +413,10 @@ sites:
   category: Japanese Design Systems
   description: CyberAgent Ameba の Spindle デザインシステム。ブログ・メディア系の親しみやすい UI
   auto_update: true
+
+  - name: SPEEDA Falcon
+    folder: speeda
+    url: https://speeda.com
+    category: Japanese Design Systems
+    description: UZABASEのB2B経済情報プラットフォーム SPEEDA の Falcon デザインシステム。精密・グローバル対応の業務系UI
+    auto_update: false  # Figma から手動生成（サイト非公開）
