@@ -1,417 +1,415 @@
-# サイト情報管理ファイル
-# auto_update: false = 自動更新除外（bot ブロック等でタイムアウトするサイト）
-# 新しいサイトを追加する場合は末尾に追記してください
-
 sites:
-  # AI & Machine Learning
-  - name: Claude
-    folder: claude
-    url: https://claude.ai
-    category: AI & Machine Learning
-    description: Anthropic's AI assistant. Warm terracotta accent, clean editorial layout
-    auto_update: false  # bot ブロックでタイムアウト
-
-  - name: Cohere
-    folder: cohere
-    url: https://cohere.com
-    category: AI & Machine Learning
-    description: Enterprise AI platform. Vibrant gradients, data-rich dashboard aesthetic
-    auto_update: true
-
-  - name: ElevenLabs
-    folder: elevenlabs
-    url: https://elevenlabs.io
-    category: AI & Machine Learning
-    description: AI voice platform. Dark cinematic UI, audio-waveform aesthetics
-    auto_update: true
-
-  - name: Minimax
-    folder: minimax
-    url: https://www.minimaxi.com
-    category: AI & Machine Learning
-    description: AI model provider. Bold dark interface with neon accents
-    auto_update: true
-
-  - name: Mistral AI
-    folder: mistral.ai
-    url: https://mistral.ai
-    category: AI & Machine Learning
-    description: Open-weight LLM provider. French-engineered minimalism, purple-toned
-    auto_update: true
-
-  - name: Ollama
-    folder: ollama
-    url: https://ollama.com
-    category: AI & Machine Learning
-    description: Run LLMs locally. Terminal-first, monochrome simplicity
-    auto_update: true
-
-  - name: OpenCode AI
-    folder: opencode.ai
-    url: https://opencode.ai
-    category: AI & Machine Learning
-    description: AI coding platform. Developer-centric dark theme
-    auto_update: true
-
-  - name: Replicate
-    folder: replicate
-    url: https://replicate.com
-    category: AI & Machine Learning
-    description: Run ML models via API. Clean white canvas, code-forward
-    auto_update: true
-
-  - name: RunwayML
-    folder: runwayml
-    url: https://runwayml.com
-    category: AI & Machine Learning
-    description: AI video generation. Cinematic dark UI, media-rich layout
-    auto_update: true
-
-  - name: Together AI
-    folder: together.ai
-    url: https://together.ai
-    category: AI & Machine Learning
-    description: Open-source AI infrastructure. Technical, blueprint-style design
-    auto_update: true
-
-  - name: VoltAgent
-    folder: voltagent
-    url: https://voltagent.dev
-    category: AI & Machine Learning
-    description: AI agent framework. Void-black canvas, emerald accent, terminal-native
-    auto_update: true
-
-  - name: xAI
-    folder: x.ai
-    url: https://x.ai
-    category: AI & Machine Learning
-    description: Elon Musk's AI lab. Stark monochrome, futuristic minimalism
-    auto_update: true
-
-  # Developer Tools & Platforms
-  - name: Cursor
-    folder: cursor
-    url: https://cursor.com
-    category: Developer Tools & Platforms
-    description: AI-first code editor. Sleek dark interface, gradient accents
-    auto_update: true
-
-  - name: Expo
-    folder: expo
-    url: https://expo.dev
-    category: Developer Tools & Platforms
-    description: React Native platform. Dark theme, tight letter-spacing, code-centric
-    auto_update: true
-
-  - name: Linear
-    folder: linear.app
-    url: https://linear.app
-    category: Developer Tools & Platforms
-    description: Project management for engineers. Ultra-minimal, precise, purple accent
-    auto_update: true
-
-  - name: Lovable
-    folder: lovable
-    url: https://lovable.dev
-    category: Developer Tools & Platforms
-    description: AI full-stack builder. Playful gradients, friendly dev aesthetic
-    auto_update: true
-
-  - name: Mintlify
-    folder: mintlify
-    url: https://mintlify.com
-    category: Developer Tools & Platforms
-    description: Documentation platform. Clean, green-accented, reading-optimized
-    auto_update: true
-
-  - name: PostHog
-    folder: posthog
-    url: https://posthog.com
-    category: Developer Tools & Platforms
-    description: Product analytics. Playful hedgehog branding, developer-friendly dark UI
-    auto_update: true
-
-  - name: Raycast
-    folder: raycast
-    url: https://raycast.com
-    category: Developer Tools & Platforms
-    description: Productivity launcher. Sleek dark chrome, vibrant gradient accents
-    auto_update: true
-
-  - name: Resend
-    folder: resend
-    url: https://resend.com
-    category: Developer Tools & Platforms
-    description: Email API for developers. Minimal dark theme, monospace accents
-    auto_update: true
-
-  - name: Sentry
-    folder: sentry
-    url: https://sentry.io
-    category: Developer Tools & Platforms
-    description: Error monitoring. Dark dashboard, data-dense, pink-purple accent
-    auto_update: true
-
-  - name: Supabase
-    folder: supabase
-    url: https://supabase.com
-    category: Developer Tools & Platforms
-    description: Open-source Firebase alternative. Dark emerald theme, code-first
-    auto_update: true
-
-  - name: Superhuman
-    folder: superhuman
-    url: https://superhuman.com
-    category: Developer Tools & Platforms
-    description: Fast email client. Premium dark UI, keyboard-first, purple glow
-    auto_update: true
-
-  - name: Vercel
-    folder: vercel
-    url: https://vercel.com
-    category: Developer Tools & Platforms
-    description: Frontend deployment platform. Black and white precision, Geist font
-    auto_update: true
-
-  - name: Warp
-    folder: warp
-    url: https://warp.dev
-    category: Developer Tools & Platforms
-    description: Modern terminal. Dark IDE-like interface, block-based command UI
-    auto_update: true
-
-  - name: Zapier
-    folder: zapier
-    url: https://zapier.com
-    category: Developer Tools & Platforms
-    description: Automation platform. Warm orange, friendly illustration-driven
-    auto_update: true
-
-  # Infrastructure & Cloud
-  - name: ClickHouse
-    folder: clickhouse
-    url: https://clickhouse.com
-    category: Infrastructure & Cloud
-    description: Fast analytics database. Yellow-accented, technical documentation style
-    auto_update: true
-
-  - name: Composio
-    folder: composio
-    url: https://composio.dev
-    category: Infrastructure & Cloud
-    description: Tool integration platform. Modern dark with colorful integration icons
-    auto_update: true
-
-  - name: HashiCorp
-    folder: hashicorp
-    url: https://hashicorp.com
-    category: Infrastructure & Cloud
-    description: Infrastructure automation. Enterprise-clean, black and white
-    auto_update: true
-
-  - name: MongoDB
-    folder: mongodb
-    url: https://mongodb.com
-    category: Infrastructure & Cloud
-    description: Document database. Green leaf branding, developer documentation focus
-    auto_update: true
-
-  - name: Sanity
-    folder: sanity
-    url: https://sanity.io
-    category: Infrastructure & Cloud
-    description: Headless CMS. Red accent, content-first editorial layout
-    auto_update: true
-
-  - name: Stripe
-    folder: stripe
-    url: https://stripe.com
-    category: Infrastructure & Cloud
-    description: Payment infrastructure. Signature purple gradients, weight-300 elegance
-    auto_update: false  # bot ブロックでタイムアウト
-
-  # Design & Productivity
-  - name: Airtable
-    folder: airtable
-    url: https://airtable.com
-    category: Design & Productivity
-    description: Spreadsheet-database hybrid. Colorful, friendly, structured data aesthetic
-    auto_update: true
-
-  - name: Cal.com
-    folder: cal
-    url: https://cal.com
-    category: Design & Productivity
-    description: Open-source scheduling. Clean neutral UI, developer-oriented simplicity
-    auto_update: true
-
-  - name: Clay
-    folder: clay
-    url: https://clay.com
-    category: Design & Productivity
-    description: Creative agency. Organic shapes, soft gradients, art-directed layout
-    auto_update: true
-
-  - name: Figma
-    folder: figma
-    url: https://figma.com
-    category: Design & Productivity
-    description: Collaborative design tool. Vibrant multi-color, playful yet professional
-    auto_update: false  # bot ブロックでタイムアウト
-
-  - name: Framer
-    folder: framer
-    url: https://framer.com
-    category: Design & Productivity
-    description: Website builder. Bold black and blue, motion-first, design-forward
-    auto_update: true
-
-  - name: Intercom
-    folder: intercom
-    url: https://intercom.com
-    category: Design & Productivity
-    description: Customer messaging. Friendly blue palette, conversational UI patterns
-    auto_update: true
-
-  - name: Miro
-    folder: miro
-    url: https://miro.com
-    category: Design & Productivity
-    description: Visual collaboration. Bright yellow accent, infinite canvas aesthetic
-    auto_update: true
-
-  - name: Notion
-    folder: notion
-    url: https://notion.so
-    category: Design & Productivity
-    description: All-in-one workspace. Warm minimalism, serif headings, soft surfaces
-    auto_update: false  # bot ブロックでタイムアウト
-
-  - name: Pinterest
-    folder: pinterest
-    url: https://pinterest.com
-    category: Design & Productivity
-    description: Visual discovery platform. Red accent, masonry grid, image-first
-    auto_update: true
-
-  - name: Webflow
-    folder: webflow
-    url: https://webflow.com
-    category: Design & Productivity
-    description: Visual web builder. Blue-accented, polished marketing site aesthetic
-    auto_update: true
-
-  # Fintech & Crypto
-  - name: Coinbase
-    folder: coinbase
-    url: https://coinbase.com
-    category: Fintech & Crypto
-    description: Crypto exchange. Clean blue identity, trust-focused, institutional feel
-    auto_update: true
-
-  - name: Kraken
-    folder: kraken
-    url: https://kraken.com
-    category: Fintech & Crypto
-    description: Crypto trading platform. Purple-accented dark UI, data-dense dashboards
-    auto_update: true
-
-  - name: Revolut
-    folder: revolut
-    url: https://revolut.com
-    category: Fintech & Crypto
-    description: Digital banking. Sleek dark interface, gradient cards, fintech precision
-    auto_update: true
-
-  - name: Wise
-    folder: wise
-    url: https://wise.com
-    category: Fintech & Crypto
-    description: International money transfer. Bright green accent, friendly and clear
-    auto_update: true
-
-  # Enterprise & Consumer
-  - name: Airbnb
-    folder: airbnb
-    url: https://airbnb.com
-    category: Enterprise & Consumer
-    description: Travel marketplace. Warm coral accent, photography-driven, rounded UI
-    auto_update: true
-
-  - name: Apple
-    folder: apple
-    url: https://apple.com
-    category: Enterprise & Consumer
-    description: Consumer electronics. Premium white space, SF Pro, cinematic imagery
-    auto_update: true
-
-  - name: IBM
-    folder: ibm
-    url: https://ibm.com
-    category: Enterprise & Consumer
-    description: Enterprise technology. Carbon design system, structured blue palette
-    auto_update: true
-
-  - name: NVIDIA
-    folder: nvidia
-    url: https://nvidia.com
-    category: Enterprise & Consumer
-    description: GPU computing. Green-black energy, technical power aesthetic
-    auto_update: true
-
-  - name: SpaceX
-    folder: spacex
-    url: https://spacex.com
-    category: Enterprise & Consumer
-    description: Space technology. Stark black and white, full-bleed imagery, futuristic
-    auto_update: true
-
-  - name: Spotify
-    folder: spotify
-    url: https://spotify.com
-    category: Enterprise & Consumer
-    description: Music streaming. Vibrant green on dark, bold type, album-art-driven
-    auto_update: true
-
-  - name: Uber
-    folder: uber
-    url: https://uber.com
-    category: Enterprise & Consumer
-    description: Mobility platform. Bold black and white, tight type, urban energy
-    auto_update: true
-
-  # Car Brands
-  - name: BMW
-    folder: bmw
-    url: https://bmw.com
-    category: Car Brands
-    description: Luxury automotive. Dark premium surfaces, precise German engineering aesthetic
-    auto_update: true
-
-  - name: Ferrari
-    folder: ferrari
-    url: https://ferrari.com
-    category: Car Brands
-    description: Luxury automotive. Chiaroscuro black-white editorial, Ferrari Red with extreme sparseness
-    auto_update: true
-
-  - name: Lamborghini
-    folder: lamborghini
-    url: https://lamborghini.com
-    category: Car Brands
-    description: Luxury automotive. True black cathedral, gold accent, LamboType custom Neo-Grotesk
-    auto_update: true
-
-  - name: Renault
-    folder: renault
-    url: https://renault.com
-    category: Car Brands
-    description: French automotive. Vivid aurora gradients, NouvelR proprietary typeface, zero-radius buttons
-    auto_update: true
-
-  - name: Tesla
-    folder: tesla
-    url: https://tesla.com
-    category: Car Brands
-    description: Electric vehicles. Radical subtraction, cinematic full-viewport photography, Universal Sans
-    auto_update: true
+- name: Claude
+  folder: claude
+  url: https://claude.ai
+  category: AI & Machine Learning
+  description: Anthropic's AI assistant. Warm terracotta accent, clean editorial layout
+  auto_update: false
+- name: Cohere
+  folder: cohere
+  url: https://cohere.com
+  category: AI & Machine Learning
+  description: Enterprise AI platform. Vibrant gradients, data-rich dashboard aesthetic
+  auto_update: true
+- name: ElevenLabs
+  folder: elevenlabs
+  url: https://elevenlabs.io
+  category: AI & Machine Learning
+  description: AI voice platform. Dark cinematic UI, audio-waveform aesthetics
+  auto_update: true
+- name: Minimax
+  folder: minimax
+  url: https://www.minimaxi.com
+  category: AI & Machine Learning
+  description: AI model provider. Bold dark interface with neon accents
+  auto_update: true
+- name: Mistral AI
+  folder: mistral.ai
+  url: https://mistral.ai
+  category: AI & Machine Learning
+  description: Open-weight LLM provider. French-engineered minimalism, purple-toned
+  auto_update: true
+- name: Ollama
+  folder: ollama
+  url: https://ollama.com
+  category: AI & Machine Learning
+  description: Run LLMs locally. Terminal-first, monochrome simplicity
+  auto_update: true
+- name: OpenCode AI
+  folder: opencode.ai
+  url: https://opencode.ai
+  category: AI & Machine Learning
+  description: AI coding platform. Developer-centric dark theme
+  auto_update: true
+- name: Replicate
+  folder: replicate
+  url: https://replicate.com
+  category: AI & Machine Learning
+  description: Run ML models via API. Clean white canvas, code-forward
+  auto_update: true
+- name: RunwayML
+  folder: runwayml
+  url: https://runwayml.com
+  category: AI & Machine Learning
+  description: AI video generation. Cinematic dark UI, media-rich layout
+  auto_update: true
+- name: Together AI
+  folder: together.ai
+  url: https://together.ai
+  category: AI & Machine Learning
+  description: Open-source AI infrastructure. Technical, blueprint-style design
+  auto_update: true
+- name: VoltAgent
+  folder: voltagent
+  url: https://voltagent.dev
+  category: AI & Machine Learning
+  description: AI agent framework. Void-black canvas, emerald accent, terminal-native
+  auto_update: true
+- name: xAI
+  folder: x.ai
+  url: https://x.ai
+  category: AI & Machine Learning
+  description: Elon Musk's AI lab. Stark monochrome, futuristic minimalism
+  auto_update: true
+- name: Cursor
+  folder: cursor
+  url: https://cursor.com
+  category: Developer Tools & Platforms
+  description: AI-first code editor. Sleek dark interface, gradient accents
+  auto_update: true
+- name: Expo
+  folder: expo
+  url: https://expo.dev
+  category: Developer Tools & Platforms
+  description: React Native platform. Dark theme, tight letter-spacing, code-centric
+  auto_update: true
+- name: Linear
+  folder: linear.app
+  url: https://linear.app
+  category: Developer Tools & Platforms
+  description: Project management for engineers. Ultra-minimal, precise, purple accent
+  auto_update: true
+- name: Lovable
+  folder: lovable
+  url: https://lovable.dev
+  category: Developer Tools & Platforms
+  description: AI full-stack builder. Playful gradients, friendly dev aesthetic
+  auto_update: true
+- name: Mintlify
+  folder: mintlify
+  url: https://mintlify.com
+  category: Developer Tools & Platforms
+  description: Documentation platform. Clean, green-accented, reading-optimized
+  auto_update: true
+- name: PostHog
+  folder: posthog
+  url: https://posthog.com
+  category: Developer Tools & Platforms
+  description: Product analytics. Playful hedgehog branding, developer-friendly dark UI
+  auto_update: true
+- name: Raycast
+  folder: raycast
+  url: https://raycast.com
+  category: Developer Tools & Platforms
+  description: Productivity launcher. Sleek dark chrome, vibrant gradient accents
+  auto_update: true
+- name: Resend
+  folder: resend
+  url: https://resend.com
+  category: Developer Tools & Platforms
+  description: Email API for developers. Minimal dark theme, monospace accents
+  auto_update: true
+- name: Sentry
+  folder: sentry
+  url: https://sentry.io
+  category: Developer Tools & Platforms
+  description: Error monitoring. Dark dashboard, data-dense, pink-purple accent
+  auto_update: true
+- name: Supabase
+  folder: supabase
+  url: https://supabase.com
+  category: Developer Tools & Platforms
+  description: Open-source Firebase alternative. Dark emerald theme, code-first
+  auto_update: true
+- name: Superhuman
+  folder: superhuman
+  url: https://superhuman.com
+  category: Developer Tools & Platforms
+  description: Fast email client. Premium dark UI, keyboard-first, purple glow
+  auto_update: true
+- name: Vercel
+  folder: vercel
+  url: https://vercel.com
+  category: Developer Tools & Platforms
+  description: Frontend deployment platform. Black and white precision, Geist font
+  auto_update: true
+- name: Warp
+  folder: warp
+  url: https://warp.dev
+  category: Developer Tools & Platforms
+  description: Modern terminal. Dark IDE-like interface, block-based command UI
+  auto_update: true
+- name: Zapier
+  folder: zapier
+  url: https://zapier.com
+  category: Developer Tools & Platforms
+  description: Automation platform. Warm orange, friendly illustration-driven
+  auto_update: true
+- name: ClickHouse
+  folder: clickhouse
+  url: https://clickhouse.com
+  category: Infrastructure & Cloud
+  description: Fast analytics database. Yellow-accented, technical documentation style
+  auto_update: true
+- name: Composio
+  folder: composio
+  url: https://composio.dev
+  category: Infrastructure & Cloud
+  description: Tool integration platform. Modern dark with colorful integration icons
+  auto_update: true
+- name: HashiCorp
+  folder: hashicorp
+  url: https://hashicorp.com
+  category: Infrastructure & Cloud
+  description: Infrastructure automation. Enterprise-clean, black and white
+  auto_update: true
+- name: MongoDB
+  folder: mongodb
+  url: https://mongodb.com
+  category: Infrastructure & Cloud
+  description: Document database. Green leaf branding, developer documentation focus
+  auto_update: true
+- name: Sanity
+  folder: sanity
+  url: https://sanity.io
+  category: Infrastructure & Cloud
+  description: Headless CMS. Red accent, content-first editorial layout
+  auto_update: true
+- name: Stripe
+  folder: stripe
+  url: https://stripe.com
+  category: Infrastructure & Cloud
+  description: Payment infrastructure. Signature purple gradients, weight-300 elegance
+  auto_update: false
+- name: Airtable
+  folder: airtable
+  url: https://airtable.com
+  category: Design & Productivity
+  description: Spreadsheet-database hybrid. Colorful, friendly, structured data aesthetic
+  auto_update: true
+- name: Cal.com
+  folder: cal
+  url: https://cal.com
+  category: Design & Productivity
+  description: Open-source scheduling. Clean neutral UI, developer-oriented simplicity
+  auto_update: true
+- name: Clay
+  folder: clay
+  url: https://clay.com
+  category: Design & Productivity
+  description: Creative agency. Organic shapes, soft gradients, art-directed layout
+  auto_update: true
+- name: Figma
+  folder: figma
+  url: https://figma.com
+  category: Design & Productivity
+  description: Collaborative design tool. Vibrant multi-color, playful yet professional
+  auto_update: false
+- name: Framer
+  folder: framer
+  url: https://framer.com
+  category: Design & Productivity
+  description: Website builder. Bold black and blue, motion-first, design-forward
+  auto_update: true
+- name: Intercom
+  folder: intercom
+  url: https://intercom.com
+  category: Design & Productivity
+  description: Customer messaging. Friendly blue palette, conversational UI patterns
+  auto_update: true
+- name: Miro
+  folder: miro
+  url: https://miro.com
+  category: Design & Productivity
+  description: Visual collaboration. Bright yellow accent, infinite canvas aesthetic
+  auto_update: true
+- name: Notion
+  folder: notion
+  url: https://notion.so
+  category: Design & Productivity
+  description: All-in-one workspace. Warm minimalism, serif headings, soft surfaces
+  auto_update: false
+- name: Pinterest
+  folder: pinterest
+  url: https://pinterest.com
+  category: Design & Productivity
+  description: Visual discovery platform. Red accent, masonry grid, image-first
+  auto_update: true
+- name: Webflow
+  folder: webflow
+  url: https://webflow.com
+  category: Design & Productivity
+  description: Visual web builder. Blue-accented, polished marketing site aesthetic
+  auto_update: true
+- name: Coinbase
+  folder: coinbase
+  url: https://coinbase.com
+  category: Fintech & Crypto
+  description: Crypto exchange. Clean blue identity, trust-focused, institutional feel
+  auto_update: true
+- name: Kraken
+  folder: kraken
+  url: https://kraken.com
+  category: Fintech & Crypto
+  description: Crypto trading platform. Purple-accented dark UI, data-dense dashboards
+  auto_update: true
+- name: Revolut
+  folder: revolut
+  url: https://revolut.com
+  category: Fintech & Crypto
+  description: Digital banking. Sleek dark interface, gradient cards, fintech precision
+  auto_update: true
+- name: Wise
+  folder: wise
+  url: https://wise.com
+  category: Fintech & Crypto
+  description: International money transfer. Bright green accent, friendly and clear
+  auto_update: true
+- name: Airbnb
+  folder: airbnb
+  url: https://airbnb.com
+  category: Enterprise & Consumer
+  description: Travel marketplace. Warm coral accent, photography-driven, rounded UI
+  auto_update: true
+- name: Apple
+  folder: apple
+  url: https://apple.com
+  category: Enterprise & Consumer
+  description: Consumer electronics. Premium white space, SF Pro, cinematic imagery
+  auto_update: true
+- name: IBM
+  folder: ibm
+  url: https://ibm.com
+  category: Enterprise & Consumer
+  description: Enterprise technology. Carbon design system, structured blue palette
+  auto_update: true
+- name: NVIDIA
+  folder: nvidia
+  url: https://nvidia.com
+  category: Enterprise & Consumer
+  description: GPU computing. Green-black energy, technical power aesthetic
+  auto_update: true
+- name: SpaceX
+  folder: spacex
+  url: https://spacex.com
+  category: Enterprise & Consumer
+  description: Space technology. Stark black and white, full-bleed imagery, futuristic
+  auto_update: true
+- name: Spotify
+  folder: spotify
+  url: https://spotify.com
+  category: Enterprise & Consumer
+  description: Music streaming. Vibrant green on dark, bold type, album-art-driven
+  auto_update: true
+- name: Uber
+  folder: uber
+  url: https://uber.com
+  category: Enterprise & Consumer
+  description: Mobility platform. Bold black and white, tight type, urban energy
+  auto_update: true
+- name: BMW
+  folder: bmw
+  url: https://bmw.com
+  category: Car Brands
+  description: Luxury automotive. Dark premium surfaces, precise German engineering aesthetic
+  auto_update: true
+- name: Ferrari
+  folder: ferrari
+  url: https://ferrari.com
+  category: Car Brands
+  description: Luxury automotive. Chiaroscuro black-white editorial, Ferrari Red with extreme sparseness
+  auto_update: true
+- name: Lamborghini
+  folder: lamborghini
+  url: https://lamborghini.com
+  category: Car Brands
+  description: Luxury automotive. True black cathedral, gold accent, LamboType custom Neo-Grotesk
+  auto_update: true
+- name: Renault
+  folder: renault
+  url: https://renault.com
+  category: Car Brands
+  description: French automotive. Vivid aurora gradients, NouvelR proprietary typeface, zero-radius buttons
+  auto_update: true
+- name: Tesla
+  folder: tesla
+  url: https://tesla.com
+  category: Car Brands
+  description: Electric vehicles. Radical subtraction, cinematic full-viewport photography, Universal Sans
+  auto_update: true
+- name: Wantedly
+  folder: wantedly
+  url: https://www.wantedly.com
+  category: Japanese Design Systems
+  description: 日本のビジネス SNS。Wantedly UI Components をベースにしたデザインシステム
+  auto_update: true
+- name: SPEEDA
+  folder: speeda
+  url: https://speeda.com
+  category: Japanese Design Systems
+  description: 経済情報プラットフォーム。Falcon デザインシステムを採用
+  auto_update: true
+- name: Sansan One Design
+  folder: sansan-one-design
+  url: https://ui.one-design-system.sansan.com
+  category: Japanese Design Systems
+  description: Sansan の One Design System。清潔感のある業務系 UI
+  auto_update: true
+- name: Goodpatch Sparkle
+  folder: goodpatch-sparkle
+  url: https://sparkle-design.goodpatch.com/sparkle-design
+  category: Japanese Design Systems
+  description: Goodpatch の Sparkle デザインシステム。デザイン会社らしい洗練された UI
+  auto_update: true
+- name: Serendie
+  folder: serendie
+  url: https://serendie.design
+  category: Japanese Design Systems
+  description: Sony のデザインシステム Serendie。グローバル品質の日本発デザイン
+  auto_update: true
+- name: Raksul Kamii
+  folder: raksul-kamii
+  url: https://zeroheight.com/731d8c745/p/018df4-kamii--raksul-design-system
+  category: Japanese Design Systems
+  description: ラクスルのデザインシステム Kamii。印刷・物流サービスの業務系 UI
+  auto_update: false
+- name: Pepabo Design
+  folder: pepabo
+  url: https://design.pepabo.com
+  category: Japanese Design Systems
+  description: GMO ペパボのデザインガイドライン。親しみやすくフレンドリーな UI
+  auto_update: true
+- name: Ubie Vitals
+  folder: ubie-vitals
+  url: https://vitals.ubie.life
+  category: Japanese Design Systems
+  description: Ubie のデザインシステム Vitals。医療系サービスの信頼感ある UI
+  auto_update: true
+- name: Digital Agency Design
+  folder: digital-agency
+  url: https://design.digital.go.jp/dads/
+  category: Japanese Design Systems
+  description: デジタル庁のデザインシステム DADS。行政向けのアクセシブルな UI
+  auto_update: true
+- name: SmartHR Design
+  folder: smarthr
+  url: https://smarthr.design
+  category: Japanese Design Systems
+  description: SmartHR のデザインシステム。HR SaaS らしいシンプルで機能的な UI
+  auto_update: true
+- name: Ameba Spindle
+  folder: ameba-spindle
+  url: https://spindle.ameba.design
+  category: Japanese Design Systems
+  description: CyberAgent Ameba の Spindle デザインシステム。ブログ・メディア系の親しみやすい UI
+  auto_update: true
