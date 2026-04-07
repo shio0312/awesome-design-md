@@ -16,7 +16,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-58-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-70-10b981?style=classic)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-design-md?label=Last%20update&style=classic)](https://github.com/VoltAgent/awesome-design-md)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
@@ -203,6 +203,20 @@ See [USAGE.md](USAGE.md) for detailed instructions.
 - [**Lamborghini**](https://github.com/VoltAgent/awesome-design-md/tree/main/design-md/lamborghini/) - Luxury automotive. True black cathedral, gold accent, LamboType custom Neo-Grotesk
 - [**Renault**](https://github.com/VoltAgent/awesome-design-md/tree/main/design-md/renault/) - French automotive. Vivid aurora gradients, NouvelR proprietary typeface, zero-radius buttons
 - [**Tesla**](https://github.com/VoltAgent/awesome-design-md/tree/main/design-md/tesla/) - Electric vehicles. Radical subtraction, cinematic full-viewport photography, Universal Sans
+
+### Japanese Design Systems
+
+- [**Ameba Spindle**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/ameba-spindle/) - CyberAgent Ameba's design system. Friendly media UI, warm approachable aesthetic
+- [**Digital Agency (DADS)**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/digital-agency/) - Japan Digital Agency design system. Accessible, structured government UI
+- [**Goodpatch Sparkle**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/goodpatch-sparkle/) - Goodpatch's design system. Refined and polished, design-agency quality
+- [**Pepabo Design**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/pepabo/) - GMO Pepabo's design guidelines. Friendly, creator-focused aesthetic
+- [**Raksul Kamii**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/raksul-kamii/) - Raksul's design system. Clean business UI for print and logistics services
+- [**Sansan One Design**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/sansan-one-design/) - Sansan's One Design System. Clean and functional enterprise UI
+- [**Serendie**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/serendie/) - Sony's design system. Global-quality, precision-engineered components
+- [**SmartHR Design**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/smarthr/) - SmartHR's design system. Simple and functional HR SaaS UI
+- [**SPEEDA Falcon**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/speeda/) - UZABASE's B2B economic intelligence platform. Precise, data-dense, global-ready UI
+- [**Ubie Vitals**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/ubie-vitals/) - Ubie's design system. Trustworthy medical-grade UI, accessible and calm
+- [**Wantedly**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/wantedly/) - Wantedly's UI components. Professional yet approachable, Japanese business SNS aesthetic
 
 
 
