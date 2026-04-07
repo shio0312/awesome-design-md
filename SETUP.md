@@ -66,6 +66,19 @@ awesome-design-md/
 
 ---
 
+## 参考サイトを新しく追加したいとき
+
+Claude Code に以下のように伝えるだけでOKです：
+
+> 「〇〇（URL）を参考サイトとして追加して」
+
+Claude が以下を自動でやります：
+1. `sites.yaml` に追記
+2. `suggest_design.py` で DESIGN.md を生成
+3. GitHub に push
+
+---
+
 ## 自動更新から外しているサイト
 
 以下は bot ブロックでタイムアウトするため手動更新対象：
