@@ -1,1 +1,23 @@
 .DS_Store
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Playwright
+.playwright/
+auto_update.log
+launchd.log
+*.log

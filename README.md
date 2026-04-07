@@ -69,9 +69,53 @@ Each site includes:
 
 ### How to Use
 
+#### Option 1: Use Existing DESIGN.md
 
 1. Copy a site's `DESIGN.md` into your project root
 2. Tell your AI agent to use it.
+
+#### Option 2: Generate Your Own DESIGN.md 🆕
+
+Use our **automated DESIGN.md generator** to create design system documentation for any website:
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+playwright install chromium
+
+# Set up your Anthropic API key
+cp .env.example .env
+# Edit .env and add your API key
+
+# Run the interactive generator
+python suggest_design.py
+```
+
+The tool will:
+- Fetch and analyze any website's design
+- Extract colors, typography, components, and layout patterns
+- Generate a complete DESIGN.md using Claude AI
+- Save it to `design-md/[site-name]/DESIGN.md`
+- Automatically add the site to `sites.yaml` for future updates
+
+#### Option 3: Update Existing DESIGN.md 🆕
+
+Keep your DESIGN.md files up-to-date when websites change their design:
+
+**Manual update:**
+```bash
+python update_design.py
+```
+
+Select sites to update interactively, or update all sites at once.
+
+**Automatic updates (GitHub Actions):**
+- Weekly automated checks for design changes
+- Auto-generates PRs when changes detected
+- Set `ANTHROPIC_API_KEY` in GitHub Secrets
+- Configure which sites to auto-update in `sites.yaml`
+
+See [USAGE.md](USAGE.md) for detailed instructions.
 
 
 ## Request a DESIGN.md

@@ -1,0 +1,94 @@
+# サイト情報管理ファイル
+# 各サイトのURL、カテゴリ、説明を一元管理
+#
+# 初期データの生成方法:
+#   pip install pyyaml
+#   python generate_sites_yaml.py
+#
+# フィールド説明:
+#   name: サイト名（表示用）
+#   folder: design-md/以下のフォルダ名
+#   url: サイトのURL（更新時にアクセスする）
+#   category: カテゴリ（AI & Machine Learning など）
+#   description: 簡単な説明
+#   auto_update: 自動更新対象かどうか（true/false）
+
+sites:
+  # AI & Machine Learning
+  - name: Claude
+    folder: claude
+    url: https://claude.ai
+    category: AI & Machine Learning
+    description: Anthropic's AI assistant. Warm terracotta accent, clean editorial layout
+    auto_update: false  # タイムアウト頻発のため手動更新
+
+  - name: Cohere
+    folder: cohere
+    url: https://cohere.com
+    category: AI & Machine Learning
+    description: Enterprise AI platform. Vibrant gradients, data-rich dashboard aesthetic
+    auto_update: true
+
+  - name: OpenCode AI
+    folder: opencode.ai
+    url: https://opencode.ai
+    category: AI & Machine Learning
+    description: AI coding platform. Developer-centric dark theme
+    auto_update: true
+
+  # Developer Tools & Platforms
+  - name: Cursor
+    folder: cursor
+    url: https://cursor.com
+    category: Developer Tools & Platforms
+    description: AI-first code editor. Sleek dark interface, gradient accents
+    auto_update: true
+
+  - name: Linear
+    folder: linear.app
+    url: https://linear.app
+    category: Developer Tools & Platforms
+    description: Project management for engineers. Ultra-minimal, precise, purple accent
+    auto_update: true
+
+  - name: Vercel
+    folder: vercel
+    url: https://vercel.com
+    category: Developer Tools & Platforms
+    description: Frontend deployment platform. Black and white precision, Geist font
+    auto_update: true
+
+  - name: Supabase
+    folder: supabase
+    url: https://supabase.com
+    category: Developer Tools & Platforms
+    description: Open-source Firebase alternative. Dark emerald theme, code-first
+    auto_update: true
+
+  # Design & Productivity
+  - name: Figma
+    folder: figma
+    url: https://figma.com
+    category: Design & Productivity
+    description: Collaborative design tool. Vibrant multi-color, playful yet professional
+    auto_update: false  # タイムアウト頻発のため手動更新
+
+  - name: Notion
+    folder: notion
+    url: https://notion.so
+    category: Design & Productivity
+    description: All-in-one workspace. Warm minimalism, serif headings, soft surfaces
+    auto_update: false  # タイムアウト頻発のため手動更新
+
+  # Infrastructure & Cloud
+  - name: Stripe
+    folder: stripe
+    url: https://stripe.com
+    category: Infrastructure & Cloud
+    description: Payment infrastructure. Signature purple gradients, weight-300 elegance
+    auto_update: false  # タイムアウト頻発のため手動更新
+
+# 注意:
+# - 上記はサンプルデータです
+# - 全サイトを追加するには generate_sites_yaml.py を実行してください
+# - URLは各サイトの正確なURLに手動で修正が必要な場合があります

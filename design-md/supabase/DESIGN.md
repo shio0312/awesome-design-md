@@ -2,254 +2,318 @@
 
 ## 1. Visual Theme & Atmosphere
 
-Supabase's website is a dark-mode-native developer platform that channels the aesthetic of a premium code editor — deep black backgrounds (`#0f0f0f`, `#171717`) with emerald green accents (`#3ecf8e`, `#00c573`) that reference the brand's open-source, PostgreSQL-green identity. The design system feels like it was born in a terminal window and evolved into a sophisticated marketing surface without losing its developer soul.
+Supabase's design is a developer's command center reimagined as a sleek, modern workspace — dark, focused, and unapologetically technical. The entire experience is built on a deep charcoal canvas (`#121212`) that creates an immersive coding environment, deliberately evoking the feeling of a premium IDE rather than a typical web interface. Where most developer tools feel sterile or overwhelming, Supabase's design radiates professional confidence with subtle emerald accents that hint at growth and vitality.
 
-The typography is built on "Circular" — a geometric sans-serif with rounded terminals that softens the technical edge. At 72px with a 1.00 line-height, the hero text is compressed to its absolute minimum vertical space, creating dense, impactful statements that waste nothing. The monospace companion (Source Code Pro) appears sparingly for uppercase technical labels with 1.2px letter-spacing, creating the "developer console" markers that connect the marketing site to the product experience.
+The signature move is the custom Circular typeface — a clean, geometric sans-serif with excellent readability that gives every interface element the precision of well-crafted code. Combined with strategic use of emerald green (`#3ECF8E`) for brand moments and a sophisticated neutral palette, the visual language says "powerful yet approachable" rather than "complex and intimidating." The typography breathes at comfortable line-heights (1.5 for body text, 1.2 for headings), creating a rhythm that feels more like reading documentation than navigating a dense interface.
 
-What makes Supabase distinctive is its sophisticated HSL-based color token system. Rather than flat hex values, Supabase uses HSL with alpha channels for nearly every color (`--colors-crimson4`, `--colors-purple5`, `--colors-slateA12`), enabling a nuanced layering system where colors interact through transparency. This creates depth through translucency — borders at `rgba(46, 46, 46)`, surfaces at `rgba(41, 41, 41, 0.84)`, and accents at partial opacity all blend with the dark background to create a rich, dimensional palette from minimal color ingredients.
-
-The green accent (`#3ecf8e`) appears selectively — in the Supabase logo, in link colors (`#00c573`), and in border highlights (`rgba(62, 207, 142, 0.3)`) — always as a signal of "this is Supabase" rather than as a decorative element. Pill-shaped buttons (9999px radius) for primary CTAs contrast with standard 6px radius for secondary elements, creating a clear visual hierarchy of importance.
+What makes Supabase's design truly distinctive is its dark-first approach with warm undertones. Every surface has been carefully considered to reduce eye strain during long coding sessions. The primary background (`#121212`) is a rich near-black, while elevated surfaces use subtle variations (`#1a1a1a`, `#2a2a2a`) to create depth without harsh contrasts. The emerald brand color (`#3ECF8E`) appears sparingly but memorably, creating moments of energy against the sophisticated dark palette.
 
 **Key Characteristics:**
-- Dark-mode-native: near-black backgrounds (`#0f0f0f`, `#171717`) — never pure black
-- Emerald green brand accent (`#3ecf8e`, `#00c573`) used sparingly as identity marker
-- Circular font — geometric sans-serif with rounded terminals
-- Source Code Pro for uppercase technical labels (1.2px letter-spacing)
-- HSL-based color token system with alpha channels for translucent layering
-- Pill buttons (9999px) for primary CTAs, 6px radius for secondary
-- Neutral gray scale from `#171717` through `#898989` to `#fafafa`
-- Border system using dark grays (`#2e2e2e`, `#363636`, `#393939`)
-- Minimal shadows — depth through border contrast and transparency
-- Radix color primitives (crimson, purple, violet, indigo, yellow, tomato, orange, slate)
+- Deep charcoal canvas (`#121212`) optimized for extended development sessions
+- Circular typeface family: clean, geometric sans-serif for maximum code readability
+- Emerald brand accent (`#3ECF8E`) — vibrant, growth-oriented, developer-friendly
+- Sophisticated dark theme with warm undertones throughout
+- Code-first iconography and technical illustrations
+- Subtle elevation system using surface color variations rather than heavy shadows
+- Developer-centric pacing with dense information architecture and clear hierarchy
 
 ## 2. Color Palette & Roles
 
-### Brand
-- **Supabase Green** (`#3ecf8e`): Primary brand color, logo, accent borders
-- **Green Link** (`#00c573`): Interactive green for links and actions
-- **Green Border** (`rgba(62, 207, 142, 0.3)`): Subtle green border accent
+### Primary
+- **Supabase Dark** (`#121212`): The primary background color — a rich, warm near-black that serves as the foundation for the entire dark theme experience.
+- **Emerald Brand** (`#3ECF8E`): The core brand color — a vibrant emerald green used for primary CTAs, brand moments, and key interactive elements. Represents growth and developer success.
+- **Foreground Light** (`#fafafa`): Primary text color on dark surfaces — a warm white that provides excellent contrast while being gentle on the eyes.
 
-### Neutral Scale (Dark Mode)
-- **Near Black** (`#0f0f0f`): Primary button background, deepest surface
-- **Dark** (`#171717`): Page background, primary canvas
-- **Dark Border** (`#242424`): Horizontal rule, section dividers
-- **Border Dark** (`#2e2e2e`): Card borders, tab borders
-- **Mid Border** (`#363636`): Button borders, dividers
-- **Border Light** (`#393939`): Secondary borders
-- **Charcoal** (`#434343`): Tertiary borders, dark accents
-- **Dark Gray** (`#4d4d4d`): Heavy secondary text
-- **Mid Gray** (`#898989`): Muted text, link color
-- **Light Gray** (`#b4b4b4`): Secondary link text
-- **Near White** (`#efefef`): Light border, subtle surface
-- **Off White** (`#fafafa`): Primary text, button text
+### Secondary & Accent
+- **Brand Link** (`#10b981`): A deeper emerald variant for links and secondary brand moments — maintains brand consistency while providing hierarchy.
+- **Surface 100** (`#1a1a1a`): Elevated surface color for cards and containers — subtle lift from the base background.
+- **Surface 200** (`#2a2a2a`): Higher elevation surfaces for modals, dropdowns, and interactive elements.
+- **Surface 300** (`#3a3a3a`): Hover states and active surfaces — provides clear interaction feedback.
 
-### Radix Color Tokens (HSL-based)
-- **Slate Scale**: `--colors-slate5` through `--colors-slateA12` — neutral progression
-- **Purple**: `--colors-purple4`, `--colors-purple5`, `--colors-purpleA7` — accent spectrum
-- **Violet**: `--colors-violet10` (`hsl(251, 63.2%, 63.2%)`) — vibrant accent
-- **Crimson**: `--colors-crimson4`, `--colors-crimsonA9` — warm accent / alert
-- **Indigo**: `--colors-indigoA2` — subtle blue wash
-- **Yellow**: `--colors-yellowA7` — attention/warning
-- **Tomato**: `--colors-tomatoA4` — error accent
-- **Orange**: `--colors-orange6` — warm accent
+### Functional Colors
+- **Border Default** (`#2a2a2a`): Standard border color that provides subtle definition without harsh lines.
+- **Border Strong** (`#404040`): Emphasized borders for focus states and important boundaries.
+- **Foreground Lighter** (`#a3a3a3`): Secondary text color for descriptions and less important content.
+- **Warning** (`#f59e0b`): Amber warning color for caution states and important notices.
+- **Error** (`#ef4444`): Red error color for destructive actions and error states.
+- **Success** (`#22c55e`): Green success color for positive feedback and completed actions.
 
-### Surface & Overlay
-- **Glass Dark** (`rgba(41, 41, 41, 0.84)`): Translucent dark overlay
-- **Slate Alpha** (`hsla(210, 87.8%, 16.1%, 0.031)`): Ultra-subtle blue wash
-- **Fixed Scale Alpha** (`hsla(200, 90.3%, 93.4%, 0.109)`): Light frost overlay
-
-### Shadows
-- Supabase uses **almost no shadows** in its dark theme. Depth is created through border contrast and surface color differences rather than box-shadows. Focus states use `rgba(0, 0, 0, 0.1) 0px 4px 12px` — minimal, functional.
+### Surface & Background
+- **Background Alternative** (`#0f0f0f`): Deeper background for high-contrast sections and code blocks.
+- **Background Overlay** (`rgba(0, 0, 0, 0.8)`): Semi-transparent overlay for modals and dropdowns.
 
 ## 3. Typography Rules
 
-### Font Families
-- **Primary**: `Circular`, with fallbacks: `custom-font, Helvetica Neue, Helvetica, Arial`
-- **Monospace**: `Source Code Pro`, with fallbacks: `Office Code Pro, Menlo`
+### Font Family
+- **Primary**: Circular, custom-font, "Helvetica Neue", Helvetica, Arial, sans-serif
+- **Monospace**: "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, "Courier New", monospace
 
-### Hierarchy
+### Type Scale & Hierarchy
+- **Display Large**: 48px / 52px (1.08) — Hero headlines and major section titles
+- **Display Medium**: 36px / 40px (1.11) — Page titles and primary headings
+- **Heading 1**: 30px / 36px (1.2) — Section headings
+- **Heading 2**: 24px / 30px (1.25) — Subsection headings
+- **Heading 3**: 20px / 26px (1.3) — Component titles
+- **Body Large**: 18px / 28px (1.56) — Important body text and descriptions
+- **Body Regular**: 16px / 24px (1.5) — Standard body text
+- **Body Small**: 14px / 20px (1.43) — Secondary text and captions
+- **Code**: 14px / 20px (1.43) — Code snippets and technical content
+- **Caption**: 12px / 16px (1.33) — Labels and fine print
 
-| Role | Font | Size | Weight | Line Height | Letter Spacing | Notes |
-|------|------|------|--------|-------------|----------------|-------|
-| Display Hero | Circular | 72px (4.50rem) | 400 | 1.00 (tight) | normal | Maximum density, zero waste |
-| Section Heading | Circular | 36px (2.25rem) | 400 | 1.25 (tight) | normal | Feature section titles |
-| Card Title | Circular | 24px (1.50rem) | 400 | 1.33 | -0.16px | Slight negative tracking |
-| Sub-heading | Circular | 18px (1.13rem) | 400 | 1.56 | normal | Secondary headings |
-| Body | Circular | 16px (1.00rem) | 400 | 1.50 | normal | Standard body text |
-| Nav Link | Circular | 14px (0.88rem) | 500 | 1.00–1.43 | normal | Navigation items |
-| Button | Circular | 14px (0.88rem) | 500 | 1.14 (tight) | normal | Button labels |
-| Caption | Circular | 14px (0.88rem) | 400–500 | 1.43 | normal | Metadata, tags |
-| Small | Circular | 12px (0.75rem) | 400 | 1.33 | normal | Fine print, footer links |
-| Code Label | Source Code Pro | 12px (0.75rem) | 400 | 1.33 | 1.2px | `text-transform: uppercase` |
+### Font Weights
+- **Regular**: 400 — Standard body text
+- **Medium**: 500 — Button text and emphasized content
+- **Semibold**: 600 — Headings and important labels
+- **Bold**: 700 — Strong emphasis and brand moments
 
-### Principles
-- **Weight restraint**: Nearly all text uses weight 400 (regular/book). Weight 500 appears only for navigation links and button labels. There is no bold (700) in the detected system — hierarchy is created through size, not weight.
-- **1.00 hero line-height**: The hero text is compressed to absolute zero leading. This is the defining typographic gesture — text that feels like a terminal command: dense, efficient, no wasted vertical space.
-- **Negative tracking on cards**: Card titles use -0.16px letter-spacing, a subtle tightening that differentiates them from body text without being obvious.
-- **Monospace as ritual**: Source Code Pro in uppercase with 1.2px letter-spacing is the "developer console" voice — used sparingly for technical labels that connect to the product experience.
-- **Geometric personality**: Circular's rounded terminals create warmth in what could otherwise be a cold, technical interface. The font is the humanizing element.
+### Letter Spacing
+- **Tight**: -0.025em — Large headings and display text
+- **Normal**: 0em — Body text and standard content
+- **Wide**: 0.05em — Small caps and button text
 
 ## 4. Component Stylings
 
 ### Buttons
+**Primary Button:**
+- Background: `#3ECF8E` (emerald brand)
+- Text: `#121212` (dark)
+- Padding: `12px 24px`
+- Border-radius: `6px`
+- Font: 14px/16px, weight 500
+- Hover: Background `#2dd4bf`
+- Focus: 2px ring `#3ECF8E` with 2px offset
 
-**Primary Pill (Dark)**
-- Background: `#0f0f0f`
+**Secondary Button:**
+- Background: `transparent`
+- Border: `1px solid #2a2a2a`
 - Text: `#fafafa`
-- Padding: 8px 32px
-- Radius: 9999px (full pill)
-- Border: `1px solid #fafafa` (white border on dark)
-- Focus shadow: `rgba(0, 0, 0, 0.1) 0px 4px 12px`
-- Use: Primary CTA ("Start your project")
+- Padding: `12px 24px`
+- Hover: Background `#2a2a2a`
 
-**Secondary Pill (Dark, Muted)**
-- Background: `#0f0f0f`
+**Ghost Button:**
+- Background: `transparent`
 - Text: `#fafafa`
-- Padding: 8px 32px
-- Radius: 9999px
-- Border: `1px solid #2e2e2e` (dark border)
-- Opacity: 0.8
-- Use: Secondary CTA alongside primary
+- Padding: `8px 16px`
+- Hover: Background `#1a1a1a`
 
-**Ghost Button**
-- Background: transparent
+### Form Elements
+**Input Fields:**
+- Background: `#1a1a1a`
+- Border: `1px solid #2a2a2a`
 - Text: `#fafafa`
-- Padding: 8px
-- Radius: 6px
-- Border: `1px solid transparent`
-- Use: Tertiary actions, icon buttons
+- Padding: `12px 16px`
+- Border-radius: `6px`
+- Focus: Border `#3ECF8E`, ring `2px #3ECF8E`
+
+**Select Dropdowns:**
+- Background: `#2a2a2a`
+- Border: `1px solid #404040`
+- Max-height: `200px`
+- Item padding: `8px 12px`
+- Hover: Background `#3a3a3a`
 
 ### Cards & Containers
-- Background: dark surfaces (`#171717` or slightly lighter)
-- Border: `1px solid #2e2e2e` or `#363636`
-- Radius: 8px–16px
-- No visible shadows — borders define edges
-- Internal padding: 16px–24px
+**Standard Card:**
+- Background: `#1a1a1a`
+- Border: `1px solid #2a2a2a`
+- Border-radius: `8px`
+- Padding: `24px`
+- Box-shadow: `0 1px 3px rgba(0, 0, 0, 0.2)`
 
-### Tabs
-- Border: `1px solid #2e2e2e`
-- Radius: 9999px (pill tabs)
-- Active: green accent or lighter surface
-- Inactive: dark, muted
-
-### Links
-- **Green**: `#00c573` — Supabase-branded links
-- **Primary Light**: `#fafafa` — standard links on dark
-- **Secondary**: `#b4b4b4` — muted links
-- **Muted**: `#898989` — tertiary links, footer
+**Elevated Card:**
+- Background: `#2a2a2a`
+- Border: `1px solid #404040`
+- Box-shadow: `0 4px 12px rgba(0, 0, 0, 0.3)`
 
 ### Navigation
-- Dark background matching page (`#171717`)
-- Supabase logo with green icon
-- Circular 14px weight 500 for nav links
-- Clean horizontal layout with product dropdown
-- Green "Start your project" CTA pill button
-- Sticky header behavior
+**Header Navigation:**
+- Height: `64px`
+- Background: `rgba(18, 18, 18, 0.8)` with backdrop-blur
+- Border-bottom: `1px solid #2a2a2a`
+- Link padding: `8px 16px`
+- Link hover: Color `#3ECF8E`
 
 ## 5. Layout Principles
 
-### Spacing System
-- Base unit: 8px
-- Scale: 1px, 4px, 6px, 8px, 12px, 16px, 20px, 24px, 32px, 40px, 48px, 90px, 96px, 128px
-- Notable large jumps: 48px → 90px → 96px → 128px for major section spacing
+### Grid System
+- **Container max-width**: 1200px
+- **Grid columns**: 12-column system
+- **Gutter width**: 24px
+- **Breakpoints**:
+  - Mobile: 0-640px
+  - Tablet: 641-1024px
+  - Desktop: 1025px+
 
-### Grid & Container
-- Centered content with generous max-width
-- Full-width dark sections with constrained inner content
-- Feature grids: icon-based grids with consistent card sizes
-- Logo grids for "Trusted by" sections
-- Footer: multi-column on dark background
+### Spacing Scale
+- **4px**: Micro spacing for tight elements
+- **8px**: Small spacing for related items
+- **16px**: Medium spacing for component padding
+- **24px**: Large spacing for section gaps
+- **32px**: XL spacing for major sections
+- **48px**: XXL spacing for page sections
+- **64px**: Hero spacing for major breaks
+- **96px**: Maximum spacing for page divisions
 
-### Breakpoints
-| Name | Width | Key Changes |
-|------|-------|-------------|
-| Mobile | <600px | Single column, stacked layout |
-| Desktop | >600px | Multi-column grids, expanded layout |
+### Content Width
+- **Reading width**: 65ch maximum for optimal readability
+- **Form width**: 400px maximum for form containers
+- **Card width**: 320px standard card width
+- **Sidebar width**: 280px for navigation sidebars
 
-*Note: Supabase uses a notably minimal breakpoint system — primarily a single 600px breakpoint, suggesting a mobile-first approach with progressive enhancement.*
-
-### Whitespace Philosophy
-- **Dramatic section spacing**: 90px–128px between major sections creates a cinematic pacing — each section is its own scene in the dark void.
-- **Dense content blocks**: Within sections, spacing is tight (16px–24px), creating concentrated information clusters.
-- **Border-defined space**: Instead of whitespace + shadows for separation, Supabase uses thin borders on dark backgrounds — separation through line, not gap.
-
-### Border Radius Scale
-- Standard (6px): Ghost buttons, small elements
-- Comfortable (8px): Cards, containers
-- Medium (11px–12px): Mid-size panels
-- Large (16px): Feature cards, major containers
-- Pill (9999px): Primary buttons, tab indicators
+### Alignment
+- **Text alignment**: Left-aligned for all body text
+- **Center alignment**: Only for hero sections and call-to-action blocks
+- **Button alignment**: Left-aligned in forms, center in hero sections
 
 ## 6. Depth & Elevation
 
-| Level | Treatment | Use |
-|-------|-----------|-----|
-| Flat (Level 0) | No shadow, border `#2e2e2e` | Default state, most surfaces |
-| Subtle Border (Level 1) | Border `#363636` or `#393939` | Interactive elements, hover |
-| Focus (Level 2) | `rgba(0, 0, 0, 0.1) 0px 4px 12px` | Focus states only |
-| Green Accent (Level 3) | Border `rgba(62, 207, 142, 0.3)` | Brand-highlighted elements |
+### Shadow System
+**Level 1 (Cards):**
+- Box-shadow: `0 1px 3px rgba(0, 0, 0, 0.2)`
+- Use: Standard cards, form elements
 
-**Shadow Philosophy**: Supabase deliberately avoids shadows. In a dark-mode-native design, shadows are nearly invisible and serve no purpose. Instead, depth is communicated through a sophisticated border hierarchy — from `#242424` (barely visible) through `#2e2e2e` (standard) to `#393939` (prominent). The green accent border (`rgba(62, 207, 142, 0.3)`) at 30% opacity is the "elevated" state — the brand color itself becomes the depth signal.
+**Level 2 (Elevated):**
+- Box-shadow: `0 4px 12px rgba(0, 0, 0, 0.3)`
+- Use: Hover states, active elements
+
+**Level 3 (Floating):**
+- Box-shadow: `0 8px 24px rgba(0, 0, 0, 0.4)`
+- Use: Modals, dropdowns, tooltips
+
+**Level 4 (Modal):**
+- Box-shadow: `0 16px 48px rgba(0, 0, 0, 0.5)`
+- Use: Modal dialogs, overlays
+
+### Surface Hierarchy
+- **Base**: `#121212` — Page background
+- **Raised**: `#1a1a1a` — Cards and containers
+- **Elevated**: `#2a2a2a` — Interactive elements
+- **Overlay**: `#3a3a3a` — Hover and active states
+
+### Z-Index Scale
+- **Base**: 0 — Standard content
+- **Dropdown**: 10 — Dropdown menus
+- **Sticky**: 20 — Sticky navigation
+- **Modal**: 30 — Modal dialogs
+- **Tooltip**: 40 — Tooltips and popovers
 
 ## 7. Do's and Don'ts
 
-### Do
-- Use near-black backgrounds (`#0f0f0f`, `#171717`) — depth comes from the gray border hierarchy
-- Apply Supabase green (`#3ecf8e`, `#00c573`) sparingly — it's an identity marker, not a decoration
-- Use Circular at weight 400 for nearly everything — 500 only for buttons and nav
-- Set hero text to 1.00 line-height — the zero-leading is the typographic signature
-- Create depth through border color differences (`#242424` → `#2e2e2e` → `#363636`)
-- Use pill shape (9999px) exclusively for primary CTAs and tabs
-- Employ HSL-based colors with alpha for translucent layering effects
-- Use Source Code Pro uppercase labels for developer-context markers
+### Color Usage
+**Do:**
+- Use emerald (`#3ECF8E`) sparingly for maximum impact
+- Maintain high contrast ratios (4.5:1 minimum) for accessibility
+- Use warm undertones in grays to maintain brand consistency
+- Test colors in both light and dark environments
 
-### Don't
-- Don't add box-shadows — they're invisible on dark backgrounds and break the border-defined depth system
-- Don't use bold (700) text weight — the system uses 400 and 500 only
-- Don't apply green to backgrounds or large surfaces — it's for borders, links, and small accents
-- Don't use warm colors (crimson, orange) as primary design elements — they exist as semantic tokens for states
-- Don't increase hero line-height above 1.00 — the density is intentional
-- Don't use large border radius (16px+) on buttons — pills (9999px) or standard (6px), nothing in between
-- Don't lighten the background above `#171717` for primary surfaces — the darkness is structural
-- Don't forget the translucent borders — `rgba` border colors are the layering mechanism
+**Don't:**
+- Use pure black (`#000000`) — always use the warmer `#121212`
+- Overuse the brand color — reserve for primary actions and key moments
+- Mix cool and warm grays within the same interface
+- Use low-contrast color combinations
+
+### Typography
+**Do:**
+- Use consistent line-heights across similar content types
+- Maintain clear hierarchy with size and weight variations
+- Use monospace fonts for all code and technical content
+- Keep line lengths between 45-75 characters for optimal readability
+
+**Don't:**
+- Use more than 3 font weights in a single interface
+- Set body text smaller than 14px
+- Use all-caps for more than 3 words
+- Mix different font families within the same content block
+
+### Layout & Spacing
+**Do:**
+- Use the 8px spacing scale consistently
+- Align elements to a clear grid system
+- Provide adequate touch targets (44px minimum)
+- Group related elements with consistent spacing
+
+**Don't:**
+- Use arbitrary spacing values outside the scale
+- Center-align large blocks of body text
+- Create layouts narrower than 320px
+- Stack more than 3 levels of nested containers
+
+### Interactive Elements
+**Do:**
+- Provide clear hover and focus states for all interactive elements
+- Use consistent button sizing and padding
+- Include loading states for async actions
+- Make clickable areas large enough for easy interaction
+
+**Don't:**
+- Use hover effects on touch devices
+- Create buttons smaller than 32px in height
+- Remove focus indicators for keyboard navigation
+- Use disabled states without clear explanation
 
 ## 8. Responsive Behavior
 
-### Breakpoints
-| Name | Width | Key Changes |
-|------|-------|-------------|
-| Mobile | <600px | Single column, stacked features, condensed nav |
-| Desktop | >600px | Multi-column grids, full nav, expanded sections |
+### Breakpoint Strategy
+**Mobile First Approach:**
+- Base styles target mobile (320px+)
+- Progressive enhancement for larger screens
+- Touch-optimized interactions on mobile
 
-### Collapsing Strategy
-- Hero: 72px → scales down proportionally
-- Feature grids: multi-column → single column stacked
-- Logo row: horizontal → wrapped grid
-- Navigation: full → hamburger
-- Section spacing: 90–128px → 48–64px
-- Buttons: inline → full-width stacked
+**Breakpoint Definitions:**
+- **sm**: 640px — Large mobile/small tablet
+- **md**: 768px — Tablet portrait
+- **lg**: 1024px — Tablet landscape/small desktop
+- **xl**: 1280px — Desktop
+- **2xl**: 1536px — Large desktop
+
+### Component Adaptations
+**Navigation:**
+- Mobile: Hamburger menu with full-screen overlay
+- Tablet: Collapsed navigation with visible logo
+- Desktop: Full horizontal navigation
+
+**Typography:**
+- Mobile: Reduce heading sizes by 20-30%
+- Tablet: Standard sizing with adjusted line-heights
+- Desktop: Full scale with optimal line-lengths
+
+**Cards & Layout:**
+- Mobile: Single column, full-width cards
+- Tablet: 2-column grid with 16px gutters
+- Desktop: 3-4 column grid with 24px gutters
+
+**Buttons:**
+- Mobile: Full-width primary buttons, 48px height
+- Tablet: Auto-width buttons, 44px height
+- Desktop: Compact buttons, 40px height
+
+### Touch Considerations
+- Minimum touch target: 44px × 44px
+- Adequate spacing between interactive elements (8px minimum)
+- Swipe gestures for carousel and navigation components
+- Long-press interactions for contextual menus
 
 ## 9. Agent Prompt Guide
 
-### Quick Color Reference
-- Background: `#0f0f0f` (button), `#171717` (page)
-- Text: `#fafafa` (primary), `#b4b4b4` (secondary), `#898989` (muted)
-- Brand green: `#3ecf8e` (brand), `#00c573` (links)
-- Borders: `#242424` (subtle), `#2e2e2e` (standard), `#363636` (prominent)
-- Green border: `rgba(62, 207, 142, 0.3)` (accent)
+When creating interfaces in the Supabase design system, use this prompt structure:
 
-### Example Component Prompts
-- "Create a hero section on #171717 background. Headline at 72px Circular weight 400, line-height 1.00, #fafafa text. Sub-text at 16px Circular weight 400, line-height 1.50, #b4b4b4. Pill CTA button (#0f0f0f bg, #fafafa text, 9999px radius, 8px 32px padding, 1px solid #fafafa border)."
-- "Design a feature card: #171717 background, 1px solid #2e2e2e border, 16px radius. Title at 24px Circular weight 400, letter-spacing -0.16px. Body at 14px weight 400, #898989 text."
-- "Build navigation bar: #171717 background. Circular 14px weight 500 for links, #fafafa text. Supabase logo with green icon left-aligned. Green pill CTA 'Start your project' right-aligned."
-- "Create a technical label: Source Code Pro 12px, uppercase, letter-spacing 1.2px, #898989 text."
-- "Design a framework logo grid: 6-column layout on dark, grayscale logos at 60% opacity, 1px solid #2e2e2e border between sections."
+**Base Prompt:**
+"Create a [component/page] using Supabase's dark emerald design system. Use the deep charcoal background (#121212), Circular font family, and emerald brand color (#3ECF8E) sparingly for primary actions. Maintain the developer-focused, professional aesthetic with warm undertones throughout."
 
-### Iteration Guide
-1. Start with #171717 background — everything is dark-mode-native
-2. Green is the brand identity marker — use it for links, logo, and accent borders only
-3. Depth comes from borders (#242424 → #2e2e2e → #363636), not shadows
-4. Weight 400 is the default for everything — 500 only for interactive elements
-5. Hero line-height of 1.00 is the signature typographic move
-6. Pill (9999px) for primary actions, 6px for secondary, 8-16px for cards
-7. HSL with alpha channels creates the sophisticated translucent layering
+**Color Specifications:**
+"Use these exact colors: Background #121212, elevated surfaces #1a1a1a and #2a2a2a, text #fafafa, emerald brand #3ECF8E for CTAs only, borders #2a2a2a, and secondary text #a3a3a3."
+
+**Typography Instructions:**
+"Use Circular font family with these sizes: headings 24-48px with 1.1-1.2 line-height, body text 16px with 1.5 line-height, small text 14px. Font weights: 400 regular, 500 medium for buttons, 600 semibold for headings."
+
+**Layout Guidelines:**
+"Follow 8px spacing scale, use 24px gutters, max content width 1200px. Cards use #1a1a1a background with 1px #2a2a2a borders and 8px border-radius. Buttons are 6px border-radius with 12px vertical padding."
+
+**Component Behavior:**
+"Buttons: Primary uses #3ECF8E background with #121212 text, secondary uses transparent background with #2a2a2a border. Hover states use surface-300 (#3a3a3a). Focus rings are 2px #3ECF8E with 2px offset."
+
+**Responsive Notes:**
+"Mobile-first approach: full-width elements on mobile, reduce heading sizes by 25%, use 48px button heights on touch devices, maintain 44px minimum touch targets."
+
+**Brand Voice:**
+"Maintain developer-focused, professional tone. The design should feel like a premium development tool - sophisticated, powerful, but approachable. Think 'GitHub meets modern SaaS' rather than 'consumer app'."
