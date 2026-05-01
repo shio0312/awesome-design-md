@@ -1,253 +1,288 @@
-# SmartHR Design System
+# DESIGN.md — SmartHR
+
+> SmartHR（https://smarthr.jp/）のデザイン仕様書。
+> SmartHR Design System（https://smarthr.design/）の公式デザイントークンに基づく。
+
+---
 
 ## 1. Visual Theme & Atmosphere
 
-SmartHR Design System embodies a distinctly Japanese approach to enterprise software design — clean, purposeful, and refreshingly human-centered. The interface feels like a well-organized workspace where efficiency meets warmth, avoiding the sterile coldness typical of corporate design systems.
+- **デザイン方針**: クリーンで信頼感のある業務UI。装飾を排し、コンテンツと操作性を優先するミニマルなデザイン
+- **密度**: 情報密度が高い業務アプリケーション向け。余白はあるが、コンパクトに情報を表示
+- **キーワード**: 信頼性、明快、効率的、アクセシブル、ニュートラル
+- **特徴**: ウォームグレー（Stone系）を基調とした柔らかいニュートラルカラー。純粋なグレーではなく暖色寄りのトーン
 
-The design philosophy centers on accessibility and clarity, with a sophisticated neutral palette anchored by a distinctive blue (`#0071c1`) that serves as both the primary brand color and the universal link color. Unlike many Western design systems that rely on high contrast and bold statements, SmartHR employs subtle gradations of grays and thoughtful spacing to create hierarchy and breathing room.
-
-The typography system is built around SDSYuGothic, a custom variant of Yu Gothic that provides excellent Japanese and Latin character support. The system demonstrates remarkable restraint — font weights are used sparingly (400 for body, 700 for emphasis), and the generous line-height of 1.75 creates a reading experience that feels unhurried and accessible.
-
-What sets SmartHR apart is its commitment to functional beauty. Every element serves a purpose, from the 12px border-radius that softens edges without being playful, to the carefully calibrated hover states that provide feedback without distraction. The design speaks to professionals who value substance over flash.
-
-**Key Characteristics:**
-- Clean, functional aesthetic prioritizing usability over visual drama
-- Sophisticated neutral palette with warm undertones (`#23221f`, `#706d65`)
-- SDSYuGothic typography system optimized for Japanese/Latin bilingual content
-- Consistent 12px border-radius creating gentle, professional edges
-- Generous spacing system based on multiples of 8px (24px, 48px sections)
-- Accessibility-first approach with high contrast ratios and clear focus states
-- Subtle hover animations using cubic-bezier easing for premium feel
+---
 
 ## 2. Color Palette & Roles
 
-### Primary
-- **SmartHR Blue** (`#0071c1`): The core brand color used for all interactive elements, links, and primary CTAs. A professional blue that maintains accessibility across all backgrounds.
-- **Text Black** (`#23221f`): Primary text color — a warm near-black that's easier on the eyes than pure black while maintaining excellent readability.
-- **Pure White** (`#ffffff`): Clean background color for cards, headers, and primary surfaces.
+### Primary（ブランドカラー）
 
-### Secondary & Accent
-- **SmartHR Blue Dark** (`#0065a9`): Darker variant used in icons and secondary brand moments, providing depth to the blue family.
-- **Text Grey** (`#706d65`): Secondary text color for labels, captions, and less prominent information. Warm-toned to complement the overall palette.
+- **SmartHR Blue** (`#00c4cc`): ブランドアイデンティティカラー。ロゴ、イラスト、チャート等に使用。テキストやUI要素には非推奨（白背景でのコントラスト不足）
+- **Product Main** (`#0077c7`): プロダクトUIのプライマリカラー。ボタン、アクティブ状態、フォーカスリングに使用
 
-### Surface & Background
-- **Light Grey 1** (`var(--color-light-grey-1)`): Primary border color and subtle background tints
-- **Light Grey 2** (`var(--color-light-grey-2)`): Hover background states and secondary surface color
-- **Grey 1** (`var(--color-grey-1)`): Code block borders and structural elements
+### Semantic（意味的な色）
 
-### Neutrals & System
-- **Black** (`#000000`): Used sparingly for high-contrast elements and mobile menu buttons
-- **Transparent**: Extensively used for clean layering and subtle state changes
+- **Danger** (`#e01e5a`): エラー、削除操作、バリデーションエラー
+- **Warning** (`#ffcc17`): 警告、注意喚起
+
+### Interactive（インタラクティブ）
+
+- **Text Link** (`#0071c1`): テキストリンクの色
+- **Orange Accent** (`#ff9900`): アクセントカラー、注目を引く要素
+
+### Neutral — Stone Scale（ウォームグレー）
+
+- **Text Black** (`#23221e`): 本文テキスト、見出し
+- **Text Grey** (`#706d65`): 補足テキスト、セカンダリラベル
+- **Text Disabled** (`#c1bdb7`): 無効状態のテキスト
+- **Stone 01** (`#f8f7f6`): ページ背景（COLUMN トークン）
+- **Stone 02** (`#edebe8`): テーブルヘッダー背景（HEAD トークン）
+- **Stone 03** (`#aaa69f`): 補助的なボーダー、アイコン
+- **Stone 04** (`#4e4c49`): 濃いグレーテキスト
+
+### Surface & Borders
+
+- **White** (`#ffffff`): コンポーネントのベース背景
+- **Border** (`#d6d3d0`): 区切り線、入力欄の枠
+- **Over Background** (`#f2f1f0`): BACKGROUND 上のグルーピング面
+- **Action Background** (`#d6d3d0`): テーブル一括操作エリアの背景
+
+### Chart Colors
+
+- `#00c4cc`, `#ffcd00`, `#ff9100`, `#e65537`, `#2d4b9b`, `#2d7df0`, `#69d7ff`, `#4bb47d`, `#05878c`
+
+---
 
 ## 3. Typography Rules
 
-### Font Family
-- **Primary**: `SDSYuGothic, "Yu Gothic", YuGothic, sans-serif`
-- **Fallback**: System sans-serif stack ensuring consistent rendering across platforms
+### 3.1 和文フォント
 
-### Typography Hierarchy
-- **Body Text**: 16px / 400 weight / 28px line-height (1.75)
-- **Small Text**: 12px / 700 weight / 21px line-height
-- **Micro Text**: 11.008px / 700 weight / 19.264px line-height
-- **Navigation**: 16px / 700 weight / 16px line-height (1.0)
-- **Interactive Elements**: 24px / 400 weight / normal line-height
+- **ゴシック体**: 游ゴシック（Yu Gothic / YuGothic）を公式推奨
+- Windows での表示品質を確保するため、`@font-face` で Medium ウェイトを通常ウェイトにマッピング
 
-### Key Typography Features
-- **Generous Line Height**: 1.75 for body text creates excellent readability
-- **Strategic Font Weights**: Only 400 and 700 used, creating clear hierarchy without complexity
-- **Consistent Letter Spacing**: Normal spacing throughout, letting the font's natural metrics shine
-- **Bilingual Optimization**: SDSYuGothic provides seamless Japanese/Latin character mixing
+```css
+@font-face {
+  font-family: AdjustedYuGothic;
+  font-weight: 400;
+  src: local("Yu Gothic Medium");
+}
+
+@font-face {
+  font-family: AdjustedYuGothic;
+  font-weight: 700;
+  src: local("Yu Gothic Bold");
+}
+```
+
+### 3.2 欧文フォント
+
+- 游ゴシック内蔵の欧文グリフをそのまま使用（別途欧文フォントの指定なし）
+- デザインシステムサイトは `system-ui` を使用
+
+### 3.3 font-family 指定
+
+```css
+/* 公式推奨（コーポレートサイト） */
+font-family: AdjustedYuGothic, "Yu Gothic", YuGothic, "Hiragino Sans", sans-serif;
+
+/* デザインシステムサイト */
+font-family: system-ui, sans-serif;
+```
+
+**フォールバックの考え方**:
+- `AdjustedYuGothic` → Windows での游ゴシック Medium マッピング
+- `Yu Gothic` → Windows ネイティブ
+- `YuGothic` → macOS ネイティブ（引用符なし）
+- `Hiragino Sans` → macOS フォールバック
+- `sans-serif` → 最終フォールバック
+
+### 3.4 文字サイズ・ウェイト階層
+
+ベースサイズ: `16px`（1rem）。スケール係数: `scaleFactor / (scaleFactor + diff)` rem（scaleFactor = 6）
+
+| Role | Token | Size | Weight | Line Height | Letter Spacing | 備考 |
+|------|-------|------|--------|-------------|----------------|------|
+| Display | XXL | 2rem (32px) | 700 | 1.25 | 0 | ページタイトル |
+| Heading 1 | XL | 1.5rem (24px) | 700 | 1.25 | 0 | セクション見出し |
+| Heading 2 | L | 1.2rem (19.2px) | 700 | 1.5 | 0 | サブ見出し |
+| Body | M | 1rem (16px) | 400 | 1.5 | 0 | 本文（標準） |
+| Small | S | 0.857rem (13.7px) | 400 | 1.5 | 0 | 補足テキスト |
+| Caption | XS | 0.75rem (12px) | 400 | 1.5 | 0 | キャプション、注釈 |
+| Smallest | XXS | 0.667rem (10.7px) | 400 | 1.5 | 0 | バッジ、ラベル |
+
+### 3.5 行間・字間
+
+- **本文の行間 (line-height)**: `1.5`（NORMAL トークン）
+- **見出しの行間**: `1.25`（TIGHT トークン）
+- **リラックスした行間**: `1.75`（RELAXED トークン。コードブロック等に使用）
+- **字間 (letter-spacing)**: `0`（デフォルト）。ナビゲーションやラベルで `0.1rem` を使用する場合あり
+
+**ガイドライン**:
+- SmartHR は業務UIのため、情報密度を優先して `line-height: 1.5` を標準としている
+- 長文の読み物コンテンツには `1.75`（RELAXED）を推奨
+
+### 3.6 禁則処理・改行ルール
+
+```css
+overflow-wrap: break-word;
+```
+
+- 業務アプリケーションのため、長いテキストや URL の折り返しに対応
+- 特別な禁則処理の指定はデザイントークンに含まれていない（ブラウザデフォルトに依存）
+
+### 3.7 OpenType 機能
+
+- デザイントークンに OpenType 機能の指定なし
+- 游ゴシックのデフォルトカーニングをそのまま使用
+
+### 3.8 縦書き
+
+- 該当なし。SmartHR は横書きのみ
+
+---
 
 ## 4. Component Stylings
 
 ### Buttons
-```css
-/* Primary Button (Gotcha Button Style) */
-.primaryButton {
-  background-color: #ffffff;
-  color: #23221f;
-  font-weight: 700;
-  border-radius: 8px;
-  font-size: 13.3333px;
-  padding: [calculated from context];
-  border: 1px solid var(--color-grey-1);
-}
 
-/* Icon Button */
-.iconButton {
-  background: transparent;
-  color: #000000;
-  font-size: 24px;
-  padding: 0;
-  border: none;
-  cursor: pointer;
-}
+**Primary**
+- Background: `#0077c7`
+- Text: `#ffffff`
+- Border Radius: 6px
+- Font Size: 1rem (16px)
+- Font Weight: 700
+- Padding: 8px 16px
 
-/* Link Button */
-.linkButton {
-  color: #0071c1;
-  background: transparent;
-  text-decoration: underline;
-  font-weight: 400;
-}
-```
+**Secondary**
+- Background: `transparent`
+- Text: `#0077c7`
+- Border: 1px solid `#0077c7`
+- Border Radius: 6px
 
-### Cards & Containers
-```css
-.boxLink {
-  padding: 24px;
-  border: 1px solid var(--color-light-grey-1);
-  border-radius: 12px;
-  background: #ffffff;
-  transition: background-color 1.5s cubic-bezier(0, 0.7, 0, 1);
-}
+**Danger**
+- Background: `#e01e5a`
+- Text: `#ffffff`
+- Border Radius: 6px
 
-.boxLink:hover {
-  background-color: var(--color-light-grey-2);
-  border-color: var(--color-text-grey);
-  transition: background-color 0.2s;
-}
-```
+### Inputs
 
-### Navigation
-```css
-.navigationLink {
-  color: #23221f;
-  font-weight: 700;
-  font-size: 16px;
-  line-height: 16px;
-  padding: 10px;
-  text-decoration: none;
-}
+- Background: `#ffffff`
+- Border: 1px solid `#d6d3d0`
+- Border (focus): 2px solid `#0077c7`
+- Border Radius: 6px
+- Font Size: 1rem (16px)
+- Padding: 8px 12px
 
-.siteNameLink {
-  color: #0071c1;
-  padding: 6px 10px;
-  font-weight: 400;
-}
-```
+### Tables
 
-### Interactive States
-- **Hover**: Subtle background color changes with 0.2s transition
-- **Focus**: Blue focus rings using `#0071c1`
-- **Active**: Maintained color consistency with primary palette
-- **Disabled**: Reduced opacity maintaining color relationships
+- Header Background: `#edebe8`（HEAD トークン）
+- Row Background: `#ffffff`
+- Row Background (alternate): `#f8f7f6`（COLUMN トークン）
+- Border: 1px solid `#d6d3d0`
+- Action Background: `#d6d3d0`（一括操作エリア）
+
+---
 
 ## 5. Layout Principles
 
-### Spacing System
-- **Base Unit**: 8px
-- **Section Spacing**: 48px between major sections
-- **Component Spacing**: 24px for card padding and component separation
-- **Micro Spacing**: 8px, 16px for internal component spacing
-- **Header Padding**: 30px 48px for generous breathing room
+### Spacing Scale
 
-### Grid System
-- **Container**: Fluid width with consistent horizontal padding
-- **Flex Layouts**: Extensive use of flexbox for responsive arrangements
-- **Gap System**: 4px, 8px gaps for tight layouts; larger gaps for section separation
+SmartHR Design System は 8px ベースのスペーシングスケールを使用。
 
-### Content Width Strategy
-- **Full Width**: Headers and navigation span full viewport
-- **Content Width**: Centered content with responsive side margins
-- **Component Width**: Cards and components use natural content width with padding
+| Token | Value |
+|-------|-------|
+| XS | 4px (0.25rem) |
+| S | 8px (0.5rem) |
+| M | 16px (1rem) |
+| L | 24px (1.5rem) |
+| XL | 32px (2rem) |
+| XXL | 40px (2.5rem) |
+
+### Container
+
+- プロダクトUI: 全幅（サイドバー + メインコンテンツ構成）
+- コーポレートサイト: max-width を使用
+
+---
 
 ## 6. Depth & Elevation
 
-### Shadow System
-SmartHR uses a minimal shadow approach, preferring borders over drop shadows:
+SmartHR Design System にはシャドウトークンが定義されている（`/products/design-tokens/shadow`）。
 
-```css
-/* Primary Elevation - Borders */
-.elevated {
-  border: 1px solid var(--color-light-grey-1);
-}
+| Level | Shadow | 用途 |
+|-------|--------|------|
+| 0 | none | フラットな要素 |
+| 1 | `0 2px 4px rgba(0,0,0,0.1)` | カード、ドロップダウン |
+| 2 | `0 4px 8px rgba(0,0,0,0.15)` | モーダル、ダイアログ |
 
-/* Hover Elevation */
-.elevated:hover {
-  border-color: var(--color-text-grey);
-}
-
-/* Code Blocks */
-.codeContainer {
-  border: 1px solid var(--color-grey-1);
-  background: var(--color-text-black);
-}
-```
-
-### Layering Philosophy
-- **Base Layer**: White backgrounds with subtle borders
-- **Interactive Layer**: Hover states change border colors, not shadows
-- **Overlay Layer**: Modal and dropdown content uses solid backgrounds
-- **Focus Layer**: Blue outline rings for accessibility
+---
 
 ## 7. Do's and Don'ts
 
-### Do's
-✅ **Use generous spacing** - 24px padding minimum for interactive elements
-✅ **Maintain color consistency** - Stick to the defined blue (`#0071c1`) for all interactive elements
-✅ **Employ subtle transitions** - Use cubic-bezier(0, 0.7, 0, 1) for smooth, professional animations
-✅ **Prioritize accessibility** - High contrast ratios and clear focus states
-✅ **Use 12px border-radius** consistently for cards and containers
-✅ **Leverage the 1.75 line-height** for excellent readability
+### Do（推奨）
 
-### Don'ts
-❌ **Don't use drop shadows** - SmartHR prefers clean borders over elevation shadows
-❌ **Don't mix font weights** - Stick to 400 and 700 only
-❌ **Don't use pure black** - Always use the warm near-black (`#23221f`)
-❌ **Don't ignore the spacing system** - Maintain 8px-based spacing consistency
-❌ **Don't use bright colors** - The palette is intentionally subdued and professional
-❌ **Don't rush transitions** - The 1.5s initial state creates anticipation
+- Windows での游ゴシック表示には必ず `AdjustedYuGothic` の `@font-face` トリックを使う
+- テキストカラーは `#23221e`（Text Black）を使い、純粋な `#000000` は避ける
+- ニュートラルカラーは Stone 系（ウォームグレー）を使用する
+- ブランドカラー `#00c4cc` はイラスト・チャート用とし、UIの操作要素には `#0077c7`（Product Main）を使う
+- アクセシビリティを重視し、色のコントラスト比は WCAG AA 以上を確保する
+
+### Don't（禁止）
+
+- ブランドカラー `#00c4cc` をテキストや小さなUI要素に使わない（白背景でコントラスト不足）
+- 游ゴシックを `@font-face` なしで `font-weight: 400` 指定しない（Windows で細く表示される）
+- 純粋なグレー（`#808080` 等）を使わない。Stone 系のウォームグレーを使う
+- テキストリンクの色を `#0077c7` と混同しない。リンクは `#0071c1` を使用する
+
+---
 
 ## 8. Responsive Behavior
 
-### Breakpoint Strategy
-- **Mobile First**: Base styles optimized for mobile viewing
-- **Flexible Navigation**: Menu transforms to hamburger on smaller screens
-- **Responsive Padding**: Header padding adjusts from 48px to smaller values
-- **Flexible Typography**: Font sizes scale appropriately across devices
+### Breakpoints
 
-### Mobile Adaptations
-```css
-/* Mobile Navigation */
-.mobileMenuButton {
-  font-size: 24px;
-  color: #000000;
-  background: transparent;
-}
+SmartHR Design System にはメディアクエリトークンが定義されている。
 
-/* Responsive Containers */
-.wrapper {
-  padding: 30px 48px; /* Desktop */
-}
+| Name | Width | 説明 |
+|------|-------|------|
+| SP | ≤ 599px | スマートフォン |
+| Tablet | 600px–959px | タブレット |
+| Desktop | ≥ 960px | デスクトップ |
 
-@media (max-width: 768px) {
-  .wrapper {
-    padding: 20px 24px; /* Mobile */
-  }
-}
-```
+### タッチターゲット
+
+- 最小サイズ: 44px × 44px
+
+---
 
 ## 9. Agent Prompt Guide
 
-### Quick Reference for AI Agents
+### クイックリファレンス
 
-**Primary Colors**: Use `#0071c1` for all links and interactive elements, `#23221f` for text, `#ffffff` for backgrounds.
+```
+Brand Color: #00c4cc（ロゴ・チャート用、UIには使わない）
+Product Main: #0077c7
+Text Color: #23221e
+Text Secondary: #706d65
+Link Color: #0071c1
+Background: #f8f7f6
+Surface: #ffffff
+Border: #d6d3d0
+Danger: #e01e5a
+Font: AdjustedYuGothic, "Yu Gothic", YuGothic, "Hiragino Sans", sans-serif
+Body Size: 16px (1rem)
+Line Height: 1.5
+```
 
-**Typography**: SDSYuGothic font family, 16px/28px for body text, 700 weight for emphasis only.
+### プロンプト例
 
-**Spacing**: 24px padding for cards, 48px between sections, 12px border-radius consistently.
-
-**Components**: Clean borders over shadows, subtle hover states, professional blue for all CTAs.
-
-### Recommended Prompts
-
-**For Buttons**: "Create a button using SmartHR blue (#0071c1) with 12px border-radius, 700 font-weight, and subtle hover transition"
-
-**For Cards**: "Design a card with 24px padding, 1px light grey border, 12px border-radius, and gentle hover state changing background to light grey"
-
-**For Typography**: "Use SDSYuGothic font with 1.75 line-height for body text, warm near-black (#23221f) color, and 700 weight only for emphasis"
-
-**For Layout**: "Create sections with 48px vertical spacing, 24px component padding, and clean borders instead of shadows"
-
-**For Interactions**: "Apply SmartHR's signature cubic-bezier(0, 0.7, 0, 1) transition with 1.5s duration for initial states, 0.2s for hover responses"
+```
+SmartHR のデザインシステムに従って、従業員一覧テーブルを作成してください。
+- フォント: AdjustedYuGothic, "Yu Gothic", YuGothic, "Hiragino Sans", sans-serif
+- テキスト色: #23221e
+- テーブルヘッダー背景: #edebe8
+- ボーダー: 1px solid #d6d3d0
+- プライマリボタン: 背景 #0077c7、テキスト #ffffff、角丸 6px
+- 行間: line-height: 1.5
+- @font-face で游ゴシック Medium を 400 にマッピングすること
+```

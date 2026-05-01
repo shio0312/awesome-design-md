@@ -206,17 +206,46 @@ See [USAGE.md](USAGE.md) for detailed instructions.
 
 ### Japanese Design Systems
 
-- [**Ameba Spindle**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/ameba-spindle/) - CyberAgent Ameba's design system. Friendly media UI, warm approachable aesthetic
-- [**Digital Agency (DADS)**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/digital-agency/) - Japan Digital Agency design system. Accessible, structured government UI
-- [**Goodpatch Sparkle**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/goodpatch-sparkle/) - Goodpatch's design system. Refined and polished, design-agency quality
-- [**Pepabo Design**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/pepabo/) - GMO Pepabo's design guidelines. Friendly, creator-focused aesthetic
-- [**Raksul Kamii**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/raksul-kamii/) - Raksul's design system. Clean business UI for print and logistics services
-- [**Sansan One Design**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/sansan-one-design/) - Sansan's One Design System. Clean and functional enterprise UI
-- [**Serendie**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/serendie/) - Sony's design system. Global-quality, precision-engineered components
-- [**SmartHR Design**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/smarthr/) - SmartHR's design system. Simple and functional HR SaaS UI
-- [**SPEEDA Falcon**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/speeda/) - UZABASE's B2B economic intelligence platform. Precise, data-dense, global-ready UI
-- [**Ubie Vitals**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/ubie-vitals/) - Ubie's design system. Trustworthy medical-grade UI, accessible and calm
-- [**Wantedly**](https://github.com/shio0312/awesome-design-md/tree/main/design-md/wantedly/) - Wantedly's UI components. Professional yet approachable, Japanese business SNS aesthetic
+- [**ABEMA**](design-md/abema/) - 動画配信サービス。ダーク基調の没入感ある映像コンテンツUI
+- [**Ameba Spindle**](design-md/ameba-spindle/) - CyberAgent Ameba's design system. Friendly media UI, warm approachable aesthetic
+- [**connpass**](design-md/connpass/) - IT勉強会・イベント管理プラットフォーム。シンプルな開発者向けUI
+- [**Cookpad**](design-md/cookpad/) - レシピ投稿・検索サービス。温かみのある食欲をそそるUI
+- [**Cybozu**](design-md/cybozu/) - グループウェア・SaaS企業コーポレートサイト。企業理念を前面に出したUI
+- [**Digital Agency (DADS)**](design-md/digital-agency/) - Japan Digital Agency design system. Accessible, structured government UI
+- [**Digital Agency Japan**](design-md/digital-go/) - デジタル庁公式サイト。行政サービスのデジタル化を推進するUI
+- [**Droga5 Japan**](design-md/droga5/) - クリエイティブエージェンシー。大胆でアーティスティックなUI
+- [**freee**](design-md/freee/) - クラウド会計・人事労務SaaS。Vibes Design System採用の業務系UI
+- [**Goodpatch Sparkle**](design-md/goodpatch-sparkle/) - Goodpatch's design system. Refined and polished, design-agency quality
+- [**Hoshino Resorts**](design-md/hoshinoresorts/) - 星野リゾート。和の美意識を取り入れた高級感あるUI
+- [**LINE**](design-md/line/) - メッセージアプリ。グリーンブランドカラーのフレンドリーなUI
+- [**Mitsubishi Estate**](design-md/mec/) - 三菱地所コーポレートサイト。重厚感と信頼性を持つ不動産大手UI
+- [**メルカリ**](design-md/mercari/) - フリマアプリ最大手。赤いブランドカラーのC2Cマーケットプレイス向けUI
+- [**マネーフォワード**](design-md/moneyforward/) - 家計簿・資産管理・会計SaaS。信頼感を演出するフィンテックUI
+- [**MOSH**](design-md/mosh/) - クリエイター向けサービス販売。Tailwind CSS v4採用のモダンなUI
+- [**無印良品**](design-md/muji/) - MUJIネットストア。ミニマリズムを体現した余白重視のシンプルなUI
+- [**日本経済新聞**](design-md/nikkei/) - 日経電子版。情報密度の高いニュースメディアUI
+- [**Nintendo Japan**](design-md/nintendo/) - 任天堂日本公式サイト。遊び心あるカラフルなゲームブランドUI
+- [**note**](design-md/note/) - コンテンツプラットフォーム。Tailwind + Svelte採用のクリエイター向けUI
+- [**Novasell**](design-md/novasell/) - ラクスルグループのAIマーケティングエージェンシー。モダンなB2B SaaS UI
+- [**PayPay**](design-md/paypay/) - QRコード決済。赤×黄のビビッドなブランドカラーが特徴
+- [**Pepabo Design**](design-md/pepabo/) - GMO Pepabo's design guidelines. Friendly, creator-focused aesthetic
+- [**pixiv**](design-md/pixiv/) - イラスト・マンガのSNS。クリエイター作品を引き立てるダーク対応UI
+- [**Qiita**](design-md/qiita/) - 技術記事投稿プラットフォーム。開発者向けコードブロック重視UI
+- [**楽天市場**](design-md/rakuten/) - 国内最大のECモール。情報密度が高い楽天レッドのにぎやかなUI
+- [**Raksul Kamii**](design-md/raksul-kamii/) - Raksul's design system. Clean business UI for print and logistics services
+- [**Sansan**](design-md/sansan/) - 名刺管理・営業DX SaaS。洗練されたビジネス向けUI
+- [**Sansan One Design**](design-md/sansan-one-design/) - Sansan's One Design System. Clean and functional enterprise UI
+- [**Serendie**](design-md/serendie/) - Sony's design system. Global-quality, precision-engineered components
+- [**SmartHR Design**](design-md/smarthr/) - SmartHR's design system. Simple and functional HR SaaS UI
+- [**SPEEDA Falcon**](design-md/speeda/) - UZABASE's B2B economic intelligence platform. Precise, data-dense, global-ready UI
+- [**STUDIO**](design-md/studio/) - ノーコードウェブ制作ツール。クリエイティブでビジュアル重視のUI
+- [**食べログ**](design-md/tabelog/) - グルメ情報・レストラン予約。食欲をそそる温かみのある情報密度高めUI
+- [**トヨタ**](design-md/toyota/) - トヨタ自動車日本公式サイト。128件のCSSカスタムプロパティを持つ独自トークン体系
+- [**Ubie Vitals**](design-md/ubie-vitals/) - Ubie's design system. Trustworthy medical-grade UI, accessible and calm
+- [**UNIQLO Japan**](design-md/uniqlo/) - ユニクロ日本公式ECサイト。シンプルでコンテンツファーストなファッションUI
+- [**Wantedly**](design-md/wantedly/) - Wantedly's UI components. Professional yet approachable, Japanese business SNS aesthetic
+- [**WIRED Japan**](design-md/wired/) - テクノロジー・カルチャーメディア。styled-componentsベースのエディトリアルUI
+- [**Zenn**](design-md/zenn/) - 技術記事・本プラットフォーム。Zennブルー(#3ea8ff)が特徴のデベロッパー向けUI
 
 
 

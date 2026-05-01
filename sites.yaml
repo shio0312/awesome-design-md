@@ -414,9 +414,183 @@ sites:
   description: CyberAgent Ameba の Spindle デザインシステム。ブログ・メディア系の親しみやすい UI
   auto_update: true
 
-  - name: SPEEDA Falcon
-    folder: speeda
-    url: https://speeda.com
-    category: Japanese Design Systems
-    description: UZABASEのB2B経済情報プラットフォーム SPEEDA の Falcon デザインシステム。精密・グローバル対応の業務系UI
-    auto_update: false  # Figma から手動生成（サイト非公開）
+- name: SPEEDA Falcon
+  folder: speeda
+  url: https://speeda.com
+  category: Japanese Design Systems
+  description: UZABASEのB2B経済情報プラットフォーム SPEEDA の Falcon デザインシステム。精密・グローバル対応の業務系UI
+  auto_update: false
+- name: ABEMA
+  folder: abema
+  url: https://abema.tv
+  category: Japanese Design Systems
+  description: 動画配信サービス。ダーク基調・没入感重視の映像コンテンツ特化UI
+  auto_update: true
+- name: connpass
+  folder: connpass
+  url: https://connpass.com
+  category: Japanese Design Systems
+  description: IT勉強会・イベント管理プラットフォーム。シンプルで実用的な開発者向けUI
+  auto_update: true
+- name: Cookpad
+  folder: cookpad
+  url: https://cookpad.com
+  category: Japanese Design Systems
+  description: レシピ投稿・検索サービス。温かみのある食欲をそそるUI
+  auto_update: true
+- name: Cybozu
+  folder: cybozu
+  url: https://cybozu.co.jp
+  category: Japanese Design Systems
+  description: グループウェア・SaaS企業のコーポレートサイト。企業理念を前面に出した清潔なUI
+  auto_update: true
+- name: Digital Agency Japan
+  folder: digital-go
+  url: https://www.digital.go.jp
+  category: Japanese Design Systems
+  description: デジタル庁公式サイト。行政サービスのデジタル化を推進するアクセシブルなUI
+  auto_update: true
+- name: Droga5 Japan
+  folder: droga5
+  url: https://droga5.jp
+  category: Japanese Design Systems
+  description: クリエイティブエージェンシーのコーポレートサイト。大胆でアーティスティックなUI
+  auto_update: true
+- name: freee
+  folder: freee
+  url: https://www.freee.co.jp
+  category: Japanese Design Systems
+  description: クラウド会計・人事労務SaaS。Vibes Design System採用のシンプルな業務系UI
+  auto_update: true
+- name: Hoshino Resorts
+  folder: hoshinoresorts
+  url: https://hoshinoresorts.com
+  category: Japanese Design Systems
+  description: 星野リゾートのコーポレートサイト。和の美意識を取り入れた高級感あるUI
+  auto_update: true
+- name: LINE
+  folder: line
+  url: https://line.me/ja
+  category: Japanese Design Systems
+  description: メッセージアプリのコーポレートサイト。グリーンブランドカラーのフレンドリーなUI
+  auto_update: true
+- name: Mitsubishi Estate
+  folder: mec
+  url: https://mec.co.jp
+  category: Japanese Design Systems
+  description: 三菱地所のコーポレートサイト。重厚感と信頼性を持つ不動産大手のUI
+  auto_update: true
+- name: メルカリ
+  folder: mercari
+  url: https://jp.mercari.com
+  category: Japanese Design Systems
+  description: フリマアプリ最大手。赤いブランドカラーとC2Cマーケットプレイスに最適化されたUI
+  auto_update: true
+- name: マネーフォワード
+  folder: moneyforward
+  url: https://moneyforward.com
+  category: Japanese Design Systems
+  description: 家計簿・資産管理・会計SaaS。青系のカラーで信頼感を演出するフィンテックUI
+  auto_update: true
+- name: MOSH
+  folder: mosh
+  url: https://mosh.jp
+  category: Japanese Design Systems
+  description: クリエイター向けサービス販売プラットフォーム。Tailwind CSS v4採用のモダンなUI
+  auto_update: true
+- name: 無印良品
+  folder: muji
+  url: https://www.muji.com/jp/ja
+  category: Japanese Design Systems
+  description: MUJIネットストア。ミニマリズムを体現した余白重視のシンプルなUI
+  auto_update: true
+- name: 日本経済新聞
+  folder: nikkei
+  url: https://www.nikkei.com
+  category: Japanese Design Systems
+  description: 日経電子版。情報密度の高いニュースメディアのUI
+  auto_update: true
+- name: Nintendo Japan
+  folder: nintendo
+  url: https://www.nintendo.com/jp
+  category: Japanese Design Systems
+  description: 任天堂日本公式サイト。遊び心あるカラフルなゲームブランドUI
+  auto_update: true
+- name: note
+  folder: note
+  url: https://note.com
+  category: Japanese Design Systems
+  description: コンテンツプラットフォーム。Tailwind CSS + Svelte採用のクリエイター向けUI
+  auto_update: true
+- name: Novasell
+  folder: novasell
+  url: https://novasell.com
+  category: Japanese Design Systems
+  description: ラクスルグループのAIマーケティングエージェンシー。モダンなB2B SaaS UI
+  auto_update: true
+- name: PayPay
+  folder: paypay
+  url: https://paypay.ne.jp
+  category: Japanese Design Systems
+  description: QRコード決済サービス。赤×黄のビビッドなブランドカラーが特徴的なUI
+  auto_update: true
+- name: pixiv
+  folder: pixiv
+  url: https://www.pixiv.net
+  category: Japanese Design Systems
+  description: イラスト・マンガ・小説のSNS。クリエイター作品を引き立てるダーク対応UI
+  auto_update: true
+- name: Qiita
+  folder: qiita
+  url: https://qiita.com
+  category: Japanese Design Systems
+  description: 技術記事投稿プラットフォーム。開発者コミュニティ向けのコードブロック重視UI
+  auto_update: true
+- name: 楽天市場
+  folder: rakuten
+  url: https://www.rakuten.co.jp
+  category: Japanese Design Systems
+  description: 国内最大のECモール。情報密度が高くにぎやかな楽天レッドUI
+  auto_update: true
+- name: Sansan
+  folder: sansan
+  url: https://jp.sansan.com
+  category: Japanese Design Systems
+  description: 名刺管理・営業DX SaaS。コーポレートサイトの洗練されたビジネス向けUI
+  auto_update: true
+- name: STUDIO
+  folder: studio
+  url: https://studio.design/ja
+  category: Japanese Design Systems
+  description: ノーコードウェブ制作ツール。クリエイティブでビジュアル重視のUI
+  auto_update: true
+- name: 食べログ
+  folder: tabelog
+  url: https://tabelog.com
+  category: Japanese Design Systems
+  description: グルメ情報・レストラン予約サービス。食欲をそそる温かみのある情報密度高めのUI
+  auto_update: true
+- name: トヨタ
+  folder: toyota
+  url: https://toyota.jp
+  category: Japanese Design Systems
+  description: トヨタ自動車日本公式サイト。128件のCSSカスタムプロパティを持つ独自トークン体系
+  auto_update: true
+- name: UNIQLO Japan
+  folder: uniqlo
+  url: https://www.uniqlo.com/jp/ja
+  category: Japanese Design Systems
+  description: ユニクロ日本公式ECサイト。シンプルでコンテンツファーストなファッションUI
+  auto_update: true
+- name: WIRED Japan
+  folder: wired
+  url: https://wired.jp
+  category: Japanese Design Systems
+  description: テクノロジー・カルチャーメディア。styled-componentsベースのエディトリアルUI
+  auto_update: true
+- name: Zenn
+  folder: zenn
+  url: https://zenn.dev
+  category: Japanese Design Systems
+  description: 技術記事・本プラットフォーム。Zennブルー(#3ea8ff)が特徴のデベロッパー向けUI
+  auto_update: true
