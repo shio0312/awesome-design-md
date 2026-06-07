@@ -7,7 +7,7 @@
 
     <key>ProgramArguments</key>
     <array>
-        <string>/Users/maedashiori/awesome-design-md/run_auto_update.sh</string>
+        <string>/Users/maedashiori/Desktop/S_Maeda/04_Claude/awesome-design-md/run_auto_update.sh</string>
     </array>
 
     <!-- 毎月1日 9:00 に実行 -->
@@ -22,9 +22,9 @@
     </dict>
 
     <key>StandardOutPath</key>
-    <string>/Users/maedashiori/awesome-design-md/launchd.log</string>
+    <string>/Users/maedashiori/Desktop/S_Maeda/04_Claude/awesome-design-md/launchd.log</string>
     <key>StandardErrorPath</key>
-    <string>/Users/maedashiori/awesome-design-md/launchd.log</string>
+    <string>/Users/maedashiori/Desktop/S_Maeda/04_Claude/awesome-design-md/launchd.log</string>
 
     <key>RunAtLoad</key>
     <false/>
