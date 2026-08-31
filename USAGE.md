@@ -218,6 +218,41 @@ pip install pyyaml
 python generate_sites_yaml.py
 ```
 
+## Refero Styles からの同期
+
+[Refero Styles](https://styles.refero.design/) は実在サイトのデザインシステムを
+構造化データとして公開しているライブラリです。`sync_refero_styles.py` で
+このリポジトリに取り込んで管理できます。
+
+公開APIのJSONを決定的にMarkdownへ変換するため、**Anthropic API キーは不要**です。
+
+```bash
+# カタログ一覧を表示（✓ = 同期済み）
+python sync_refero_styles.py --list
+
+# スタイルURLまたはIDを指定して同期
+python sync_refero_styles.py https://styles.refero.design/style/<id>
+
+# 全スタイルを同期
+python sync_refero_styles.py --all
+
+# 同期済みスタイルをまとめて再同期
+python sync_refero_styles.py --update
+
+# 一覧取得のページ数を増やす（1ページ20件、デフォルト10ページ）
+python sync_refero_styles.py --list --pages 20
+```
+
+### 動作
+
+1. `design-md/<サイト名>/DESIGN.md` として保存（既存フォルダと衝突する場合は `-refero` サフィックス）
+2. `sites.yaml` に `source: refero-styles` / `refero_id` 付きで登録
+3. README.md の「Refero Styles」セクションとDESIGN.mdカウントバッジを自動更新
+
+Refero 由来のエントリは `auto_update: false` で登録されるため、
+Claude API による自動再生成（`update_design_auto.py`）の対象にはなりません。
+更新したい場合は `--update` を実行してください。
+
 ## 高度な使い方
 
 ### カスタムサイト名

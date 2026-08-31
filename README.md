@@ -117,6 +117,26 @@ Select sites to update interactively, or update all sites at once.
 
 See [USAGE.md](USAGE.md) for detailed instructions.
 
+#### Option 4: Sync from Refero Styles 🆕
+
+Import ready-made design systems from [Refero Styles](https://styles.refero.design/) — a curated library of design tokens extracted from real websites. No API key required:
+
+```bash
+# Browse the catalog (✓ = already synced)
+python sync_refero_styles.py --list
+
+# Sync a specific style by URL or ID
+python sync_refero_styles.py https://styles.refero.design/style/<id>
+
+# Sync the whole catalog
+python sync_refero_styles.py --all
+
+# Re-sync everything previously imported
+python sync_refero_styles.py --update
+```
+
+Synced styles are saved to `design-md/<site>/DESIGN.md`, registered in `sites.yaml` with `source: refero-styles`, and listed in the [Refero Styles](#refero-styles) section below. They are excluded from the Claude-based auto-update (`auto_update: false`) — use `--update` to refresh them from Refero instead.
+
 
 ## Request a DESIGN.md
 
@@ -247,7 +267,13 @@ See [USAGE.md](USAGE.md) for detailed instructions.
 - [**WIRED Japan**](design-md/wired/) - テクノロジー・カルチャーメディア。styled-componentsベースのエディトリアルUI
 - [**Zenn**](design-md/zenn/) - 技術記事・本プラットフォーム。Zennブルー(#3ea8ff)が特徴のデベロッパー向けUI
 
+<!-- refero-styles:start -->
+### Refero Styles
 
+Design systems synced from [Refero Styles](https://styles.refero.design) via `sync_refero_styles.py`.
+
+_No styles synced yet — run `python sync_refero_styles.py --list` to browse the catalog._
+<!-- refero-styles:end -->
 
 ## Contributing
 
