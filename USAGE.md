@@ -253,6 +253,29 @@ Refero 由来のエントリは `auto_update: false` で登録されるため、
 Claude API による自動再生成（`update_design_auto.py`）の対象にはなりません。
 更新したい場合は `--update` を実行してください。
 
+### 定期同期（launchd・2ヶ月に1回）
+
+`run_refero_sync.sh` を launchd に登録すると、**奇数月の1日 9:30** に
+`--all` で自動同期し、変更があれば main にコミット・プッシュします
+（月次のDESIGN.md自動更新〔毎月1日 9:00〕と時間をずらしています）。
+
+```bash
+# インストール（bash setup.sh でも一緒に設定されます）
+sed "s|/Users/maedashiori/Desktop/S_Maeda/04_Claude/awesome-design-md|$(pwd)|g" \
+  com.maedashiori.refero-sync.plist > ~/Library/LaunchAgents/com.maedashiori.refero-sync.plist
+launchctl load ~/Library/LaunchAgents/com.maedashiori.refero-sync.plist
+
+# 動作確認（手動で1回実行）
+./run_refero_sync.sh
+
+# ログ確認
+tail -20 refero_sync.log
+```
+
+注意: リポジトリのチェックアウトが main 以外のブランチでも、
+スクリプトが main に切り替えてから同期します。未コミットの作業がある
+状態で実行するとそのままコミットに含まれるため、作業中は注意してください。
+
 ## 高度な使い方
 
 ### カスタムサイト名

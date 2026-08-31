@@ -60,6 +60,17 @@ launchctl unload "$PLIST_DEST" 2>/dev/null || true
 launchctl load "$PLIST_DEST"
 echo "設定完了（毎月1日 9:00 に自動更新）"
 
+# Refero Styles 定期同期（2ヶ月に1回）
+echo ""
+echo "Refero Styles 定期同期を設定中..."
+REFERO_PLIST_SRC="$SCRIPT_DIR/com.maedashiori.refero-sync.plist"
+REFERO_PLIST_DEST="$HOME/Library/LaunchAgents/com.maedashiori.refero-sync.plist"
+
+sed "s|/Users/maedashiori/Desktop/S_Maeda/04_Claude/awesome-design-md|$SCRIPT_DIR|g" "$REFERO_PLIST_SRC" > "$REFERO_PLIST_DEST"
+launchctl unload "$REFERO_PLIST_DEST" 2>/dev/null || true
+launchctl load "$REFERO_PLIST_DEST"
+echo "設定完了（奇数月の1日 9:30 に Refero Styles を同期）"
+
 echo ""
 echo "===================================="
 echo " セットアップ完了！"
