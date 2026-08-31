@@ -21,6 +21,8 @@ Refero Styles は実在サイトのデザインを構造化データとして公
 Claude API による再生成対象にはしません）。
 """
 
+from __future__ import annotations
+
 import argparse
 import re
 import sys
