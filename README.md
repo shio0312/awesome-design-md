@@ -272,206 +272,206 @@ Synced styles are saved to `design-md/<site>/DESIGN.md`, registered in `sites.ya
 
 Design systems synced from [Refero Styles](https://styles.refero.design) via `sync_refero_styles.py`.
 
-- [**099 SUPPLY**](design-md/099-supply/) - Design system synced from Refero Styles
-- [**14islands**](design-md/14islands/) - Design system synced from Refero Styles
-- [**70Materia**](design-md/70materia/) - Design system synced from Refero Styles
-- [**Active Theory**](design-md/active-theory/) - Design system synced from Refero Styles
-- [**Agence Foudre**](design-md/agence-foudre/) - Design system synced from Refero Styles
-- [**AgentQL**](design-md/agentql/) - Design system synced from Refero Styles
-- [**AI for Business**](design-md/ai-for-business/) - Design system synced from Refero Styles
-- [**Air**](design-md/air/) - Design system synced from Refero Styles
-- [**Airbnb**](design-md/airbnb-refero/) - Design system synced from Refero Styles
-- [**Altitude**](design-md/altitude/) - Design system synced from Refero Styles
-- [**amp**](design-md/amp/) - Design system synced from Refero Styles
-- [**Amrit Palace**](design-md/amrit-palace/) - Design system synced from Refero Styles
-- [**Analogue**](design-md/analogue/) - Design system synced from Refero Styles
-- [**Anthropic**](design-md/anthropic/) - Design system synced from Refero Styles
-- [**Antimetal**](design-md/antimetal/) - Design system synced from Refero Styles
-- [**Apple**](design-md/apple-refero/) - Design system synced from Refero Styles
-- [**Apple (España)**](design-md/apple-espa-a/) - Design system synced from Refero Styles
-- [**Apple (España)**](design-md/apple-espa-a-refero/) - Design system synced from Refero Styles
-- [**Apple (España)**](design-md/apple-espa-a-refero-a4f123f2/) - Design system synced from Refero Styles
-- [**Arcade**](design-md/arcade/) - Design system synced from Refero Styles
-- [**Arsenijs Fabrica**](design-md/arsenijs-fabrica/) - Design system synced from Refero Styles
-- [**Arva**](design-md/arva/) - Design system synced from Refero Styles
-- [**Attio**](design-md/attio/) - Design system synced from Refero Styles
-- [**Augen Pro**](design-md/augen-pro/) - Design system synced from Refero Styles
-- [**August Health EHR**](design-md/august-health-ehr/) - Design system synced from Refero Styles
-- [**Auros**](design-md/auros/) - Design system synced from Refero Styles
-- [**Authkit**](design-md/authkit/) - Design system synced from Refero Styles
-- [**Awesomic**](design-md/awesomic/) - Design system synced from Refero Styles
-- [**Axiom**](design-md/axiom/) - Design system synced from Refero Styles
-- [**Backlight**](design-md/backlight/) - Design system synced from Refero Styles
-- [**BelArosa Chalet**](design-md/belarosa-chalet/) - Design system synced from Refero Styles
-- [**bella Kitchen Appliances**](design-md/bella-kitchen-appliances/) - Design system synced from Refero Styles
-- [**Branding**](design-md/branding/) - Design system synced from Refero Styles
-- [**Brex**](design-md/brex/) - Design system synced from Refero Styles
-- [**Cal.com**](design-md/cal-com/) - Design system synced from Refero Styles
-- [**Caldera**](design-md/caldera/) - Design system synced from Refero Styles
-- [**Calendly.com**](design-md/calendly-com/) - Design system synced from Refero Styles
-- [**Changelog**](design-md/changelog/) - Design system synced from Refero Styles
-- [**ChatGPT**](design-md/chatgpt/) - Design system synced from Refero Styles
-- [**Ciridae**](design-md/ciridae/) - Design system synced from Refero Styles
-- [**Claude**](design-md/claude-refero/) - Design system synced from Refero Styles
-- [**Clearbit**](design-md/clearbit/) - Design system synced from Refero Styles
-- [**Clerk**](design-md/clerk/) - Design system synced from Refero Styles
-- [**ClickUp™**](design-md/clickup/) - Design system synced from Refero Styles
-- [**Compound**](design-md/compound/) - Design system synced from Refero Styles
-- [**Convex**](design-md/convex/) - Design system synced from Refero Styles
-- [**Cosmos**](design-md/cosmos/) - Design system synced from Refero Styles
-- [**Cursor**](design-md/cursor-refero/) - Design system synced from Refero Styles
-- [**Custo**](design-md/custo/) - Design system synced from Refero Styles
-- [**Customer.io**](design-md/customer-io/) - Design system synced from Refero Styles
-- [**Dash Digital Studio**](design-md/dash-digital-studio/) - Design system synced from Refero Styles
-- [**Default**](design-md/default/) - Design system synced from Refero Styles
-- [**Dennis Snellenberg**](design-md/dennis-snellenberg/) - Design system synced from Refero Styles
-- [**Depot**](design-md/depot/) - Design system synced from Refero Styles
-- [**Dimension**](design-md/dimension/) - Design system synced from Refero Styles
-- [**Discord**](design-md/discord/) - Design system synced from Refero Styles
-- [**Ditto**](design-md/ditto/) - Design system synced from Refero Styles
-- [**Dock**](design-md/dock/) - Design system synced from Refero Styles
-- [**dope.security**](design-md/dope-security/) - Design system synced from Refero Styles
-- [**Doppler**](design-md/doppler/) - Design system synced from Refero Styles
-- [**Dovetail**](design-md/dovetail/) - Design system synced from Refero Styles
-- [**Dovetail**](design-md/dovetail-refero/) - Design system synced from Refero Styles
-- [**Dub**](design-md/dub/) - Design system synced from Refero Styles
-- [**Duolingo**](design-md/duolingo/) - Design system synced from Refero Styles
-- [**Duolingo**](design-md/duolingo-refero/) - Design system synced from Refero Styles
-- [**Dyotanya**](design-md/dyotanya/) - Design system synced from Refero Styles
-- [**Ease Health**](design-md/ease-health/) - Design system synced from Refero Styles
-- [**Eindhoven Design District**](design-md/eindhoven-design-district/) - Design system synced from Refero Styles
-- [**ElevenLabs**](design-md/elevenlabs-refero/) - Design system synced from Refero Styles
-- [**Factory**](design-md/factory/) - Design system synced from Refero Styles
-- [**Family**](design-md/family/) - Design system synced from Refero Styles
-- [**Fey**](design-md/fey/) - Design system synced from Refero Styles
-- [**Flighty**](design-md/flighty/) - Design system synced from Refero Styles
-- [**Flowmapp**](design-md/flowmapp/) - Design system synced from Refero Styles
-- [**Flying Papers**](design-md/flying-papers/) - Design system synced from Refero Styles
-- [**Foodnoms**](design-md/foodnoms/) - Design system synced from Refero Styles
-- [**Frame.io**](design-md/frame-io/) - Design system synced from Refero Styles
-- [**Framer**](design-md/framer-refero/) - Design system synced from Refero Styles
-- [**General Intelligence Company**](design-md/general-intelligence-company/) - Design system synced from Refero Styles
-- [**Geniestudio**](design-md/geniestudio/) - Design system synced from Refero Styles
-- [**Getharvest**](design-md/getharvest/) - Design system synced from Refero Styles
-- [**Ghia**](design-md/ghia/) - Design system synced from Refero Styles
-- [**GitHub**](design-md/github/) - Design system synced from Refero Styles
-- [**Gleap**](design-md/gleap/) - Design system synced from Refero Styles
-- [**Grafik**](design-md/grafik/) - Design system synced from Refero Styles
-- [**Grove AI**](design-md/grove-ai/) - Design system synced from Refero Styles
-- [**Gsap**](design-md/gsap/) - Design system synced from Refero Styles
-- [**Handsome Frank**](design-md/handsome-frank/) - Design system synced from Refero Styles
-- [**Harness.io**](design-md/harness-io/) - Design system synced from Refero Styles
-- [**Henry**](design-md/henry/) - Design system synced from Refero Styles
-- [**Home**](design-md/home/) - Design system synced from Refero Styles
-- [**Huly**](design-md/huly/) - Design system synced from Refero Styles
-- [**Hungry Tiger**](design-md/hungry-tiger/) - Design system synced from Refero Styles
-- [**Hyer Aviation**](design-md/hyer-aviation/) - Design system synced from Refero Styles
-- [**Hyperstudio**](design-md/hyperstudio/) - Design system synced from Refero Styles
-- [**Idle Finance**](design-md/idle-finance/) - Design system synced from Refero Styles
-- [**Index**](design-md/index/) - Design system synced from Refero Styles
-- [**Integrated Biosciences**](design-md/integrated-biosciences/) - Design system synced from Refero Styles
-- [**Intercom**](design-md/intercom-refero/) - Design system synced from Refero Styles
-- [**INVERSA**](design-md/inversa/) - Design system synced from Refero Styles
-- [**Karl**](design-md/karl/) - Design system synced from Refero Styles
-- [**Ko-fi**](design-md/ko-fi/) - Design system synced from Refero Styles
-- [**Lamborghini.com**](design-md/lamborghini-com/) - Design system synced from Refero Styles
-- [**LaunchDarkly**](design-md/launchdarkly/) - Design system synced from Refero Styles
-- [**Legora**](design-md/legora/) - Design system synced from Refero Styles
-- [**Letter**](design-md/letter/) - Design system synced from Refero Styles
-- [**Letters**](design-md/letters/) - Design system synced from Refero Styles
-- [**Lightdash**](design-md/lightdash/) - Design system synced from Refero Styles
-- [**Linear**](design-md/linear/) - Design system synced from Refero Styles
-- [**Lpalo**](design-md/lpalo/) - Design system synced from Refero Styles
-- [**Mercury**](design-md/mercury/) - Design system synced from Refero Styles
-- [**Metalab**](design-md/metalab/) - Design system synced from Refero Styles
-- [**Micro**](design-md/micro/) - Design system synced from Refero Styles
-- [**Midday**](design-md/midday/) - Design system synced from Refero Styles
-- [**Midjourney**](design-md/midjourney/) - Design system synced from Refero Styles
-- [**MindMarket**](design-md/mindmarket/) - Design system synced from Refero Styles
-- [**Mintlify**](design-md/mintlify-refero/) - Design system synced from Refero Styles
-- [**Miranda**](design-md/miranda/) - Design system synced from Refero Styles
-- [**Mobbin**](design-md/mobbin/) - Design system synced from Refero Styles
-- [**Modal**](design-md/modal/) - Design system synced from Refero Styles
-- [**Monad**](design-md/monad/) - Design system synced from Refero Styles
-- [**monday.com**](design-md/monday-com/) - Design system synced from Refero Styles
-- [**mono**](design-md/mono/) - Design system synced from Refero Styles
-- [**Monocle**](design-md/monocle/) - Design system synced from Refero Styles
-- [**monopo saigon**](design-md/monopo-saigon/) - Design system synced from Refero Styles
-- [**Munro Partners**](design-md/munro-partners/) - Design system synced from Refero Styles
-- [**NCDA**](design-md/ncda/) - Design system synced from Refero Styles
-- [**Notion**](design-md/notion-refero/) - Design system synced from Refero Styles
-- [**OFF+BRAND.**](design-md/off-brand/) - Design system synced from Refero Styles
-- [**OFFFICE :**](design-md/offfice/) - Design system synced from Refero Styles
-- [**Officevibe**](design-md/officevibe/) - Design system synced from Refero Styles
-- [**OLIPOP**](design-md/olipop/) - Design system synced from Refero Styles
-- [**ON.energy**](design-md/on-energy/) - Design system synced from Refero Styles
-- [**OpenAI**](design-md/openai/) - Design system synced from Refero Styles
-- [**Operate**](design-md/operate/) - Design system synced from Refero Styles
-- [**Orderful**](design-md/orderful/) - Design system synced from Refero Styles
-- [**Origin Financial**](design-md/origin-financial/) - Design system synced from Refero Styles
-- [**ORYZO AI**](design-md/oryzo-ai/) - Design system synced from Refero Styles
-- [**Outsource Consultants**](design-md/outsource-consultants/) - Design system synced from Refero Styles
-- [**Oxide Computer Company**](design-md/oxide-computer-company/) - Design system synced from Refero Styles
-- [**Pa'lais**](design-md/pa-lais/) - Design system synced from Refero Styles
-- [**Passionfroot**](design-md/passionfroot/) - Design system synced from Refero Styles
-- [**Peak Design**](design-md/peak-design/) - Design system synced from Refero Styles
-- [**Perk**](design-md/perk/) - Design system synced from Refero Styles
-- [**Pirsch Analytics**](design-md/pirsch-analytics/) - Design system synced from Refero Styles
-- [**Playful**](design-md/playful/) - Design system synced from Refero Styles
-- [**Portal**](design-md/portal/) - Design system synced from Refero Styles
-- [**Portrait**](design-md/portrait/) - Design system synced from Refero Styles
-- [**Programa**](design-md/programa/) - Design system synced from Refero Styles
-- [**Raus**](design-md/raus/) - Design system synced from Refero Styles
-- [**Raw Materials**](design-md/raw-materials/) - Design system synced from Refero Styles
-- [**Raycast**](design-md/raycast-refero/) - Design system synced from Refero Styles
-- [**Reflect Notes**](design-md/reflect-notes/) - Design system synced from Refero Styles
-- [**Relate**](design-md/relate/) - Design system synced from Refero Styles
-- [**Render**](design-md/render/) - Design system synced from Refero Styles
-- [**Resend**](design-md/resend-refero/) - Design system synced from Refero Styles
-- [**Revolut**](design-md/revolut-refero/) - Design system synced from Refero Styles
-- [**Sauce Labs**](design-md/sauce-labs/) - Design system synced from Refero Styles
-- [**Savee**](design-md/savee/) - Design system synced from Refero Styles
-- [**Say Briefly**](design-md/say-briefly/) - Design system synced from Refero Styles
-- [**Scheduling**](design-md/scheduling/) - Design system synced from Refero Styles
-- [**Seed**](design-md/seed/) - Design system synced from Refero Styles
-- [**Seline Analytics**](design-md/seline-analytics/) - Design system synced from Refero Styles
-- [**Sequel**](design-md/sequel/) - Design system synced from Refero Styles
-- [**Shares**](design-md/shares/) - Design system synced from Refero Styles
-- [**Shop**](design-md/shop/) - Design system synced from Refero Styles
-- [**Slack**](design-md/slack/) - Design system synced from Refero Styles
-- [**Slash**](design-md/slash/) - Design system synced from Refero Styles
-- [**Slush**](design-md/slush/) - Design system synced from Refero Styles
-- [**Spotify**](design-md/spotify-refero/) - Design system synced from Refero Styles
-- [**Sprout Social**](design-md/sprout-social/) - Design system synced from Refero Styles
-- [**Steep**](design-md/steep/) - Design system synced from Refero Styles
-- [**Stripe**](design-md/stripe-refero/) - Design system synced from Refero Styles
-- [**Structured**](design-md/structured/) - Design system synced from Refero Styles
-- [**Subframe**](design-md/subframe/) - Design system synced from Refero Styles
-- [**Supabase**](design-md/supabase-refero/) - Design system synced from Refero Styles
-- [**Superhuman**](design-md/superhuman-refero/) - Design system synced from Refero Styles
-- [**Superlist**](design-md/superlist/) - Design system synced from Refero Styles
-- [**Superpower**](design-md/superpower/) - Design system synced from Refero Styles
-- [**Superr**](design-md/superr/) - Design system synced from Refero Styles
-- [**Tracky**](design-md/tracky/) - Design system synced from Refero Styles
-- [**TWOMUCH.STUDIO**](design-md/twomuch-studio/) - Design system synced from Refero Styles
-- [**Uber**](design-md/uber-refero/) - Design system synced from Refero Styles
-- [**Ui**](design-md/ui/) - Design system synced from Refero Styles
-- [**v0 by Vercel**](design-md/v0-by-vercel/) - Design system synced from Refero Styles
-- [**Valo**](design-md/valo/) - Design system synced from Refero Styles
-- [**VEED**](design-md/veed/) - Design system synced from Refero Styles
-- [**Ventriloc**](design-md/ventriloc/) - Design system synced from Refero Styles
-- [**Vercel**](design-md/vercel-refero/) - Design system synced from Refero Styles
-- [**Visitors**](design-md/visitors/) - Design system synced from Refero Styles
-- [**Vivid+Co**](design-md/vivid-co/) - Design system synced from Refero Styles
-- [**Voiceflow**](design-md/voiceflow/) - Design system synced from Refero Styles
-- [**Walden**](design-md/walden/) - Design system synced from Refero Styles
-- [**Warp**](design-md/warp-refero/) - Design system synced from Refero Styles
-- [**WHOOP**](design-md/whoop/) - Design system synced from Refero Styles
-- [**Wise**](design-md/wise-refero/) - Design system synced from Refero Styles
-- [**Wise Design**](design-md/wise-design/) - Design system synced from Refero Styles
-- [**WRITER**](design-md/writer/) - Design system synced from Refero Styles
-- [**xAI**](design-md/xai/) - Design system synced from Refero Styles
-- [**Your workplace has the answer. Just ask Dala for it.**](design-md/your-workplace-has-the-answer-just-ask-dala-for-it/) - Design system synced from Refero Styles
+- [**099 SUPPLY**](design-md/099-supply/) - Gallery wall of black-on-white objects
+- [**14islands**](design-md/14islands/) - Monochrome editorial gallery — A pristine gallery wall where oversized black typography and full-bleed photography ex...
+- [**70Materia**](design-md/70materia/) - Architectural sample board on white paper — the UI is the mount, never the artwork.
+- [**Active Theory**](design-md/active-theory/) - cosmic void with a single luminous portal — deep-space command deck where chrome whispers and the rendered world shouts
+- [**Agence Foudre**](design-md/agence-foudre/) - Magazine splash page in lipstick pink.
+- [**AgentQL**](design-md/agentql/) - Aurora glow over a midnight terminal
+- [**AI for Business**](design-md/ai-for-business/) - Brutalist editorial showroom on warm gray
+- [**Air**](design-md/air/) - midnight sky through glass sculpture
+- [**Airbnb**](design-md/airbnb-refero/) - Quiet white gallery wall with one coral-red bookmark
+- [**Altitude**](design-md/altitude/) - midnight financial editorial — a darkened trading floor printed on bone-white serif stock, lit only by thin borders a...
+- [**amp**](design-md/amp/) - warm orange pill on cool white. The design feels like a premium fitness product photographed in a sunlit loft: one ob...
+- [**Amrit Palace**](design-md/amrit-palace/) - spiced parchment gallery — a candlelit beige wall holding sparse saffron punctuation beneath breath-soft serif headli...
+- [**Analogue**](design-md/analogue/) - Black gallery vitrine — products float in void
+- [**Anthropic**](design-md/anthropic/) - scientific field journal on warm parchment — quiet ivory surfaces, editorial serif headlines, and a single clay accen...
+- [**Antimetal**](design-md/antimetal/) - editorial observatory on cream paper — a quiet morning in a research journal where restraint signals confidence and t...
+- [**Apple**](design-md/apple-refero/) - white room with a single blue switch.
+- [**Apple (España)**](design-md/apple-espa-a/) - Cathedral of white space with whispered headlines. A vast pale hall where massive weight-700 type hangs in the air, t...
+- [**Apple (España)**](design-md/apple-espa-a-refero/) - obsidian gallery vitrine — a dark showroom where a single titanium object glows against pure black
+- [**Apple (España)**](design-md/apple-espa-a-refero-a4f123f2/) - Museum gallery in soft daylight — the gallery is a single, immersive, weightless white room where each product is spo...
+- [**Arcade**](design-md/arcade/) - Electric blue ripple on white paper. A clean editorial canvas where a single vivid blue flows like liquid from corner...
+- [**Arsenijs Fabrica**](design-md/arsenijs-fabrica/) - Editorial beauty spread under gallery lights. Pure-white gallery walls, a single warm strobe pulsing orange against t...
+- [**Arva**](design-md/arva/) - Pastoral editorial magazine spread on a cream field
+- [**Attio**](design-md/attio/) - Architectural editorial on white marble
+- [**Augen Pro**](design-md/augen-pro/) - Apple keynote on surgical white — clinical, weightless, electric blue as single accent in monochrome void
+- [**August Health EHR**](design-md/august-health-ehr/) - Warm cream pharmacy with violet ink — a humanist clinical surface that softens healthcare's typical sterility.
+- [**Auros**](design-md/auros/) - Abyssal terminal with bioluminescent data orbs
+- [**Authkit**](design-md/authkit/) - Frosted glass cathedral at midnight
+- [**Awesomic**](design-md/awesomic/) - editorial zinc grid with confetti-orange punctuation.
+- [**Axiom**](design-md/axiom/) - Terminal window at midnight — flat black canvas, monospaced text, and one orange cursor blinking
+- [**Backlight**](design-md/backlight/) - Vermillion stamp on warm vellum — a printed catalog cover where one ink red commands the cream page and everything el...
+- [**BelArosa Chalet**](design-md/belarosa-chalet/) - dusk on alpine vellum
+- [**bella Kitchen Appliances**](design-md/bella-kitchen-appliances/) - Sunlit kitchen counter at golden hour — warm cream surfaces with a single pop of coral.
+- [**Branding**](design-md/branding/) - Black gallery wall, blood-red punctuation — Oversized white display type floats on a void-like dark canvas, interrupt...
+- [**Brex**](design-md/brex/) - White concrete, single ember — a clinical financial instrument where one orange spark does all the talking.
+- [**Cal.com**](design-md/cal-com/) - Monochrome Utility, Human Touch. A system that prioritizes clarity and function with a stark black-and-white palette,...
+- [**Caldera**](design-md/caldera/) - forge fire on warm limestone. The canvas is raw warm plaster, and every orange element reads as glowing embers presse...
+- [**Calendly.com**](design-md/calendly-com/) - Navy ink on cool marble.
+- [**Changelog**](design-md/changelog/) - observatory console behind dark glass.
+- [**ChatGPT**](design-md/chatgpt/) - graphite ink on warm paper
+- [**Ciridae**](design-md/ciridae/) - void chamber with ember pulse — a near-black cathedral where the only warm note is a thin line of ember rust, and eve...
+- [**Claude**](design-md/claude-refero/) - Warm parchment printed artifact — ink on bone paper, clay as the only chromatic breath.
+- [**Clearbit**](design-md/clearbit/) - data observatory on cloud paper — a room-bright, near-acromatic canvas where midnight ink and a single blue current d...
+- [**Clerk**](design-md/clerk/) - Developer dashboard behind frosted violet glass — surfaces feel like a live IDE preview: dark product cards floating...
+- [**ClickUp™**](design-md/clickup/) - Hardworking dashboard on white marble. The page is a product brochure for a productivity tool, so the visual language...
+- [**Compound**](design-md/compound/) - ink-on-paper wealth journal — a quiet editorial system where one font at one weight does all the work, and the only c...
+- [**Convex**](design-md/convex/) - Cream paper engineering notebook
+- [**Cosmos**](design-md/cosmos/) - Linen gallery wall with floating polaroids
+- [**Cursor**](design-md/cursor-refero/) - Warm parchment atelier lit by embers
+- [**Custo**](design-md/custo/) - Gunmetal gallery with monolithic type. A muted gray-green showroom where a single dark object and 57px type do all th...
+- [**Customer.io**](design-md/customer-io/) - dark spruce forest meeting cream paper
+- [**Dash Digital Studio**](design-md/dash-digital-studio/) - Editorial museum on warm paper. A gallery where giant whisper-weight typography floats over off-white walls and full-...
+- [**Default**](design-md/default/) - Mission control behind frosted glass — weight 400 headlines float over matte-black panels lit by thin blue ring-light...
+- [**Dennis Snellenberg**](design-md/dennis-snellenberg/) - Dark editorial canvas with giant quiet headlines
+- [**Depot**](design-md/depot/) - Dark server-rack terminal. A near-black developer console where one green LED signals action and the rest of the UI w...
+- [**Dimension**](design-md/dimension/) - dusk-lit workspace with frosted glass panels
+- [**Discord**](design-md/discord/) - Game world behind a chat bubble — every section is a self-contained environment with its own lighting and cast of cha...
+- [**Ditto**](design-md/ditto/) - Sunlit wildflower compliance atelier. Warm cream surfaces, vivid yellow primary action, deep navy ink, organic color...
+- [**Dock**](design-md/dock/) - Sunlit cream paper, cobalt pulse
+- [**dope.security**](design-md/dope-security/) - Midnight terminal with violet beacons
+- [**Doppler**](design-md/doppler/) - violet-lit vault at midnight. A near-black canvas glows with a single lavender signal and a green confirmation light,...
+- [**Dovetail**](design-md/dovetail/) - blueprint control room at midnight.
+- [**Dovetail**](design-md/dovetail-refero/) - Blueprint grid under a black moon — faint graph lines, white type, one violet spark.
+- [**Dub**](design-md/dub/) - frosted link dashboard on rice paper
+- [**Duolingo**](design-md/duolingo/) - Playful classroom mascot on white paper
+- [**Duolingo**](design-md/duolingo-refero/) - Green playground with thick marker outlines
+- [**Dyotanya**](design-md/dyotanya/) - Editorial sketchbook on warm paper — oversized serif confessions floating between hand-drawn squiggles
+- [**Ease Health**](design-md/ease-health/) - Botanical greenhouse on cream paper
+- [**Eindhoven Design District**](design-md/eindhoven-design-district/) - editorial brutalism on white paper — a municipal design manifesto rendered in oversized type, sparse photographs, and...
+- [**ElevenLabs**](design-md/elevenlabs-refero/) - Warm cream editorial with whispered headlines. A Bauhaus studio notebook — eggshell paper, black ink, a single violet...
+- [**Factory**](design-md/factory/) - Terminal war room at midnight. Factory is a stark black control surface where a single white card lands like a flashl...
+- [**Family**](design-md/family/) - storybook spread on cream parchment
+- [**Fey**](design-md/fey/) - Nocturnal Bloomberg terminal, matte-black with luminous type
+- [**Flighty**](design-md/flighty/) - Control tower at midnight — a luminous control room with glowing screens floating around a single device
+- [**Flowmapp**](design-md/flowmapp/) - White blueprint desk with one blue pen
+- [**Flying Papers**](design-md/flying-papers/) - Saturday morning cartoon confessional
+- [**Foodnoms**](design-md/foodnoms/) - Sunlit fruit market on white porcelain — warm orange, fresh green, and generous rounded forms
+- [**Frame.io**](design-md/frame-io/) - Midnight cinema projection room.
+- [**Framer**](design-md/framer-refero/) - neon gallery in the void
+- [**General Intelligence Company**](design-md/general-intelligence-company/) - Literary journal beside a bonfire
+- [**Geniestudio**](design-md/geniestudio/) - soft daylight notebook — the kind with generous margins and a single bold pen stroke
+- [**Getharvest**](design-md/getharvest/) - Golden hour workbench — warm cream canvas, white floating cards, and one vivid orange flame.
+- [**Ghia**](design-md/ghia/) - Mediterranean sunset on a vintage aperitivo label
+- [**GitHub**](design-md/github/) - cosmic command deck with bioluminescent waypoints — a dark, atmospheric workspace where a single green glow marks the...
+- [**Gleap**](design-md/gleap/) - warm cream-paper workspace with graphite accents — a studio where matte-black ink dots float over linen architecture.
+- [**Grafik**](design-md/grafik/) - Editorial gallery on warm paper. A design annual laid out as a full-bleed screen — typographic grid lines, monochrome...
+- [**Grove AI**](design-md/grove-ai/) - clinical journal in morning light — a single green word anchors a page of measured prose
+- [**Gsap**](design-md/gsap/) - animated chalkboard in a design studio. A near-black wall, warm cream chalk, and five color-coded highlighters — one...
+- [**Handsome Frank**](design-md/handsome-frank/) - Curator's atelier with living murals — a warm-paper gallery where illustrated worlds bloom against indigo frames.
+- [**Harness.io**](design-md/harness-io/) - midnight mission control with phosphor-green accents
+- [**Henry**](design-md/henry/) - Gothic broadside poster on warm cream paper. One hundred percent monochrome, no chromatic accent, all visual intensit...
+- [**Home**](design-md/home/) - editorial broadsheet in a green room
+- [**Huly**](design-md/huly/) - Aurora through a midnight observatory — the hero is a vertical beam of violet melting into coral, and every quiet sec...
+- [**Hungry Tiger**](design-md/hungry-tiger/) - Turmeric-bright graffiti on a tandoor wall. A single gold-on-rust palette with display type so large it reads as a sp...
+- [**Hyer Aviation**](design-md/hyer-aviation/) - Cockpit twilight over parchment. A pale dawn-sky meets a slab-serif logo the size of a fuselage, with one warm clay a...
+- [**Hyperstudio**](design-md/hyperstudio/) - blueprint scratched into obsidian. Type and hairline borders carve white space from pure black, with the occasional g...
+- [**Idle Finance**](design-md/idle-finance/) - Neon deep-sea trading floor — a dark navy terminal where a single cyan signal pierces the gloom.
+- [**Index**](design-md/index/) - Blueprint on a backlit drafting table — the entire interface is a wireframe drawing, with one periwinkle annotation pen.
+- [**Integrated Biosciences**](design-md/integrated-biosciences/) - bioluminescent laboratory at midnight
+- [**Intercom**](design-md/intercom-refero/) - Warm cream editorial spread
+- [**INVERSA**](design-md/inversa/) - topographic field terminal at midnight. A dark command surface where massive editorial type and a single neon-lime ma...
+- [**Karl**](design-md/karl/) - Pop-up storybook diorama on a sunny afternoon
+- [**Ko-fi**](design-md/ko-fi/) - Warm café chalkboard on cream paper.
+- [**Lamborghini.com**](design-md/lamborghini-com/) - Showroom black with one yellow car under spotlights
+- [**LaunchDarkly**](design-md/launchdarkly/) - Neon control room — a dark cockpit where violet signals pulse through charcoal panels.
+- [**Legora**](design-md/legora/) - Editorial law journal on warm cream
+- [**Letter**](design-md/letter/) - Private gallery with iridescent vault artifacts. A black-walled showroom where serif headlines float above chrome scu...
+- [**Letters**](design-md/letters/) - morning clinic under open sky — a sterile white desk beneath a wash of soft blue, dotted with surgical-blue instruments.
+- [**Lightdash**](design-md/lightdash/) - violet pixel-grid on drafting paper
+- [**Linear**](design-md/linear/) - midnight precision instrument
+- [**Lpalo**](design-md/lpalo/) - A children's storybook spread on warm peach paper — one slab-serif headline shouting through scattered crayon doodles.
+- [**Mercury**](design-md/mercury/) - Alpine banking at blue hour
+- [**Metalab**](design-md/metalab/) - black editorial spread — a serif headline breathing in void, annotated by a whisper-quiet grotesque
+- [**Micro**](design-md/micro/) - sunrise over a digital meadow — a calm horizon gradient holding a quiet, ink-on-paper workspace beneath it.
+- [**Midday**](design-md/midday/) - Editorial broadsheet on parchment — a 72px serif headline over warm stone, spaced sans-serif body text, pill-shaped c...
+- [**Midjourney**](design-md/midjourney/) - Deep-ocean bioluminescent terminal. A pressurized darkness where intelligence visibly generates itself in ASCII strea...
+- [**MindMarket**](design-md/mindmarket/) - Warm storybook on cream paper — a friendly editorial canvas where oversized Inter headlines and paper-cut characters...
+- [**Mintlify**](design-md/mintlify-refero/) - Cloud garden over a glass desk. A hand-illustrated sky and a documentation product share the same frame — the only pl...
+- [**Miranda**](design-md/miranda/) - Old-world broadsheet on warm cream — newspaper editorial for the digital age.
+- [**Mobbin**](design-md/mobbin/) - Grayscale specimen board — a printer's proof sheet where typographic weight IS color.
+- [**Modal**](design-md/modal/) - Phosphor terminal in a darkened server room — the vivid green is the only light source.
+- [**Monad**](design-md/monad/) - editorial tech journal on warm parchment
+- [**monday.com**](design-md/monday-com/) - white workshop with pastel sticky notes
+- [**mono**](design-md/mono/) - White-walled gallery grid. A page organized like a museum contact sheet — stark white cells, thin black rules, and ty...
+- [**Monocle**](design-md/monocle/) - Quality broadsheet on cream paper. A curated newsroom where every column earns its keep and the only color on the pag...
+- [**monopo saigon**](design-md/monopo-saigon/) - Liquid iridescence behind editorial silence — a monochrome editorial gallery floating on molten light.
+- [**Munro Partners**](design-md/munro-partners/) - Editorial parchment under alpine light — a warm cream canvas holding generous whitespace, a whisper-weight grotesque,...
+- [**NCDA**](design-md/ncda/) - Architectural monograph in negative space. The NCDA wordmark at 62px is cropped by the viewport edge, turning a logo...
+- [**Notion**](design-md/notion-refero/) - warm paper notebook under afternoon sun
+- [**OFF+BRAND.**](design-md/off-brand/) - Iridescent sphere on warm parchment
+- [**OFFFICE :**](design-md/offfice/) - noir gallery swallowed by monolithic type
+- [**Officevibe**](design-md/officevibe/) - Editorial journal on warm cream paper. Think a thoughtful HR essay rendered as a product — serif italics whispering t...
+- [**OLIPOP**](design-md/olipop/) - Retro apothecary cream and forest teal — a soda fountain menu printed on warm paper.
+- [**ON.energy**](design-md/on-energy/) - High-voltage caution yellow on midnight steel
+- [**OpenAI**](design-md/openai/) - Research lab notebook at noon.
+- [**Operate**](design-md/operate/) - Botanist's data terminal
+- [**Orderful**](design-md/orderful/) - industrial command deck — a logistics dispatcher's printed control sheet in black ink and surgical vermillion, every...
+- [**Origin Financial**](design-md/origin-financial/) - midnight gallery of quiet wealth. A hushed, near-black room where oversized serif whispers and a few luminous color p...
+- [**ORYZO AI**](design-md/oryzo-ai/) - Darkroom product editorial. A lone object floating in warm darkness, cream typography the only decoration.
+- [**Outsource Consultants**](design-md/outsource-consultants/) - Architectural broadsheet on bone paper. A monograph aesthetic where one violent indigo section interrupts an otherwis...
+- [**Oxide Computer Company**](design-md/oxide-computer-company/) - Datacenter rack at midnight with one green LED lit
+- [**Pa'lais**](design-md/pa-lais/) - Botanical sketchbook dipped in honey. The cream paper canvas, blue toile-style line illustrations, and warm color blo...
+- [**Passionfroot**](design-md/passionfroot/) - Twilight cloud library on warm parchment. A serif headline drifts above cream cards lit by a violet-to-coral sky, whe...
+- [**Peak Design**](design-md/peak-design/) - Gallery wall, half lit
+- [**Perk**](design-md/perk/) - electric lime on warm parchment paper
+- [**Pirsch Analytics**](design-md/pirsch-analytics/) - sunlit paper notebook with highlighter swatches
+- [**Playful**](design-md/playful/) - sunlit paper notebook with a hot-pink highlighter. A friendly, editorial product surface printed on warm cream stock,...
+- [**Portal**](design-md/portal/) - twilight serif editorial — a premium indie magazine spread sitting inside a native iOS aesthetic
+- [**Portrait**](design-md/portrait/) - polaroid memory wall on cream paper. A bright, off-white scrapbook where deep-navy ink provides the only text, the on...
+- [**Programa**](design-md/programa/) - Swiss design studio at high noon. A white gallery wall lit by a single yellow desk lamp — everything is grayscale unt...
+- [**Raus**](design-md/raus/) - Warm cabin journal on cream paper — every page a postcard from the woods.
+- [**Raw Materials**](design-md/raw-materials/) - brutalist editorial on warm cream
+- [**Raycast**](design-md/raycast-refero/) - Midnight command center, coral neon
+- [**Reflect Notes**](design-md/reflect-notes/) - starlit violet cosmos — a dark observatory where notes float like constellations against a near-black indigo void.
+- [**Relate**](design-md/relate/) - cool dawn over product canvas
+- [**Render**](design-md/render/) - Blueprint on brushed aluminum. The interface reads as a clean, geometric engineering document — white space, hairline...
+- [**Resend**](design-md/resend-refero/) - black velvet with violet neon
+- [**Revolut**](design-md/revolut-refero/) - Monochrome editorial banking on cloud photography — white ink, pill buttons, one blue ribbon of color in an otherwise...
+- [**Sauce Labs**](design-md/sauce-labs/) - Neon-lit command center on obsidian glass — a dark engineering console where a single green pulse marks every live si...
+- [**Savee**](design-md/savee/) - Black canvas for visual curators
+- [**Say Briefly**](design-md/say-briefly/) - creative agency sketchbook on cream paper
+- [**Scheduling**](design-md/scheduling/) - Editorial ink on cream paper
+- [**Seed**](design-md/seed/) - living organism under laboratory glass
+- [**Seline Analytics**](design-md/seline-analytics/) - Quiet analyst's desk on warm paper
+- [**Sequel**](design-md/sequel/) - Private screening after dark — a single warm lamp in an otherwise unlit cinema.
+- [**Shares**](design-md/shares/) - Ivory terminal with violet pulse — a clinical white workspace where one color marks every deliberate action.
+- [**Shop**](design-md/shop/) - Floating shopping constellation on white marble
+- [**Slack**](design-md/slack/) - Aubergine stage with white spotlights. Deep plum dominates dark sections while a near-white canvas lets oversized Ava...
+- [**Slash**](design-md/slash/) - Midnight vault with gilded ledger lines.
+- [**Slush**](design-md/slush/) - inflatable sticker universe on pastel paper
+- [**Spotify**](design-md/spotify-refero/) - Darkened record store at midnight — every surface recedes so the album art can glow.
+- [**Sprout Social**](design-md/sprout-social/) - Green sprout on black slate. One vivid accent on a stark monochrome canvas, the color rationed to actions only, with...
+- [**Steep**](design-md/steep/) - serif analytics on warm paper
+- [**Stripe**](design-md/stripe-refero/) - indigo-ink ledger on frosted glass
+- [**Structured**](design-md/structured/) - Renaissance gallery on putty paper
+- [**Subframe**](design-md/subframe/) - graphite blueprint on warm vellum. A designer's drafting paper where every mark is either graphite or erasure, never...
+- [**Supabase**](design-md/supabase-refero/) - Midnight code editor with phosphor green caret — a single chromatic pulse on a sea of charcoal.
+- [**Superhuman**](design-md/superhuman-refero/) - golden hour editorial dashboard
+- [**Superlist**](design-md/superlist/) - midnight workspace with coral embers — a quiet aubergine app surface where one warm orange spark signals every action
+- [**Superpower**](design-md/superpower/) - Bioluminescent health command center
+- [**Superr**](design-md/superr/) - Warm schoolyard notebook in soft afternoon light. A cream page, an orange marker uncapped, and a stack of sticker-lam...
+- [**Tracky**](design-md/tracky/) - doodled planner on warm paper
+- [**TWOMUCH.STUDIO**](design-md/twomuch-studio/) - floating museum of curiosities
+- [**Uber**](design-md/uber-refero/) - Black-and-white transit kiosk. Picture a monochrome wayfinding panel where the only color comes from editorial illust...
+- [**Ui**](design-md/ui/) - clinical blueprint on frosted paper
+- [**v0 by Vercel**](design-md/v0-by-vercel/) - A Machinist's Blueprint. Precision and function are paramount, with every element serving a clear purpose on a clean,...
+- [**Valo**](design-md/valo/) - noir observatory at midnight — weight-300 typography floats on pure black while a single teal-violet gradient passes...
+- [**VEED**](design-md/veed/) - white gallery wall with neon-green ignition buttons
+- [**Ventriloc**](design-md/ventriloc/) - Editorial data observatory on warm paper — a single orange ember punctuating monochrome precision.
+- [**Vercel**](design-md/vercel-refero/) - Typeset terminal on white paper
+- [**Visitors**](design-md/visitors/) - white engineering blueprint
+- [**Vivid+Co**](design-md/vivid-co/) - prismatic light through obsidian
+- [**Voiceflow**](design-md/voiceflow/) - editorial whiteboard under daylight — serif whispers, pill controls glow blue.
+- [**Walden**](design-md/walden/) - A still forest floor — every product is a stone, every pixel is moss and silence.
+- [**Warp**](design-md/warp-refero/) - obsidian command center — a developer's IDE cockpit where the only glow is a single violet phosphor on matte black, a...
+- [**WHOOP**](design-md/whoop/) - Performance laboratory at midnight — clinical white lab benches beneath a black theatrical void, one violet pulse of...
+- [**Wise**](design-md/wise-refero/) - deep moss with lime voltage. Lime sparks on a near-black forest floor, with massive blocky display type announcing ev...
+- [**Wise Design**](design-md/wise-design/) - Neon market stall on a global street — electric lime signage that shouts across a crowded marketplace, then polished...
+- [**WRITER**](design-md/writer/) - editorial AI atelier — a white marble newsroom where pill-shaped controls and a single violet accent turn enterprise...
+- [**xAI**](design-md/xai/) - warm cream laboratory with a black pill
+- [**Your workplace has the answer. Just ask Dala for it.**](design-md/your-workplace-has-the-answer-just-ask-dala-for-it/) - constellation floating on black velvet
 <!-- refero-styles:end -->
 
 ## Contributing

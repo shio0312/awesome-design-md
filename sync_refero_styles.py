@@ -286,7 +286,8 @@ def resolve_folder(style: dict, sites: list[dict]) -> str:
 
 def describe(style: dict) -> str:
     """sites.yaml / README 用の1行説明"""
-    north_star = (style.get("northStar") or "").strip().replace("\n", " ")
+    ds = (style.get("fullResult") or {}).get("designSystem") or {}
+    north_star = (style.get("northStar") or ds.get("northStar") or "").strip().replace("\n", " ")
     if len(north_star) > 120:
         north_star = north_star[:117].rstrip() + "..."
     return north_star or "Design system synced from Refero Styles"

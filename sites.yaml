@@ -597,7 +597,7 @@ sites:
   folder: apple-refero
   url: https://www.apple.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: white room with a single blue switch.
   auto_update: false
   source: refero-styles
   refero_id: aecac5da-f397-4ddf-b71f-de1efc434cb8
@@ -605,7 +605,7 @@ sites:
   folder: getharvest
   url: https://www.getharvest.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Golden hour workbench — warm cream canvas, white floating cards, and one vivid orange flame.
   auto_update: false
   source: refero-styles
   refero_id: 1eee9aa2-1e23-4675-9f6e-fb98c93969bd
@@ -613,7 +613,7 @@ sites:
   folder: ui
   url: https://ui.shadcn.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: clinical blueprint on frosted paper
   auto_update: false
   source: refero-styles
   refero_id: 0fd67ec5-7e9c-4ca9-b368-5d9c7388477a
@@ -621,7 +621,7 @@ sites:
   folder: your-workplace-has-the-answer-just-ask-dala-for-it
   url: https://dala.craftedbygc.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: constellation floating on black velvet
   auto_update: false
   source: refero-styles
   refero_id: e5f5f8cf-e68d-4ed1-bbf5-6b67569af648
@@ -629,7 +629,8 @@ sites:
   folder: origin-financial
   url: https://www.useorigin.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: midnight gallery of quiet wealth. A hushed, near-black room where oversized serif whispers and a few luminous
+    color p...
   auto_update: false
   source: refero-styles
   refero_id: c60f05ff-2420-4a24-92db-80c4b6a74683
@@ -637,7 +638,7 @@ sites:
   folder: superr
   url: https://www.superr.ai
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Warm schoolyard notebook in soft afternoon light. A cream page, an orange marker uncapped, and a stack of sticker-lam...
   auto_update: false
   source: refero-styles
   refero_id: cfd0fec1-f25a-4b9b-9bd0-d5b66960f2f2
@@ -645,7 +646,7 @@ sites:
   folder: home
   url: https://www.newformcap.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: editorial broadsheet in a green room
   auto_update: false
   source: refero-styles
   refero_id: 1a519123-071a-449f-b5df-0def73ed7f35
@@ -653,7 +654,7 @@ sites:
   folder: linear
   url: https://linear.app
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: midnight precision instrument
   auto_update: false
   source: refero-styles
   refero_id: 90ce5883-bb24-4466-93f7-801cd617b0d1
@@ -661,7 +662,7 @@ sites:
   folder: notion-refero
   url: https://notion.so
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: warm paper notebook under afternoon sun
   auto_update: false
   source: refero-styles
   refero_id: 2bf4c61f-de10-4614-ba1b-20c0453bd2a9
@@ -669,7 +670,7 @@ sites:
   folder: harness-io
   url: https://gitness.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: midnight mission control with phosphor-green accents
   auto_update: false
   source: refero-styles
   refero_id: 6f3652cf-583f-411d-a117-3a03f6342917
@@ -677,7 +678,8 @@ sites:
   folder: caldera
   url: https://caldera.xyz
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: forge fire on warm limestone. The canvas is raw warm plaster, and every orange element reads as glowing embers
+    presse...
   auto_update: false
   source: refero-styles
   refero_id: fe8cdcf9-c850-4d52-be07-5ad269bf9ebf
@@ -685,7 +687,7 @@ sites:
   folder: slush
   url: https://slush.app
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: inflatable sticker universe on pastel paper
   auto_update: false
   source: refero-styles
   refero_id: 8b6b547f-a357-4f1b-9842-4579c62dd42b
@@ -693,7 +695,7 @@ sites:
   folder: miranda
   url: https://www.niccolomiranda.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Old-world broadsheet on warm cream — newspaper editorial for the digital age.
   auto_update: false
   source: refero-styles
   refero_id: 3f6e3076-e77f-487e-b212-3b5946a34e87
@@ -701,7 +703,7 @@ sites:
   folder: awesomic
   url: https://www.awesomic.io
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: editorial zinc grid with confetti-orange punctuation.
   auto_update: false
   source: refero-styles
   refero_id: 8512e28d-5385-4c20-a336-214568c4370c
@@ -709,7 +711,7 @@ sites:
   folder: xai
   url: https://x.ai
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: warm cream laboratory with a black pill
   auto_update: false
   source: refero-styles
   refero_id: 3b83dfe4-2f53-4a4d-819d-e6045ca5f7dc
@@ -717,7 +719,7 @@ sites:
   folder: mercury
   url: https://mercury.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Alpine banking at blue hour
   auto_update: false
   source: refero-styles
   refero_id: 3172cd4d-118a-4a16-a259-6b634d32322e
@@ -725,7 +727,7 @@ sites:
   folder: dub
   url: https://dub.co
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: frosted link dashboard on rice paper
   auto_update: false
   source: refero-styles
   refero_id: b0d80806-b724-4ed1-a1d1-074edd3c9bc9
@@ -733,7 +735,7 @@ sites:
   folder: authkit
   url: https://authkit.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Frosted glass cathedral at midnight
   auto_update: false
   source: refero-styles
   refero_id: e80231a2-e4d6-406a-a2c9-2e6109679690
@@ -741,7 +743,8 @@ sites:
   folder: revolut-refero
   url: https://revolut.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Monochrome editorial banking on cloud photography — white ink, pill buttons, one blue ribbon of color in an
+    otherwise...
   auto_update: false
   source: refero-styles
   refero_id: a3161c3c-26d4-425b-aaa3-4fc3f06b77ee
@@ -749,7 +752,8 @@ sites:
   folder: apple-espa-a
   url: https://www.apple.com/macbook-neo
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Cathedral of white space with whispered headlines. A vast pale hall where massive weight-700 type hangs in
+    the air, t...
   auto_update: false
   source: refero-styles
   refero_id: c9cabb96-32fa-4896-837a-f2497ce1c856
@@ -757,7 +761,8 @@ sites:
   folder: sauce-labs
   url: https://saucelabs.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Neon-lit command center on obsidian glass — a dark engineering console where a single green pulse marks every
+    live si...
   auto_update: false
   source: refero-styles
   refero_id: d271a6c4-942f-4abf-a3de-66795f15f031
@@ -765,7 +770,8 @@ sites:
   folder: default
   url: https://www.default.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Mission control behind frosted glass — weight 400 headlines float over matte-black panels lit by thin blue
+    ring-light...
   auto_update: false
   source: refero-styles
   refero_id: eeeb6ac9-fc07-4965-935a-e1989ed831f1
@@ -773,7 +779,7 @@ sites:
   folder: auros
   url: https://auros.global
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Abyssal terminal with bioluminescent data orbs
   auto_update: false
   source: refero-styles
   refero_id: 21cfe0c1-778d-4613-9f47-a5718eb929b3
@@ -781,7 +787,7 @@ sites:
   folder: seline-analytics
   url: https://seline.so
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Quiet analyst's desk on warm paper
   auto_update: false
   source: refero-styles
   refero_id: 7967c6d9-e50c-42b5-b4d1-74003ba41781
@@ -789,7 +795,7 @@ sites:
   folder: steep
   url: https://steep.app
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: serif analytics on warm paper
   auto_update: false
   source: refero-styles
   refero_id: 75fdb89f-ca64-41b3-af36-7a78bd09448e
@@ -797,7 +803,7 @@ sites:
   folder: launchdarkly
   url: https://launchdarkly.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Neon control room — a dark cockpit where violet signals pulse through charcoal panels.
   auto_update: false
   source: refero-styles
   refero_id: 18a75348-513a-49d8-94f5-e2df8c118b6b
@@ -805,7 +811,7 @@ sites:
   folder: ventriloc
   url: https://ventriloc.ca/en
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Editorial data observatory on warm paper — a single orange ember punctuating monochrome precision.
   auto_update: false
   source: refero-styles
   refero_id: f99aca3e-5289-4595-a7cc-77a72052f4b8
@@ -813,7 +819,7 @@ sites:
   folder: calendly-com
   url: https://calendly.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Navy ink on cool marble.
   auto_update: false
   source: refero-styles
   refero_id: 9946887b-ffa9-4276-af81-ae6352795afb
@@ -821,7 +827,8 @@ sites:
   folder: playful
   url: https://playful.software
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: sunlit paper notebook with a hot-pink highlighter. A friendly, editorial product surface printed on warm cream
+    stock,...
   auto_update: false
   source: refero-styles
   refero_id: f93ac72e-73b2-4b2c-80eb-351ddfa56f4d
@@ -829,7 +836,8 @@ sites:
   folder: anthropic
   url: https://anthropic.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: scientific field journal on warm parchment — quiet ivory surfaces, editorial serif headlines, and a single
+    clay accen...
   auto_update: false
   source: refero-styles
   refero_id: d469cba4-c448-4a43-a033-883f8bfcdc42
@@ -837,7 +845,8 @@ sites:
   folder: wise-refero
   url: https://wise.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: deep moss with lime voltage. Lime sparks on a near-black forest floor, with massive blocky display type announcing
+    ev...
   auto_update: false
   source: refero-styles
   refero_id: 367c0c6e-73a7-441c-a8ff-91d139ac60dc
@@ -845,7 +854,8 @@ sites:
   folder: elevenlabs-refero
   url: https://elevenlabs.io
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Warm cream editorial with whispered headlines. A Bauhaus studio notebook — eggshell paper, black ink, a single
+    violet...
   auto_update: false
   source: refero-styles
   refero_id: 031056ff-7af1-46db-8daa-115f731c5d26
@@ -853,7 +863,7 @@ sites:
   folder: dimension
   url: https://www.dimension.dev
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: dusk-lit workspace with frosted glass panels
   auto_update: false
   source: refero-styles
   refero_id: fbcf9cbb-7c6b-449d-862a-bce521a8ab1d
@@ -861,7 +871,7 @@ sites:
   folder: supabase-refero
   url: https://supabase.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Midnight code editor with phosphor green caret — a single chromatic pulse on a sea of charcoal.
   auto_update: false
   source: refero-styles
   refero_id: 632249f1-fd78-4c77-9b34-7bae37ff3e9b
@@ -869,7 +879,7 @@ sites:
   folder: oryzo-ai
   url: https://oryzo.ai
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Darkroom product editorial. A lone object floating in warm darkness, cream typography the only decoration.
   auto_update: false
   source: refero-styles
   refero_id: 1f204e95-454a-437e-845b-c1b169d35607
@@ -877,7 +887,8 @@ sites:
   folder: passionfroot
   url: https://www.passionfroot.me
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Twilight cloud library on warm parchment. A serif headline drifts above cream cards lit by a violet-to-coral
+    sky, whe...
   auto_update: false
   source: refero-styles
   refero_id: aaaa705d-3042-4355-ad30-13360f04e403
@@ -885,7 +896,8 @@ sites:
   folder: programa
   url: https://programa.design
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Swiss design studio at high noon. A white gallery wall lit by a single yellow desk lamp — everything is grayscale
+    unt...
   auto_update: false
   source: refero-styles
   refero_id: 41af8353-6a8f-416d-947b-57932f591497
@@ -893,7 +905,7 @@ sites:
   folder: ai-for-business
   url: https://www.dayos.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Brutalist editorial showroom on warm gray
   auto_update: false
   source: refero-styles
   refero_id: ee403055-480e-4bd4-9216-07c9ae2dde2e
@@ -901,7 +913,8 @@ sites:
   folder: clickup
   url: https://www.clickup.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Hardworking dashboard on white marble. The page is a product brochure for a productivity tool, so the visual
+    language...
   auto_update: false
   source: refero-styles
   refero_id: efcb73cb-b84a-4ae7-9a2b-e1116f79f130
@@ -909,7 +922,8 @@ sites:
   folder: branding
   url: https://www.svz.io
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Black gallery wall, blood-red punctuation — Oversized white display type floats on a void-like dark canvas,
+    interrupt...
   auto_update: false
   source: refero-styles
   refero_id: 4d4772a3-e1da-415f-a6d7-658dcefdcecd
@@ -917,7 +931,7 @@ sites:
   folder: karl
   url: https://karlgonsalves.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Pop-up storybook diorama on a sunny afternoon
   auto_update: false
   source: refero-styles
   refero_id: dd8b7191-a992-4dab-88f8-f67e8819b461
@@ -925,7 +939,7 @@ sites:
   folder: dope-security
   url: https://dope.security
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Midnight terminal with violet beacons
   auto_update: false
   source: refero-styles
   refero_id: e1f18a7e-5af1-46b3-8f89-bce6c78b80d4
@@ -933,7 +947,7 @@ sites:
   folder: duolingo
   url: https://duolingo.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Playful classroom mascot on white paper
   auto_update: false
   source: refero-styles
   refero_id: 7088d695-362b-4e09-b325-fa8136d4f350
@@ -941,7 +955,8 @@ sites:
   folder: hyperstudio
   url: https://hyperstudio.org
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: blueprint scratched into obsidian. Type and hairline borders carve white space from pure black, with the occasional
+    g...
   auto_update: false
   source: refero-styles
   refero_id: 8eb9c53e-d69c-497a-b640-610856cf3a60
@@ -949,7 +964,7 @@ sites:
   folder: say-briefly
   url: https://saybriefly.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: creative agency sketchbook on cream paper
   auto_update: false
   source: refero-styles
   refero_id: 8b91f4c9-74e5-4925-90a3-3dd31fd5725e
@@ -957,7 +972,7 @@ sites:
   folder: vivid-co
   url: https://vividand.co
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: prismatic light through obsidian
   auto_update: false
   source: refero-styles
   refero_id: 8875b14e-c59a-492f-8780-8027a480f21c
@@ -965,7 +980,8 @@ sites:
   folder: arsenijs-fabrica
   url: https://www.arsenijsfabrica.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Editorial beauty spread under gallery lights. Pure-white gallery walls, a single warm strobe pulsing orange
+    against t...
   auto_update: false
   source: refero-styles
   refero_id: eb3bf6c1-a18f-4d72-801e-50c2cdbbaa21
@@ -973,7 +989,7 @@ sites:
   folder: arva
   url: https://arva.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Pastoral editorial magazine spread on a cream field
   auto_update: false
   source: refero-styles
   refero_id: 15846be3-8df8-42e4-a05c-d9395dcec369
@@ -981,7 +997,8 @@ sites:
   folder: wise-design
   url: https://wise.design
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Neon market stall on a global street — electric lime signage that shouts across a crowded marketplace, then
+    polished...
   auto_update: false
   source: refero-styles
   refero_id: c5326639-873a-4257-ad1a-7da9111e9286
@@ -989,7 +1006,8 @@ sites:
   folder: orderful
   url: https://www.orderful.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: industrial command deck — a logistics dispatcher's printed control sheet in black ink and surgical vermillion,
+    every...
   auto_update: false
   source: refero-styles
   refero_id: d95a35c2-d3f7-49e7-9ba7-282d52d3211d
@@ -997,7 +1015,8 @@ sites:
   folder: hyer-aviation
   url: https://www.flyhyer.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Cockpit twilight over parchment. A pale dawn-sky meets a slab-serif logo the size of a fuselage, with one warm
+    clay a...
   auto_update: false
   source: refero-styles
   refero_id: f61cf515-ccd5-4494-bdd1-be9fe4d7258c
@@ -1005,7 +1024,7 @@ sites:
   folder: integrated-biosciences
   url: https://integratedbiosciences.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: bioluminescent laboratory at midnight
   auto_update: false
   source: refero-styles
   refero_id: 80099f79-72b7-4367-b2e9-6a3d4a3e9e6a
@@ -1013,7 +1032,7 @@ sites:
   folder: stripe-refero
   url: https://stripe.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: indigo-ink ledger on frosted glass
   auto_update: false
   source: refero-styles
   refero_id: 48e5de76-05d5-4c4e-a269-c7c245b291ec
@@ -1021,7 +1040,7 @@ sites:
   folder: resend-refero
   url: https://resend.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: black velvet with violet neon
   auto_update: false
   source: refero-styles
   refero_id: 0d914ef0-fa84-4c60-a9aa-cef0b5eb6e5d
@@ -1029,7 +1048,7 @@ sites:
   folder: ease-health
   url: https://easehealth.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Botanical greenhouse on cream paper
   auto_update: false
   source: refero-styles
   refero_id: e9f5e976-53f7-42f5-a882-4e63b3c2f734
@@ -1037,7 +1056,7 @@ sites:
   folder: slash
   url: https://www.slash.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Midnight vault with gilded ledger lines.
   auto_update: false
   source: refero-styles
   refero_id: 7c38e84b-aea0-4c8f-b3e9-60b994ee6c6b
@@ -1045,7 +1064,8 @@ sites:
   folder: 14islands
   url: https://14islands.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Monochrome editorial gallery — A pristine gallery wall where oversized black typography and full-bleed photography
+    ex...
   auto_update: false
   source: refero-styles
   refero_id: 139c4bee-396d-494c-baf0-fe211bf4928d
@@ -1053,7 +1073,7 @@ sites:
   folder: peak-design
   url: https://peakdesign.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Gallery wall, half lit
   auto_update: false
   source: refero-styles
   refero_id: 6f3fb64d-d4c9-4ec1-86a1-7983e5180985
@@ -1061,7 +1081,8 @@ sites:
   folder: outsource-consultants
   url: https://oci.madebybuzzworthy.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Architectural broadsheet on bone paper. A monograph aesthetic where one violent indigo section interrupts an
+    otherwis...
   auto_update: false
   source: refero-styles
   refero_id: 16be276a-d8ce-484e-8f7a-cbbb09f717f7
@@ -1069,7 +1090,7 @@ sites:
   folder: general-intelligence-company
   url: https://www.generalintelligencecompany.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Literary journal beside a bonfire
   auto_update: false
   source: refero-styles
   refero_id: 34baa524-5d5b-4165-bbab-d01f05e6d6b9
@@ -1077,7 +1098,7 @@ sites:
   folder: agentql
   url: https://www.agentql.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Aurora glow over a midnight terminal
   auto_update: false
   source: refero-styles
   refero_id: d5307f56-76de-4d13-9741-f969c42e9aa5
@@ -1085,7 +1106,8 @@ sites:
   folder: compound
   url: https://withcompound.com/membership
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: ink-on-paper wealth journal — a quiet editorial system where one font at one weight does all the work, and
+    the only c...
   auto_update: false
   source: refero-styles
   refero_id: cd31ecdb-297a-4fc5-a727-05f835ff917f
@@ -1093,7 +1115,8 @@ sites:
   folder: cal-com
   url: https://cal.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Monochrome Utility, Human Touch. A system that prioritizes clarity and function with a stark black-and-white
+    palette,...
   auto_update: false
   source: refero-styles
   refero_id: 5d7aa503-8cfa-49a4-bd3b-0c2f0f075c70
@@ -1101,7 +1124,7 @@ sites:
   folder: monad
   url: https://www.monad.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: editorial tech journal on warm parchment
   auto_update: false
   source: refero-styles
   refero_id: fc84e9f0-2058-4a0a-8d26-9cc1ba84ec9c
@@ -1109,7 +1132,8 @@ sites:
   folder: factory
   url: https://factory.ai
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Terminal war room at midnight. Factory is a stark black control surface where a single white card lands like
+    a flashl...
   auto_update: false
   source: refero-styles
   refero_id: 13d6fc89-eba2-4724-ac37-20f4f2e5efec
@@ -1117,7 +1141,7 @@ sites:
   folder: visitors
   url: https://visitors.now
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: white engineering blueprint
   auto_update: false
   source: refero-styles
   refero_id: e7876363-181a-44a9-9e5c-2255cf98aea5
@@ -1125,7 +1149,7 @@ sites:
   folder: augen-pro
   url: https://augen.pro
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Apple keynote on surgical white — clinical, weightless, electric blue as single accent in monochrome void
   auto_update: false
   source: refero-styles
   refero_id: 0f7da1b2-9d06-4ef5-b5a8-ef7f92e57ab2
@@ -1133,7 +1157,8 @@ sites:
   folder: uber-refero
   url: https://uber.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Black-and-white transit kiosk. Picture a monochrome wayfinding panel where the only color comes from editorial
+    illust...
   auto_update: false
   source: refero-styles
   refero_id: caf8d2ef-4173-4431-9d26-05be0272e9f8
@@ -1141,7 +1166,7 @@ sites:
   folder: dovetail
   url: https://dovetailapp.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: blueprint control room at midnight.
   auto_update: false
   source: refero-styles
   refero_id: 6f9452a4-3b64-4c6f-a05e-528d7a586f24
@@ -1149,7 +1174,7 @@ sites:
   folder: mindmarket
   url: https://mindmarket.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Warm storybook on cream paper — a friendly editorial canvas where oversized Inter headlines and paper-cut characters...
   auto_update: false
   source: refero-styles
   refero_id: 9130ad37-bf80-458f-b808-ac0ef6a8d1e9
@@ -1157,7 +1182,8 @@ sites:
   folder: clerk
   url: https://clerk.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: 'Developer dashboard behind frosted violet glass — surfaces feel like a live IDE preview: dark product cards
+    floating...'
   auto_update: false
   source: refero-styles
   refero_id: ed10ae04-24ec-4e42-9bf2-ea12a4b58d67
@@ -1165,7 +1191,8 @@ sites:
   folder: huly
   url: https://huly.io
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Aurora through a midnight observatory — the hero is a vertical beam of violet melting into coral, and every
+    quiet sec...
   auto_update: false
   source: refero-styles
   refero_id: d018e81d-6bb6-4445-86d7-39fd6be7e74d
@@ -1173,7 +1200,7 @@ sites:
   folder: idle-finance
   url: https://idle.finance
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Neon deep-sea trading floor — a dark navy terminal where a single cyan signal pierces the gloom.
   auto_update: false
   source: refero-styles
   refero_id: 11fed738-a5b5-4509-b4e2-3295ceab3604
@@ -1181,7 +1208,8 @@ sites:
   folder: warp-refero
   url: https://warp.dev
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: obsidian command center — a developer's IDE cockpit where the only glow is a single violet phosphor on matte
+    black, a...
   auto_update: false
   source: refero-styles
   refero_id: d4c51049-58eb-404a-9fcb-f195928b1c99
@@ -1189,7 +1217,7 @@ sites:
   folder: shop
   url: https://shop.app
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Floating shopping constellation on white marble
   auto_update: false
   source: refero-styles
   refero_id: 4fa67bd1-f01d-454a-b522-4a0359ff9815
@@ -1197,7 +1225,7 @@ sites:
   folder: veed
   url: https://www.veed.io
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: white gallery wall with neon-green ignition buttons
   auto_update: false
   source: refero-styles
   refero_id: fff821ec-a3bf-41a5-aea2-626185bcd227
@@ -1205,7 +1233,7 @@ sites:
   folder: dennis-snellenberg
   url: https://dennissnellenberg.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Dark editorial canvas with giant quiet headlines
   auto_update: false
   source: refero-styles
   refero_id: 28e8e762-8d8c-4e88-84ed-858f9917cb58
@@ -1213,7 +1241,8 @@ sites:
   folder: depot
   url: https://depot.dev
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Dark server-rack terminal. A near-black developer console where one green LED signals action and the rest of
+    the UI w...
   auto_update: false
   source: refero-styles
   refero_id: f4636c5b-1342-48b2-b9b1-a82e2182440e
@@ -1221,7 +1250,7 @@ sites:
   folder: tracky
   url: https://tracky.so
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: doodled planner on warm paper
   auto_update: false
   source: refero-styles
   refero_id: 34788d94-1147-4d38-8df7-6f47ef7efb12
@@ -1229,7 +1258,7 @@ sites:
   folder: cursor-refero
   url: https://cursor.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Warm parchment atelier lit by embers
   auto_update: false
   source: refero-styles
   refero_id: 4e3b4717-84c8-4599-baaf-a343c3d619b6
@@ -1237,7 +1266,8 @@ sites:
   folder: officevibe
   url: https://officevibe.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Editorial journal on warm cream paper. Think a thoughtful HR essay rendered as a product — serif italics whispering
+    t...
   auto_update: false
   source: refero-styles
   refero_id: ced1c98f-d489-48f7-a01f-1fa59a07b706
@@ -1245,7 +1275,8 @@ sites:
   folder: dash-digital-studio
   url: https://dashdigital.studio
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Editorial museum on warm paper. A gallery where giant whisper-weight typography floats over off-white walls
+    and full-...
   auto_update: false
   source: refero-styles
   refero_id: 6036b661-3886-4f76-a5e6-bb8960eb7db5
@@ -1253,7 +1284,8 @@ sites:
   folder: ditto
   url: https://trustditto.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Sunlit wildflower compliance atelier. Warm cream surfaces, vivid yellow primary action, deep navy ink, organic
+    color...
   auto_update: false
   source: refero-styles
   refero_id: e9001d5a-504d-47ed-aef0-d0d35fa86418
@@ -1261,7 +1293,8 @@ sites:
   folder: github
   url: https://github.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: cosmic command deck with bioluminescent waypoints — a dark, atmospheric workspace where a single green glow
+    marks the...
   auto_update: false
   source: refero-styles
   refero_id: c3ceca5c-d329-4559-b947-016172941ba2
@@ -1269,7 +1302,7 @@ sites:
   folder: dock
   url: https://dock.us
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Sunlit cream paper, cobalt pulse
   auto_update: false
   source: refero-styles
   refero_id: d7fb1721-1878-4cbb-a24b-051800557c75
@@ -1277,7 +1310,7 @@ sites:
   folder: ghia
   url: https://drinkghia.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Mediterranean sunset on a vintage aperitivo label
   auto_update: false
   source: refero-styles
   refero_id: 156462ab-7b11-4029-be45-c2dba853e894
@@ -1285,7 +1318,7 @@ sites:
   folder: lamborghini-com
   url: https://lamborghini.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Showroom black with one yellow car under spotlights
   auto_update: false
   source: refero-styles
   refero_id: c9c5be5a-aaa1-4338-9681-8378d2e24fbd
@@ -1293,7 +1326,7 @@ sites:
   folder: august-health-ehr
   url: https://www.augusthealth.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Warm cream pharmacy with violet ink — a humanist clinical surface that softens healthcare's typical sterility.
   auto_update: false
   source: refero-styles
   refero_id: 81bd6ad6-b02b-4fb3-a600-91ecf8324171
@@ -1301,7 +1334,7 @@ sites:
   folder: brex
   url: https://brex.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: White concrete, single ember — a clinical financial instrument where one orange spark does all the talking.
   auto_update: false
   source: refero-styles
   refero_id: b58d92f6-68a8-4358-8fc9-6ea58e6d483b
@@ -1309,7 +1342,8 @@ sites:
   folder: inversa
   url: https://inversa.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: topographic field terminal at midnight. A dark command surface where massive editorial type and a single neon-lime
+    ma...
   auto_update: false
   source: refero-styles
   refero_id: 8a6dc9c8-7892-4eab-baaa-3c342d5671f2
@@ -1317,7 +1351,8 @@ sites:
   folder: amrit-palace
   url: https://amritpalace.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: spiced parchment gallery — a candlelit beige wall holding sparse saffron punctuation beneath breath-soft serif
+    headli...
   auto_update: false
   source: refero-styles
   refero_id: b753dfda-cbe1-41e4-b341-b98d69c8422f
@@ -1325,7 +1360,7 @@ sites:
   folder: legora
   url: https://legora.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Editorial law journal on warm cream
   auto_update: false
   source: refero-styles
   refero_id: f89bad29-019a-48d7-9724-c40a0d7d8171
@@ -1333,7 +1368,7 @@ sites:
   folder: olipop
   url: https://drinkolipop.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Retro apothecary cream and forest teal — a soda fountain menu printed on warm paper.
   auto_update: false
   source: refero-styles
   refero_id: c6ec55c7-0bd9-47c5-a4d2-669b7790c9cc
@@ -1341,7 +1376,8 @@ sites:
   folder: active-theory
   url: https://activetheory.net
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: cosmic void with a single luminous portal — deep-space command deck where chrome whispers and the rendered
+    world shouts
   auto_update: false
   source: refero-styles
   refero_id: 3416bd14-96bb-4c23-bd01-b2ea178ba5ce
@@ -1349,7 +1385,7 @@ sites:
   folder: monopo-saigon
   url: https://monopo.vn
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Liquid iridescence behind editorial silence — a monochrome editorial gallery floating on molten light.
   auto_update: false
   source: refero-styles
   refero_id: 3e52dd36-6ab1-48c6-bc40-47ef6d33abc2
@@ -1357,7 +1393,7 @@ sites:
   folder: flying-papers
   url: https://www.flyingpapers.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Saturday morning cartoon confessional
   auto_update: false
   source: refero-styles
   refero_id: 7d254296-6817-487a-a58c-4d5eca89cbf3
@@ -1365,7 +1401,8 @@ sites:
   folder: subframe
   url: https://www.subframe.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: graphite blueprint on warm vellum. A designer's drafting paper where every mark is either graphite or erasure,
+    never...
   auto_update: false
   source: refero-styles
   refero_id: c65db621-7faa-45f3-8e30-dc3ef9ffe660
@@ -1373,7 +1410,7 @@ sites:
   folder: modal
   url: https://modal.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Phosphor terminal in a darkened server room — the vivid green is the only light source.
   auto_update: false
   source: refero-styles
   refero_id: 68c15685-5db9-4869-b71d-27240568c9d8
@@ -1381,7 +1418,8 @@ sites:
   folder: lpalo
   url: https://lpalo.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: A children's storybook spread on warm peach paper — one slab-serif headline shouting through scattered crayon
+    doodles.
   auto_update: false
   source: refero-styles
   refero_id: 79b4ebc4-30f6-45b6-b2d2-922e28e05ca9
@@ -1389,7 +1427,8 @@ sites:
   folder: index
   url: https://index.app
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Blueprint on a backlit drafting table — the entire interface is a wireframe drawing, with one periwinkle annotation
+    pen.
   auto_update: false
   source: refero-styles
   refero_id: 7f8c0c07-86e9-4b7c-a042-a7563b169143
@@ -1397,7 +1436,7 @@ sites:
   folder: vercel-refero
   url: https://vercel.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Typeset terminal on white paper
   auto_update: false
   source: refero-styles
   refero_id: f24daf3a-d43f-4dec-85a9-8ac1d5148a03
@@ -1405,7 +1444,8 @@ sites:
   folder: letter
   url: https://letter.co
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Private gallery with iridescent vault artifacts. A black-walled showroom where serif headlines float above
+    chrome scu...
   auto_update: false
   source: refero-styles
   refero_id: bcfc6cb0-1b39-4f3f-a95e-bd7b563b0efc
@@ -1413,7 +1453,7 @@ sites:
   folder: flowmapp
   url: https://flowmapp.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: White blueprint desk with one blue pen
   auto_update: false
   source: refero-styles
   refero_id: caca412f-7fc7-4510-aacc-5664d4f8ce9f
@@ -1421,7 +1461,8 @@ sites:
   folder: clearbit
   url: https://clearbit.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: data observatory on cloud paper — a room-bright, near-acromatic canvas where midnight ink and a single blue
+    current d...
   auto_update: false
   source: refero-styles
   refero_id: 6221ba67-26e7-4657-91b7-efd77cbb1f12
@@ -1429,7 +1470,8 @@ sites:
   folder: pa-lais
   url: https://www.palais.bio
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Botanical sketchbook dipped in honey. The cream paper canvas, blue toile-style line illustrations, and warm
+    color blo...
   auto_update: false
   source: refero-styles
   refero_id: 5ef5e1ff-3cb3-4383-9f66-26474409d9ae
@@ -1437,7 +1479,7 @@ sites:
   folder: claude-refero
   url: https://claude.ai
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Warm parchment printed artifact — ink on bone paper, clay as the only chromatic breath.
   auto_update: false
   source: refero-styles
   refero_id: 47cb86b6-cb2d-41c8-94ba-8607cd7c41cd
@@ -1445,7 +1487,7 @@ sites:
   folder: airbnb-refero
   url: https://www.airbnb.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Quiet white gallery wall with one coral-red bookmark
   auto_update: false
   source: refero-styles
   refero_id: c2325884-4391-4688-85cd-e143f5107517
@@ -1453,7 +1495,8 @@ sites:
   folder: eindhoven-design-district
   url: https://www.eindhovendesigndistrict.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: editorial brutalism on white paper — a municipal design manifesto rendered in oversized type, sparse photographs,
+    and...
   auto_update: false
   source: refero-styles
   refero_id: c90b584e-de5b-4971-9e13-8ab991bd96c0
@@ -1461,7 +1504,7 @@ sites:
   folder: air
   url: https://air.inc
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: midnight sky through glass sculpture
   auto_update: false
   source: refero-styles
   refero_id: d3289fe7-a85e-42d8-96b7-eb7faa62a104
@@ -1469,7 +1512,7 @@ sites:
   folder: monday-com
   url: https://monday.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: white workshop with pastel sticky notes
   auto_update: false
   source: refero-styles
   refero_id: 77ee57e9-9f8e-4ec1-93f7-cc1c4b84307a
@@ -1477,7 +1520,8 @@ sites:
   folder: v0-by-vercel
   url: https://v0.dev
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: A Machinist's Blueprint. Precision and function are paramount, with every element serving a clear purpose on
+    a clean,...
   auto_update: false
   source: refero-styles
   refero_id: 50aa2b8e-4760-4379-a3c1-59b65d8576a7
@@ -1485,7 +1529,7 @@ sites:
   folder: gleap
   url: https://gleap.io
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: warm cream-paper workspace with graphite accents — a studio where matte-black ink dots float over linen architecture.
   auto_update: false
   source: refero-styles
   refero_id: 2eab438d-32cd-40c2-b160-1e4127dac569
@@ -1493,7 +1537,7 @@ sites:
   folder: seed
   url: https://seed.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: living organism under laboratory glass
   auto_update: false
   source: refero-styles
   refero_id: cd723d5a-e7ea-4e4c-a3bb-6cf56e05057a
@@ -1501,7 +1545,7 @@ sites:
   folder: oxide-computer-company
   url: https://oxide.computer
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Datacenter rack at midnight with one green LED lit
   auto_update: false
   source: refero-styles
   refero_id: b721fa94-72e6-49ad-a9bc-bab3d075f19c
@@ -1509,7 +1553,8 @@ sites:
   folder: letters
   url: https://letters.app
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: morning clinic under open sky — a sterile white desk beneath a wash of soft blue, dotted with surgical-blue
+    instruments.
   auto_update: false
   source: refero-styles
   refero_id: 04109c48-f591-4110-9739-622243d4ecc2
@@ -1517,7 +1562,7 @@ sites:
   folder: operate
   url: https://operate.so
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Botanist's data terminal
   auto_update: false
   source: refero-styles
   refero_id: f682f0ea-632d-4d09-bfdf-6a43f5e5a7d8
@@ -1525,7 +1570,7 @@ sites:
   folder: raus
   url: https://www.raus.life
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Warm cabin journal on cream paper — every page a postcard from the woods.
   auto_update: false
   source: refero-styles
   refero_id: d28732de-1b7a-4d37-b7aa-edfa7caf428b
@@ -1533,7 +1578,7 @@ sites:
   folder: apple-espa-a-refero
   url: https://www.apple.com/apple-watch-ultra-3
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: obsidian gallery vitrine — a dark showroom where a single titanium object glows against pure black
   auto_update: false
   source: refero-styles
   refero_id: da7e5084-9e5d-4eb2-bb10-4c2d7733a56e
@@ -1541,7 +1586,8 @@ sites:
   folder: mintlify-refero
   url: https://mintlify.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Cloud garden over a glass desk. A hand-illustrated sky and a documentation product share the same frame — the
+    only pl...
   auto_update: false
   source: refero-styles
   refero_id: 80d7ef36-ed7e-48bb-b558-f772eb40106f
@@ -1549,7 +1595,7 @@ sites:
   folder: superpower
   url: https://superpower.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Bioluminescent health command center
   auto_update: false
   source: refero-styles
   refero_id: 5d34568d-4bdc-445d-a527-c6f5249fa8fb
@@ -1557,7 +1603,7 @@ sites:
   folder: scheduling
   url: https://glossgenius.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Editorial ink on cream paper
   auto_update: false
   source: refero-styles
   refero_id: 7ad5549e-9baa-4fda-ac43-79d568a86b98
@@ -1565,7 +1611,7 @@ sites:
   folder: 70materia
   url: https://70materia.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Architectural sample board on white paper — the UI is the mount, never the artwork.
   auto_update: false
   source: refero-styles
   refero_id: f22a5ad1-2770-48d5-aff4-d1aaf0b789b8
@@ -1573,7 +1619,8 @@ sites:
   folder: whoop
   url: https://whoop.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Performance laboratory at midnight — clinical white lab benches beneath a black theatrical void, one violet
+    pulse of...
   auto_update: false
   source: refero-styles
   refero_id: 05053a60-1964-4154-9d58-ebdf6352ed3a
@@ -1581,7 +1628,7 @@ sites:
   folder: family
   url: https://family.co
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: storybook spread on cream parchment
   auto_update: false
   source: refero-styles
   refero_id: 1bcae895-2245-4d33-aa43-1c1e80719554
@@ -1589,7 +1636,7 @@ sites:
   folder: raycast-refero
   url: https://raycast.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Midnight command center, coral neon
   auto_update: false
   source: refero-styles
   refero_id: 3b6a17f0-3bdf-418c-a95e-0b89e5a8b2f8
@@ -1597,7 +1644,7 @@ sites:
   folder: cosmos
   url: https://cosmos.so
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Linen gallery wall with floating polaroids
   auto_update: false
   source: refero-styles
   refero_id: eb804e3a-1b75-446c-8374-114bbabaf0cd
@@ -1605,7 +1652,7 @@ sites:
   folder: shares
   url: https://shares.io
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Ivory terminal with violet pulse — a clinical white workspace where one color marks every deliberate action.
   auto_update: false
   source: refero-styles
   refero_id: cd293b92-71a3-4cc2-a56b-0fa60425b42a
@@ -1613,7 +1660,8 @@ sites:
   folder: hungry-tiger
   url: https://www.eathungrytiger.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Turmeric-bright graffiti on a tandoor wall. A single gold-on-rust palette with display type so large it reads
+    as a sp...
   auto_update: false
   source: refero-styles
   refero_id: 47f15da7-8905-45b3-bcab-06a4277c6168
@@ -1621,7 +1669,7 @@ sites:
   folder: 099-supply
   url: https://099.supply
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Gallery wall of black-on-white objects
   auto_update: false
   source: refero-styles
   refero_id: e4a7b5f3-f393-4f6d-b4a5-ecf874024bed
@@ -1629,7 +1677,8 @@ sites:
   folder: mono
   url: https://mono.frm.fm/en
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: White-walled gallery grid. A page organized like a museum contact sheet — stark white cells, thin black rules,
+    and ty...
   auto_update: false
   source: refero-styles
   refero_id: 859f6be7-9d2d-4da6-a9b7-baa658172696
@@ -1637,7 +1686,8 @@ sites:
   folder: ncda
   url: https://ncda.biz
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Architectural monograph in negative space. The NCDA wordmark at 62px is cropped by the viewport edge, turning
+    a logo...
   auto_update: false
   source: refero-styles
   refero_id: f654d52c-42de-4f3b-a377-9287b1536ad0
@@ -1645,7 +1695,8 @@ sites:
   folder: custo
   url: https://custo.io
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Gunmetal gallery with monolithic type. A muted gray-green showroom where a single dark object and 57px type
+    do all th...
   auto_update: false
   source: refero-styles
   refero_id: 3ad131ed-b603-49a3-9491-7407db6cb423
@@ -1653,7 +1704,7 @@ sites:
   folder: dovetail-refero
   url: https://dovetail.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Blueprint grid under a black moon — faint graph lines, white type, one violet spark.
   auto_update: false
   source: refero-styles
   refero_id: 108e2695-6970-47d5-b5b0-eea8fc34e048
@@ -1661,7 +1712,8 @@ sites:
   folder: render
   url: https://render.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Blueprint on brushed aluminum. The interface reads as a clean, geometric engineering document — white space,
+    hairline...
   auto_update: false
   source: refero-styles
   refero_id: c14bfde7-6f08-4b54-bd9b-39989d10cfef
@@ -1669,7 +1721,7 @@ sites:
   folder: ko-fi
   url: https://ko-fi.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Warm café chalkboard on cream paper.
   auto_update: false
   source: refero-styles
   refero_id: 35ae81e1-273c-43d7-9bcd-ea186d062c13
@@ -1677,7 +1729,7 @@ sites:
   folder: portal
   url: https://useportal.net
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: twilight serif editorial — a premium indie magazine spread sitting inside a native iOS aesthetic
   auto_update: false
   source: refero-styles
   refero_id: b9aeb945-2f6e-4557-9115-e3ff3a8f8dc8
@@ -1685,7 +1737,8 @@ sites:
   folder: valo
   url: https://www.valohealth.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: noir observatory at midnight — weight-300 typography floats on pure black while a single teal-violet gradient
+    passes...
   auto_update: false
   source: refero-styles
   refero_id: f65c3888-2eb3-41a1-87b3-f410b667097e
@@ -1693,7 +1746,7 @@ sites:
   folder: twomuch-studio
   url: https://twomuch.studio
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: floating museum of curiosities
   auto_update: false
   source: refero-styles
   refero_id: 12b3e1b6-31b9-4843-9b3b-8f39c9dd1474
@@ -1701,7 +1754,7 @@ sites:
   folder: raw-materials
   url: https://therawmaterials.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: brutalist editorial on warm cream
   auto_update: false
   source: refero-styles
   refero_id: 274e85fb-a34d-4e41-9369-be03065b971b
@@ -1709,7 +1762,7 @@ sites:
   folder: structured
   url: https://structured.money
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Renaissance gallery on putty paper
   auto_update: false
   source: refero-styles
   refero_id: 6c0b77d3-71f9-469d-98aa-4ce1d6d76ac8
@@ -1717,7 +1770,7 @@ sites:
   folder: pirsch-analytics
   url: https://pirsch.io
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: sunlit paper notebook with highlighter swatches
   auto_update: false
   source: refero-styles
   refero_id: e4b9d41a-8165-47dd-818a-5f6810046ea9
@@ -1725,7 +1778,8 @@ sites:
   folder: doppler
   url: https://doppler.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: violet-lit vault at midnight. A near-black canvas glows with a single lavender signal and a green confirmation
+    light,...
   auto_update: false
   source: refero-styles
   refero_id: 10654184-eb92-4b75-a7af-bd92bc6cdc5c
@@ -1733,7 +1787,7 @@ sites:
   folder: off-brand
   url: https://www.itsoffbrand.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Iridescent sphere on warm parchment
   auto_update: false
   source: refero-styles
   refero_id: 6b667ffc-5158-4000-9252-3a107d5161ee
@@ -1741,7 +1795,7 @@ sites:
   folder: dyotanya
   url: https://dyotanya.com/en
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Editorial sketchbook on warm paper — oversized serif confessions floating between hand-drawn squiggles
   auto_update: false
   source: refero-styles
   refero_id: 1b13360a-cdca-4798-969d-57ebb20a3b30
@@ -1749,7 +1803,7 @@ sites:
   folder: fey
   url: https://www.fey.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Nocturnal Bloomberg terminal, matte-black with luminous type
   auto_update: false
   source: refero-styles
   refero_id: a0630421-7b66-48b4-aa14-6194a3b2c2b9
@@ -1757,7 +1811,7 @@ sites:
   folder: intercom-refero
   url: https://intercom.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Warm cream editorial spread
   auto_update: false
   source: refero-styles
   refero_id: 12255b63-e506-4bc1-a4cd-d05487de32f3
@@ -1765,7 +1819,7 @@ sites:
   folder: superhuman-refero
   url: https://superhuman.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: golden hour editorial dashboard
   auto_update: false
   source: refero-styles
   refero_id: 418b374a-be64-44f0-b17e-1d45308c7e62
@@ -1773,7 +1827,8 @@ sites:
   folder: antimetal
   url: https://antimetal.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: editorial observatory on cream paper — a quiet morning in a research journal where restraint signals confidence
+    and t...
   auto_update: false
   source: refero-styles
   refero_id: 9f9a4a4f-1a27-47ca-a65b-68b9850a84e4
@@ -1781,7 +1836,7 @@ sites:
   folder: attio
   url: https://attio.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Architectural editorial on white marble
   auto_update: false
   source: refero-styles
   refero_id: 08c8700c-f278-42bc-812e-f60dc6ce996e
@@ -1789,7 +1844,8 @@ sites:
   folder: discord
   url: https://discord.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Game world behind a chat bubble — every section is a self-contained environment with its own lighting and cast
+    of cha...
   auto_update: false
   source: refero-styles
   refero_id: faec4b0c-cf93-4150-97de-0a8e7eed1840
@@ -1797,7 +1853,7 @@ sites:
   folder: sequel
   url: https://sequel.co
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Private screening after dark — a single warm lamp in an otherwise unlit cinema.
   auto_update: false
   source: refero-styles
   refero_id: 1bd3b2ba-9ad9-44ed-9130-03f9d94de821
@@ -1805,7 +1861,7 @@ sites:
   folder: axiom
   url: https://axiom.co
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Terminal window at midnight — flat black canvas, monospaced text, and one orange cursor blinking
   auto_update: false
   source: refero-styles
   refero_id: c809190a-035c-458d-87ed-4758807dd84e
@@ -1813,7 +1869,7 @@ sites:
   folder: chatgpt
   url: https://chatgpt.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: graphite ink on warm paper
   auto_update: false
   source: refero-styles
   refero_id: 52a007ed-ad1b-46a6-bd44-b76f91df6d0c
@@ -1821,7 +1877,7 @@ sites:
   folder: flighty
   url: https://flighty.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Control tower at midnight — a luminous control room with glowing screens floating around a single device
   auto_update: false
   source: refero-styles
   refero_id: 0d0de64c-1891-4984-9e12-8976e042ce11
@@ -1829,7 +1885,7 @@ sites:
   folder: bella-kitchen-appliances
   url: https://bellakitchenware.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Sunlit kitchen counter at golden hour — warm cream surfaces with a single pop of coral.
   auto_update: false
   source: refero-styles
   refero_id: e327d332-270d-4779-a55c-cd82b8624d2a
@@ -1837,7 +1893,8 @@ sites:
   folder: altitude
   url: https://www.altitude.so
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: midnight financial editorial — a darkened trading floor printed on bone-white serif stock, lit only by thin
+    borders a...
   auto_update: false
   source: refero-styles
   refero_id: 0e971626-ca51-45ba-acf6-35a53c561b2c
@@ -1845,7 +1902,7 @@ sites:
   folder: grove-ai
   url: https://www.grovetrials.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: clinical journal in morning light — a single green word anchors a page of measured prose
   auto_update: false
   source: refero-styles
   refero_id: 7f7d3ff7-7a74-40f1-9098-a946ce53d4d4
@@ -1853,7 +1910,8 @@ sites:
   folder: munro-partners
   url: https://www.munropartners.com.au
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Editorial parchment under alpine light — a warm cream canvas holding generous whitespace, a whisper-weight
+    grotesque,...
   auto_update: false
   source: refero-styles
   refero_id: d2e327b2-1181-4203-82a6-2dc15a72078a
@@ -1861,7 +1919,8 @@ sites:
   folder: ciridae
   url: https://www.ciridae.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: void chamber with ember pulse — a near-black cathedral where the only warm note is a thin line of ember rust,
+    and eve...
   auto_update: false
   source: refero-styles
   refero_id: a1b78a21-a304-482b-8ce5-f612d95d44fe
@@ -1869,7 +1928,7 @@ sites:
   folder: walden
   url: https://walden.us
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: A still forest floor — every product is a stone, every pixel is moss and silence.
   auto_update: false
   source: refero-styles
   refero_id: 31903c2b-99bf-4fa8-8c92-238858f3563c
@@ -1877,7 +1936,8 @@ sites:
   folder: gsap
   url: https://gsap.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: animated chalkboard in a design studio. A near-black wall, warm cream chalk, and five color-coded highlighters
+    — one...
   auto_update: false
   source: refero-styles
   refero_id: 00537a20-e99e-4ef2-b119-c6f532c44cc9
@@ -1885,7 +1945,7 @@ sites:
   folder: relate
   url: https://www.relate.so
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: cool dawn over product canvas
   auto_update: false
   source: refero-styles
   refero_id: 337ade6a-4bae-49ba-b4aa-8994ac805a81
@@ -1893,7 +1953,7 @@ sites:
   folder: metalab
   url: https://metalab.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: black editorial spread — a serif headline breathing in void, annotated by a whisper-quiet grotesque
   auto_update: false
   source: refero-styles
   refero_id: da087e69-8832-418a-aa1b-42e1acabb39e
@@ -1901,7 +1961,7 @@ sites:
   folder: foodnoms
   url: https://foodnoms.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Sunlit fruit market on white porcelain — warm orange, fresh green, and generous rounded forms
   auto_update: false
   source: refero-styles
   refero_id: 1e7dae3b-cb34-4fcf-8c32-051152aebbab
@@ -1909,7 +1969,7 @@ sites:
   folder: duolingo-refero
   url: https://www.duolingo.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Green playground with thick marker outlines
   auto_update: false
   source: refero-styles
   refero_id: 95b472c5-fc07-46a8-a11f-c5432e290fcd
@@ -1917,7 +1977,8 @@ sites:
   folder: henry
   url: https://henry.codes
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Gothic broadside poster on warm cream paper. One hundred percent monochrome, no chromatic accent, all visual
+    intensit...
   auto_update: false
   source: refero-styles
   refero_id: ff4b9eff-dc0b-4886-bd65-c2f5e9069318
@@ -1925,7 +1986,7 @@ sites:
   folder: offfice
   url: https://offficestud.io
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: noir gallery swallowed by monolithic type
   auto_update: false
   source: refero-styles
   refero_id: 190d4a0b-0353-4fc8-be09-affa6e977146
@@ -1933,7 +1994,8 @@ sites:
   folder: arcade
   url: https://arcade.software
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Electric blue ripple on white paper. A clean editorial canvas where a single vivid blue flows like liquid from
+    corner...
   auto_update: false
   source: refero-styles
   refero_id: f65b0b91-bdd1-458d-8775-2f6fa8a9d4b1
@@ -1941,7 +2003,8 @@ sites:
   folder: monocle
   url: https://monocle.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Quality broadsheet on cream paper. A curated newsroom where every column earns its keep and the only color
+    on the pag...
   auto_update: false
   source: refero-styles
   refero_id: 9165ecb1-f068-4093-8783-1f3c98898b8a
@@ -1949,7 +2012,7 @@ sites:
   folder: on-energy
   url: https://www.on.energy
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: High-voltage caution yellow on midnight steel
   auto_update: false
   source: refero-styles
   refero_id: 31e00a99-6946-4f07-829a-b0904a39a20d
@@ -1957,7 +2020,8 @@ sites:
   folder: slack
   url: https://slack.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Aubergine stage with white spotlights. Deep plum dominates dark sections while a near-white canvas lets oversized
+    Ava...
   auto_update: false
   source: refero-styles
   refero_id: e26cb9b0-f876-41ff-9f24-fd67a6b9776c
@@ -1965,7 +2029,7 @@ sites:
   folder: frame-io
   url: https://frame.io
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Midnight cinema projection room.
   auto_update: false
   source: refero-styles
   refero_id: 30c3aa18-4323-4448-8ddd-3ca933fe5780
@@ -1973,7 +2037,7 @@ sites:
   folder: micro
   url: https://www.micro.so
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: sunrise over a digital meadow — a calm horizon gradient holding a quiet, ink-on-paper workspace beneath it.
   auto_update: false
   source: refero-styles
   refero_id: cc43cfe3-195b-4081-b586-c42db054a466
@@ -1981,7 +2045,7 @@ sites:
   folder: convex
   url: https://convex.dev
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Cream paper engineering notebook
   auto_update: false
   source: refero-styles
   refero_id: f71e92b0-d7a5-4203-b975-394f185218c2
@@ -1989,7 +2053,7 @@ sites:
   folder: customer-io
   url: https://customer.io
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: dark spruce forest meeting cream paper
   auto_update: false
   source: refero-styles
   refero_id: abbaa70a-5fe2-44a9-9c5f-272e68c450c3
@@ -1997,7 +2061,7 @@ sites:
   folder: framer-refero
   url: https://framer.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: neon gallery in the void
   auto_update: false
   source: refero-styles
   refero_id: d417b42f-824d-45ba-a02e-cbef3b8ea0d8
@@ -2005,7 +2069,7 @@ sites:
   folder: geniestudio
   url: https://geniestudio.app
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: soft daylight notebook — the kind with generous margins and a single bold pen stroke
   auto_update: false
   source: refero-styles
   refero_id: 2ffd50d4-93b7-4acf-9bc2-e86e61b63f27
@@ -2013,7 +2077,8 @@ sites:
   folder: sprout-social
   url: https://sproutsocial.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Green sprout on black slate. One vivid accent on a stark monochrome canvas, the color rationed to actions only,
+    with...
   auto_update: false
   source: refero-styles
   refero_id: da7c4464-f135-41fc-b635-99c6f4dc58e6
@@ -2021,7 +2086,8 @@ sites:
   folder: superlist
   url: https://superlist.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: midnight workspace with coral embers — a quiet aubergine app surface where one warm orange spark signals every
+    action
   auto_update: false
   source: refero-styles
   refero_id: 13f27e7a-d84f-4ff9-a030-ae4e2c930757
@@ -2029,7 +2095,7 @@ sites:
   folder: writer
   url: https://writer.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: editorial AI atelier — a white marble newsroom where pill-shaped controls and a single violet accent turn enterprise...
   auto_update: false
   source: refero-styles
   refero_id: ddd9ffaa-d831-4cb4-a5bf-a1efce421dca
@@ -2037,7 +2103,7 @@ sites:
   folder: openai
   url: https://openai.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Research lab notebook at noon.
   auto_update: false
   source: refero-styles
   refero_id: dc541737-8bf2-4b31-b729-0352f696e82f
@@ -2045,7 +2111,8 @@ sites:
   folder: midday
   url: https://midday.ai
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Editorial broadsheet on parchment — a 72px serif headline over warm stone, spaced sans-serif body text, pill-shaped
+    c...
   auto_update: false
   source: refero-styles
   refero_id: 3f2b79c1-d980-4380-a903-29856975fc37
@@ -2053,7 +2120,7 @@ sites:
   folder: spotify-refero
   url: https://www.spotify.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Darkened record store at midnight — every surface recedes so the album art can glow.
   auto_update: false
   source: refero-styles
   refero_id: cc59e195-fed0-4928-96d1-303752786073
@@ -2061,7 +2128,7 @@ sites:
   folder: savee
   url: https://savee.it
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Black canvas for visual curators
   auto_update: false
   source: refero-styles
   refero_id: c6d8490d-e3f2-45c8-aebf-fe5f11daf116
@@ -2069,7 +2136,8 @@ sites:
   folder: portrait
   url: https://portrait.so
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: polaroid memory wall on cream paper. A bright, off-white scrapbook where deep-navy ink provides the only text,
+    the on...
   auto_update: false
   source: refero-styles
   refero_id: 6b51388b-d00f-4b22-8297-68fb9fc00bc7
@@ -2077,7 +2145,7 @@ sites:
   folder: belarosa-chalet
   url: https://www.belarosa-chalet.ch
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: dusk on alpine vellum
   auto_update: false
   source: refero-styles
   refero_id: 46c8dbc5-47c8-4796-b94c-5e46dcda3532
@@ -2085,7 +2153,8 @@ sites:
   folder: reflect-notes
   url: https://reflect.app
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: starlit violet cosmos — a dark observatory where notes float like constellations against a near-black indigo
+    void.
   auto_update: false
   source: refero-styles
   refero_id: e7f92774-3c08-402b-917d-020ba1f3d489
@@ -2093,7 +2162,7 @@ sites:
   folder: lightdash
   url: https://www.lightdash.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: violet pixel-grid on drafting paper
   auto_update: false
   source: refero-styles
   refero_id: d0f65d12-a8e6-4631-99f7-bb7cdcd5b6c5
@@ -2101,7 +2170,8 @@ sites:
   folder: backlight
   url: https://www.backlight.co
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Vermillion stamp on warm vellum — a printed catalog cover where one ink red commands the cream page and everything
+    el...
   auto_update: false
   source: refero-styles
   refero_id: ca9bff3b-d488-46e5-8a32-2d858bb5eed2
@@ -2109,7 +2179,7 @@ sites:
   folder: perk
   url: https://travelperk.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: electric lime on warm parchment paper
   auto_update: false
   source: refero-styles
   refero_id: 75c06591-34d2-493a-bd49-70551b5e4a53
@@ -2117,7 +2187,7 @@ sites:
   folder: analogue
   url: https://analogue.co
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Black gallery vitrine — products float in void
   auto_update: false
   source: refero-styles
   refero_id: 98ab0172-9474-43b5-9055-98cf1a6a2401
@@ -2125,7 +2195,8 @@ sites:
   folder: midjourney
   url: https://midjourney.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Deep-ocean bioluminescent terminal. A pressurized darkness where intelligence visibly generates itself in ASCII
+    strea...
   auto_update: false
   source: refero-styles
   refero_id: 225059ac-0450-49d3-b2b7-d0e98b7ae938
@@ -2133,7 +2204,7 @@ sites:
   folder: changelog
   url: https://linear.app/changelog
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: observatory console behind dark glass.
   auto_update: false
   source: refero-styles
   refero_id: a5cc9b0f-d274-458a-b990-d18482b70838
@@ -2141,7 +2212,7 @@ sites:
   folder: agence-foudre
   url: https://www.agencefoudre.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Magazine splash page in lipstick pink.
   auto_update: false
   source: refero-styles
   refero_id: c1534c74-f7b8-44de-a913-586d0f78fb08
@@ -2149,7 +2220,8 @@ sites:
   folder: amp
   url: https://ampfit.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: 'warm orange pill on cool white. The design feels like a premium fitness product photographed in a sunlit loft:
+    one ob...'
   auto_update: false
   source: refero-styles
   refero_id: 261a4ad3-e835-4f7a-beb7-72187f84d462
@@ -2157,7 +2229,7 @@ sites:
   folder: mobbin
   url: https://mobbin.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Grayscale specimen board — a printer's proof sheet where typographic weight IS color.
   auto_update: false
   source: refero-styles
   refero_id: ef44a995-6745-4dc7-86ab-f7227f108f81
@@ -2165,7 +2237,7 @@ sites:
   folder: voiceflow
   url: https://www.voiceflow.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: editorial whiteboard under daylight — serif whispers, pill controls glow blue.
   auto_update: false
   source: refero-styles
   refero_id: 03b3d707-2a30-4f53-a524-347d1b70eb2c
@@ -2173,7 +2245,8 @@ sites:
   folder: grafik
   url: https://grafik.co.nz
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Editorial gallery on warm paper. A design annual laid out as a full-bleed screen — typographic grid lines,
+    monochrome...
   auto_update: false
   source: refero-styles
   refero_id: 0226e028-3cd3-440d-b469-ca459267161d
@@ -2181,7 +2254,8 @@ sites:
   folder: apple-espa-a-refero-a4f123f2
   url: https://apple.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Museum gallery in soft daylight — the gallery is a single, immersive, weightless white room where each product
+    is spo...
   auto_update: false
   source: refero-styles
   refero_id: a4f123f2-cd4b-4d26-998f-a3d3ee158024
@@ -2189,7 +2263,7 @@ sites:
   folder: handsome-frank
   url: https://www.handsomefrank.com
   category: Refero Styles
-  description: Design system synced from Refero Styles
+  description: Curator's atelier with living murals — a warm-paper gallery where illustrated worlds bloom against indigo frames.
   auto_update: false
   source: refero-styles
   refero_id: 19d4103a-9f4a-49f0-ad7d-af6588bab904
